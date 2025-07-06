@@ -1,5 +1,4 @@
-y _classProbabi
-    LootBoxRandomness.setOptionSettings(state, _option, _maxQuantityPerOpen, _classProbabilities, _guarantees);
+y _clasettings(state, _option, _maxQuantityPerOpen, _classProbabilities, _guarantees);
   }
 
   ///////
