@@ -1,8 +1,5 @@
 
-tate, _classId, _tokenIds);
-  }
-
-  function setOptionSettings(
+tOptionSettings(
     uint256 _option,
     uint256 _maxQuantityPerOpen,
     uint16[] memory _classProbabilities,
