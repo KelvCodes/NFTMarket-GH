@@ -1,5 +1,4 @@
 ,
-    uint256[] memory _tokenIds
   ) public onlyOwner {
       LootBoxRandomness.setTokenIdsForClass(state, _classId, _tokenIds);
   }
