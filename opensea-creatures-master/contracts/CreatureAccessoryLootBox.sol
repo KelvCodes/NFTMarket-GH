@@ -1,5 +1,4 @@
-ls/math/SafeMath.sol";
-import "./ERC1155Tradable.sol";
+sol";
 import "./LootBoxRandomness.sol";
 
 
