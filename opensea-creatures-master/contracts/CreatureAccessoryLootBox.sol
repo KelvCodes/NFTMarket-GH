@@ -1,8 +1,4 @@
 
-    "",
-    _proxyRegistryAddress
-  ) {}
-
   function setState(
     address _factoryAddress,
     uint256 _numOptions,
