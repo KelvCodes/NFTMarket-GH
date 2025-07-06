@@ -1,7 +1,4 @@
-y _clasettings(state, _option, _maxQuantityPerOpen, _classProbabilities, _guarantees);
-  }
 
-  ///////
   // MAIN FUNCTIONS
   //////
 
