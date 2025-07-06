@@ -1,6 +1,4 @@
-essState state;
 
-  /**
    * @dev Example constructor. Sets minimal configuration.
    * @param _proxyRegistryAddress The address of the OpenSea/Wyvern proxy registry
    *                              On Rinkeby: "0xf57b2c51ded3a29e6891aba85459d600256cf317"
