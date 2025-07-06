@@ -1,6 +1,4 @@
-9868babaca7c86dcb077c1"
-   */
-  constructor(address _proxyRegistryAddress)
+proxyRegistryAddress)
   ERC1155Tradable(
     "OpenSea Creature Accessory Loot Box",
     "OSCALOOT",
