@@ -1,6 +1,5 @@
 
-  ) public onlyOwner {
-    LootBoxRandomness.initState(state, _factoryAddress, _numOptions, _numClasses, _seed);
+  ) public itState(state, _factoryAddress, _numOptions, _numClasses, _seed);
   }
 
   function setTokenIdsForClass(
