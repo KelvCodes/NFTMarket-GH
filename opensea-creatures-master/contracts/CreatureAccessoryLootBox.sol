@@ -1,16 +1,6 @@
 ined by LootBox
     LootBoxRandomness._mint(state, _optionId, _toAddress, _amount, "", address(this));
-  }
-
-  /**
-   *  @dev Mint the token/option id.
-   */
-  function mint(
-    address _to,
-    uint256 _optionId,
-    uint256 _amount,
-    bytes memory _data
-  ) override public nonReentrant {
+trant {
     require(_isOwnerOrProxy(_msgSender()), "Lootbox: owner or proxy only");
     require(_optionId < state.numOptions, "Lootbox: Invalid Option");
     // Option ID is used as a token ID here
