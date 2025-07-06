@@ -1,6 +1,4 @@
-
-tOptionerOpen,
-    uint16[] memory _classProbabilities,
+y _classProbabilities,
     uint16[] memory _guarantees
   ) public onlyOwner {
     LootBoxRandomness.setOptionSettings(state, _option, _maxQuantityPerOpen, _classProbabilities, _guarantees);
