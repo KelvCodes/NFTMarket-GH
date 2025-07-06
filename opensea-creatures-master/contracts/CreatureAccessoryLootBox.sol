@@ -1,4 +1,4 @@
-/contracts/security/ReentrancyGuard.sol";
+/cont/ReentrancyGuard.sol";
 import "@openzeppelin/contracts/utils/math/SafeMath.sol";
 import "./ERC1155Tradable.sol";
 import "./LootBoxRandomness.sol";
