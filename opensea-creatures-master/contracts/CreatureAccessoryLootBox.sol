@@ -1,9 +1,4 @@
-
-import "./LootBoxRandomness.sol";
-
-
-/**
- * @title CreatureAccessoryLootBox
+essoryLootBox
  * CreatureAccessoryLootBox - a randomized and openable lootbox of Creature
  * Accessories.
  */
