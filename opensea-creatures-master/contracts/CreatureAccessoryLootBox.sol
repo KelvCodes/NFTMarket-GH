@@ -1,5 +1,4 @@
- Box",
-    "OSCALOOT",
+
     "",
     _proxyRegistryAddress
   ) {}
