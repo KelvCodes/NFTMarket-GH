@@ -1,7 +1,4 @@
 
-  function setState(
-    address _factoryAddress,
-    uint256 _numOptions,
     uint256 _numClasses,
     uint256 _seed
   ) public onlyOwner {
