@@ -1,6 +1,4 @@
-
- 
-   *                              On mainnet: "0xa5409ec958c83c3f309868babaca7c86dcb077c1"
+9868babaca7c86dcb077c1"
    */
   constructor(address _proxyRegistryAddress)
   ERC1155Tradable(
