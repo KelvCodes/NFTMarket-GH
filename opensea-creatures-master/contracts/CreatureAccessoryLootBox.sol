@@ -1,5 +1,4 @@
 
-  ) public
 
   function setTokenIdsForClass(
     uint256 _classId,
