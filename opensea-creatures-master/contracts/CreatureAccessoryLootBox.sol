@@ -1,7 +1,5 @@
 
-tOptionSettings(
-    uint256 _option,
-    uint256 _maxQuantityPerOpen,
+tOptionerOpen,
     uint16[] memory _classProbabilities,
     uint16[] memory _guarantees
   ) public onlyOwner {
