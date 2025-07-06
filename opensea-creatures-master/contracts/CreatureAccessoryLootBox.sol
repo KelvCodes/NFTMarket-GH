@@ -1,5 +1,4 @@
-
-   * @param _proxyRegistryAddress The address of the OpenSea/Wyvern proxy registry
+s of the OpenSea/Wyvern proxy registry
    *                              On Rinkeby: "0xf57b2c51ded3a29e6891aba85459d600256cf317"
    *                              On mainnet: "0xa5409ec958c83c3f309868babaca7c86dcb077c1"
    */
