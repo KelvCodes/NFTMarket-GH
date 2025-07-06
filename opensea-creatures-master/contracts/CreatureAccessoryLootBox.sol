@@ -1,5 +1,5 @@
 
-    uint256 _numClasses,
+    uint256 _es,
     uint256 _seed
   ) public onlyOwner {
     LootBoxRandomness.initState(state, _factoryAddress, _numOptions, _numClasses, _seed);
