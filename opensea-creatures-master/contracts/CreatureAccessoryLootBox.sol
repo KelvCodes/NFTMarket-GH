@@ -1,6 +1,4 @@
-
-
-  LootBoxRandomness.LootBoxRandomnessState state;
+essState state;
 
   /**
    * @dev Example constructor. Sets minimal configuration.
