@@ -1,4 +1,4 @@
-ERC1155Tradable, ReentrancyGuard {
+
   using LootBoxRandomness for LootBoxRandomness.LootBoxRandomnessState;
   using SafeMath for uint256;
 
