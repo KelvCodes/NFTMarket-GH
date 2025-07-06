@@ -1,10 +1,6 @@
 
   // MAIN FUNCTIONS
-  //////
-
-  function unpack(
-    uint256 _optionId,
-    address _toAddress,
+  /////s,
     uint256 _amount
   ) external {
     // This will underflow if _msgSender() does not own enough tokens.
