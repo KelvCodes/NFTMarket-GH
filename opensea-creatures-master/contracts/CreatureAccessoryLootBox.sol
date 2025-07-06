@@ -1,5 +1,5 @@
 
-      LootBoxRandomness.setTokenIdsForClass(state, _classId, _tokenIds);
+tate, _classId, _tokenIds);
   }
 
   function setOptionSettings(
