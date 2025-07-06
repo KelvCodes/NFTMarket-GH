@@ -1,5 +1,4 @@
-
-import "@openzeppelin/contracts/utils/math/SafeMath.sol";
+ls/math/SafeMath.sol";
 import "./ERC1155Tradable.sol";
 import "./LootBoxRandomness.sol";
 
