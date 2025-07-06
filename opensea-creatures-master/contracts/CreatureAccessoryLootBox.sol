@@ -1,11 +1,4 @@
-
-  // MAIN FUNCTIONS
-  /////s,
-    uint256 _amount
-  ) external {
-    // This will underflow if _msgSender() does not own enough tokens.
-    _burn(_msgSender(), _optionId, _amount);
-    // Mint nfts contained by LootBox
+ined by LootBox
     LootBoxRandomness._mint(state, _optionId, _toAddress, _amount, "", address(this));
   }
 
