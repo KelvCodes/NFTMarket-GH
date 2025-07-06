@@ -1,6 +1,5 @@
 
-  ) public itState(state, _factoryAddress, _numOptions, _numClasses, _seed);
-  }
+  ) public
 
   function setTokenIdsForClass(
     uint256 _classId,
