@@ -1,6 +1,4 @@
-y _classProbabilities,
-    uint16[] memory _guarantees
-  ) public onlyOwner {
+y _classProbabi
     LootBoxRandomness.setOptionSettings(state, _option, _maxQuantityPerOpen, _classProbabilities, _guarantees);
   }
 
