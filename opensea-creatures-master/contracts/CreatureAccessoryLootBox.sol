@@ -1,4 +1,4 @@
-omness.LootBoxRandomnessState;
+
   using SafeMath for uint256;
 
   LootBoxRandomness.LootBoxRandomnessState state;
