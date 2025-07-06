@@ -1,5 +1,4 @@
-
-    "OpenSea Creature Accessory Loot Box",
+ Box",
     "OSCALOOT",
     "",
     _proxyRegistryAddress
