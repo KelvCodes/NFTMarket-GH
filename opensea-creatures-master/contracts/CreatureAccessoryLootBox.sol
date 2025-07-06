@@ -1,5 +1,4 @@
-,
-  ) public onlyOwner {
+
       LootBoxRandomness.setTokenIdsForClass(state, _classId, _tokenIds);
   }
 
