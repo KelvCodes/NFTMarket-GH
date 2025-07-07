@@ -1,6 +1,4 @@
 
-        address userAddress,
-        bytes memory functionSignature,
         bytes32 sigR,
         bytes32 sigS,
         uint8 sigV
