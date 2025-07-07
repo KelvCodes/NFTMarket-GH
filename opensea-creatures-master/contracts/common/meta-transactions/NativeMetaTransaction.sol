@@ -1,5 +1,4 @@
 
-    using SafeMath for uint256;
     bytes32 private constant META_TRANSACTION_TYPEHASH = keccak256(
         bytes(
             "MetaTransaction(uint256 nonce,address from,bytes functionSignature)"
