@@ -1,6 +1,4 @@
 
-            "Signer and signature do not match"
-        );
 
         // increase nonce for user (to avoid re-use)
         nonces[userAddress] = nonces[userAddress].add(1);
