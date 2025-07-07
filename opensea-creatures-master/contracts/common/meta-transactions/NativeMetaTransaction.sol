@@ -1,6 +1,4 @@
 
-        MetaTransaction memory metaTx = MetaTransaction({
-            nonce: nonces[userAddress],
             from: userAddress,
             functionSignature: functionSignature
         });
