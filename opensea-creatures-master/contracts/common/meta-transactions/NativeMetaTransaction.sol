@@ -1,6 +1,4 @@
 
-        bytes32 sigR,
-        bytes32 sigS,
         uint8 sigV
     ) public payable returns (bytes memory) {
         MetaTransaction memory metaTx = MetaTransaction({
