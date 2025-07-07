@@ -1,5 +1,4 @@
-
-contract NativeMetaTransaction is EIP712Base {
+ion is EIP712Base {
     using SafeMath for uint256;
     bytes32 private constant META_TRANSACTION_TYPEHASH = keccak256(
         bytes(
