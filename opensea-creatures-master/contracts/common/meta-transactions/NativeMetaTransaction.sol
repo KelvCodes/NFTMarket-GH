@@ -1,4 +1,4 @@
-RANSACTION_TYPEHASH = keccak256(
+
         bytes(
             "MetaTransaction(uint256 nonce,address from,bytes functionSignature)"
         )
