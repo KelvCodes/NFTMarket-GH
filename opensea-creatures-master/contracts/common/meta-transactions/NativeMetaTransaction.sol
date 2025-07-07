@@ -1,6 +1,5 @@
 
-
-        // increase nonce for user (to avoid re-use)
+(to avoid re-use)
         nonces[userAddress] = nonces[userAddress].add(1);
 
         emit MetaTransactionExecuted(
