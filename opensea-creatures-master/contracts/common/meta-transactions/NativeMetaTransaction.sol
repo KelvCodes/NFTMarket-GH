@@ -1,7 +1,4 @@
-ure;
-    }
 
-    function executeMetaTransaction(
         address userAddress,
         bytes memory functionSignature,
         bytes32 sigR,
