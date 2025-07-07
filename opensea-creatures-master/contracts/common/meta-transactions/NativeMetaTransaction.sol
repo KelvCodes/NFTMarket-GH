@@ -1,7 +1,4 @@
 
-        return returnData;
-    }
-
     function hashMetaTransaction(MetaTransaction memory metaTx)
         internal
         pure
