@@ -1,16 +1,4 @@
 
-
-                    keccak256(metaTx.functionSignature)
-                )
-            );
-    }
-
-    function getNonce(address user) public view returns (uint256 nonce) {
-        nonce = nonces[user];
-    }
-
-    function verify(
-        address signer,
         MetaTransaction memory metaTx,
         bytes32 sigR,
         bytes32 sigS,
