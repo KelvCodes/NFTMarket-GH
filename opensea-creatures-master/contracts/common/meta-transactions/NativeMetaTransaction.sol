@@ -1,6 +1,4 @@
 
-        emit MetaTransactionExecuted(
-            userAddress,
             payable(msg.sender),
             functionSignature
         );
