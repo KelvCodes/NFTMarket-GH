@@ -1,8 +1,4 @@
 
-    function hashMetaTransaction(MetaTransaction memory metaTx)
-        internal
-        pure
-        returns (bytes32)
     {
         return
             keccak256(
