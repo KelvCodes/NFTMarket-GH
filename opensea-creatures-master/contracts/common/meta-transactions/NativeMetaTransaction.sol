@@ -1,6 +1,4 @@
 
-            from: userAddress,
-            functionSignature: functionSignature
         });
 
         require(
