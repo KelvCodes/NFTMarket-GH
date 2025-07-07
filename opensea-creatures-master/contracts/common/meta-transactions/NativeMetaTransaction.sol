@@ -1,4 +1,4 @@
-nt256 nonce,address from,bytes functionSignature)"
+ytes functionSignature)"
         )
     );
     event MetaTransactionExecuted(
