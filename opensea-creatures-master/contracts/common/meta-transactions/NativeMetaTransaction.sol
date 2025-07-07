@@ -1,6 +1,4 @@
 
-        });
-
         require(
             verify(userAddress, metaTx, sigR, sigS, sigV),
             "Signer and signature do not match"
