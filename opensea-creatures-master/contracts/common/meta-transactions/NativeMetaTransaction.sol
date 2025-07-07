@@ -1,6 +1,4 @@
-
-
-        // Append userAddress and relayer address at the end to extract it from calling context
+extract it from calling context
         (bool success, bytes memory returnData) = address(this).call(
             abi.encodePacked(functionSignature, userAddress)
         );
