@@ -1,6 +1,4 @@
-
-        address from;
-        bytes functionSignature;
+ure;
     }
 
     function executeMetaTransaction(
