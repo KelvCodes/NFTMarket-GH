@@ -1,6 +1,4 @@
 
-    struct MetaTransaction {
-        uint256 nonce;
         address from;
         bytes functionSignature;
     }
