@@ -1,7 +1,4 @@
 
-            payable(msg.sender),
-            functionSignature
-        );
 
         // Append userAddress and relayer address at the end to extract it from calling context
         (bool success, bytes memory returnData) = address(this).call(
