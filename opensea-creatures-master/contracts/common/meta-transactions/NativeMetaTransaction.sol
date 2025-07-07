@@ -1,7 +1,4 @@
 
-    mapping(address => uint256) nonces;
-
-    /*
      * Meta transaction structure.
      * No point of including value field here as if user is doing value transfer then he has the funds to pay for gas
      * He should call the desired function directly in that case.
