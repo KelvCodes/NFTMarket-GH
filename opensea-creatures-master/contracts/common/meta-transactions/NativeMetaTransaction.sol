@@ -1,6 +1,4 @@
-
-        bytes(
-            "MetaTransaction(uint256 nonce,address from,bytes functionSignature)"
+nt256 nonce,address from,bytes functionSignature)"
         )
     );
     event MetaTransactionExecuted(
