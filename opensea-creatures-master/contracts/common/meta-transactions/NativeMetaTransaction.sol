@@ -1,6 +1,4 @@
 
-        uint8 sigV
-    ) public payable returns (bytes memory) {
         MetaTransaction memory metaTx = MetaTransaction({
             nonce: nonces[userAddress],
             from: userAddress,
