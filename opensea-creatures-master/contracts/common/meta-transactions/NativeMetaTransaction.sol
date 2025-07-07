@@ -1,5 +1,4 @@
-unds to pay for gas
-     * He should call the desired function directly in that case.
+e desired function directly in that case.
      */
     struct MetaTransaction {
         uint256 nonce;
