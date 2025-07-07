@@ -1,4 +1,3 @@
-"./EIP712Base.sol";
 
 contract NativeMetaTransaction is EIP712Base {
     using SafeMath for uint256;
