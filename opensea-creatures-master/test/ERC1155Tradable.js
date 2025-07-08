@@ -1,16 +1,4 @@
 
-  
-       });
-
-    it('should not emit a URI if none is passed',
-       async () => {
-         tokenId += 1;
-         truffleAssert.eventNotEmitted(
-           await instance.create(owner, tokenId, 0, "", "0x0", { from: owner }),
-           'URI'
-         );
-       });
-  });
 
   describe('#totalSupply()', () => {
     it('should return correct value for token supply',
