@@ -1,5 +1,3 @@
-erContract.sol"
-);
 
 
 /* Useful aliases */
