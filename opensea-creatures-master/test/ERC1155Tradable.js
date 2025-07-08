@@ -1,4 +1,4 @@
-AME, SYMBOL, vals.URI_BASE, proxy.address);
+
     approvedContract = await ApprovedSpenderContract.new();
   });
 
