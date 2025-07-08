@@ -1,6 +1,4 @@
-
-  describe('#constructor()', () => {
-    it('should set the token name, symbol, and URI', async () => {
+and URI', async () => {
       const name = await instance.name();
       assert.equal(name, NAME);
       const symbol = await instance.symbol();
