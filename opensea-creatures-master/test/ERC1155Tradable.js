@@ -1,7 +1,4 @@
 
-    approvedContract = await ApprovedSpenderContract.new();
-  });
-
   describe('#constructor()', () => {
     it('should set the token name, symbol, and URI', async () => {
       const name = await instance.name();
