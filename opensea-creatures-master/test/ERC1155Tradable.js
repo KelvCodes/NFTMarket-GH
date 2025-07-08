@@ -1,5 +1,4 @@
-
-    instance = await ERC1155Tradable.new(NAME, SYMBOL, vals.URI_BASE, proxy.address);
+AME, SYMBOL, vals.URI_BASE, proxy.address);
     approvedContract = await ApprovedSpenderContract.new();
   });
 
