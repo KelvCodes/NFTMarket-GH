@@ -1,6 +1,4 @@
-
-const { MockProvider } = require("ethereum-waffle");
-const { signMetaTransaction } = require("./utils/signMetaTransaction.js")
+nMetaTransaction.js")
 
 const vals = require('../lib/testValuesCommon.js');
 
