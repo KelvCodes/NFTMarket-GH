@@ -1,9 +1,4 @@
-
-
-
-/* Contracts in this test */
-
-const ERC1155Tradable = artifacts.require("../contracts/ERC1155Tradable.sol");
+ artifacts.require("../contracts/ERC1155Tradable.sol");
 const MockProxyRegistry = artifacts.require(
   "../contracts/MockProxyRegistry.sol"
 );
