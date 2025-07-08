@@ -1,4 +1,4 @@
-re('truffle-assertions');
+
 const { MockProvider } = require("ethereum-waffle");
 const { signMetaTransaction } = require("./utils/signMetaTransaction.js")
 
