@@ -1,6 +1,4 @@
-toBN;
-
-const web3ERC1155 = new web3.eth.Contract(ERC1155Tradable.abi)
+h.Contract(ERC1155Tradable.abi)
 
 contract("ERC1155Tradable - ERC 1155", (accounts) => {
   const NAME = 'ERC-1155 Test Contract';
