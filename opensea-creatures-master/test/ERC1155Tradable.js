@@ -1,16 +1,5 @@
 
-             operator: owner,
-             from: vals.ADDRESS_ZERO,
-             to: owner,
-             id: toBN(tokenId),
-             value: MINT_AMOUNT
-           }
-         );
-         const supply = await instance.tokenSupply(tokenId);
-         assert.ok(supply.eq(MINT_AMOUNT));
-       });
-
-    // We check some of this in the other create() tests but this makes it
+this in the other create() tests but this makes it
     // explicit and is more thorough.
     it('should set tokenSupply on creation',
        async () => {
