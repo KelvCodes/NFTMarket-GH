@@ -1,5 +1,3 @@
-5 Test Contract';
-  const SYMBOL = 'ERC1155Test';
 
   const INITIAL_TOKEN_ID = 1;
   const NON_EXISTENT_TOKEN_ID = 99999999;
