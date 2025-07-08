@@ -1,16 +1,4 @@
-hat it increases in consecutive creates() using the value emitted
-         // in their events.
-         tokenId += 1;
-         await truffleAssert.eventEmitted(
-           await instance.create(owner, tokenId, 0, "", "0x0", { from: owner }),
-           'TransferSingle',
-           { id: toBN(tokenId) }
-         );
-         tokenId += 1;
-         await truffleAssert.eventEmitted(
-           await instance.create(owner, tokenId, 0, "", "0x0", { from: owner }),
-           'TransferSingle',
-           { id: toBN(tokenId) }
+okenId) }
          );
        });
 
