@@ -1,7 +1,4 @@
 
-    it('should allow the contract owner to create tokens with initial supply',
-       async () => {
-         tokenId += 1;
          truffleAssert.eventEmitted(
            await instance.create(
              owner,
