@@ -1,7 +1,4 @@
-
-
-  // Because we need to deploy and use a mock ProxyRegistry, we deploy our own
-  // instance of ERC1155Tradable instead of using the one that Truffle deployed.
+e that Truffle deployed.
   
   before(async () => {
     proxy = await MockProxyRegistry.new();
