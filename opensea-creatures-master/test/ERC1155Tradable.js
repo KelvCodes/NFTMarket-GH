@@ -1,6 +1,4 @@
 
-  const userA = accounts[2];
-  const userB = accounts[3];
   const proxyForOwner = accounts[5];
 
   let instance;
