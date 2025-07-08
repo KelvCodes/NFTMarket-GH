@@ -1,6 +1,4 @@
-
-
-contract("ERC1155Tradable - ERC 1155", (accounts) => {
+ccounts) => {
   const NAME = 'ERC-1155 Test Contract';
   const SYMBOL = 'ERC1155Test';
 
