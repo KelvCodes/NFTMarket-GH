@@ -1,9 +1,4 @@
-
-         truffleAssert.eventEmitted(
-           await instance.create(
-             owner,
-             tokenId,
-             MINT_AMOUNT,
+UNT,
              "",
              "0x0",
              { from: owner }
