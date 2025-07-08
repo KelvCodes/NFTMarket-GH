@@ -1,4 +1,4 @@
-h.Contract(ERC1155Tradable.abi)
+
 
 contract("ERC1155Tradable - ERC 1155", (accounts) => {
   const NAME = 'ERC-1155 Test Contract';
