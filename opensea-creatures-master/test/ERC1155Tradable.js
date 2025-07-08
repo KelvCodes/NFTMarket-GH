@@ -1,6 +1,4 @@
-rogress through the tests, rather than
-  // hardcoding numbers that we will have to change if we add/move tests.
-  // For example if test A assumes that it will create token ID 1 and test B
+ill create token ID 1 and test B
   // assumes that it will create token 2, changing test A later so that it
   // creates another token will break this as test B will now create token ID 3.
   // Doing this avoids this scenario.
