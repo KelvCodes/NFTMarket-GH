@@ -1,10 +1,4 @@
-UNT,
-             "",
-             "0x0",
-             { from: owner }
-           ),
-           'TransferSingle',
-           {
+
              operator: owner,
              from: vals.ADDRESS_ZERO,
              to: owner,
