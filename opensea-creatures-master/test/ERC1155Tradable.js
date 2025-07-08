@@ -1,20 +1,4 @@
-okenId) }
-         );
-       });
 
-    it('should not allow a non-owner to create tokens',
-       async () => {
-         tokenId += 1;
-         truffleAssert.fails(
-           instance.create(userA, tokenId, 0, "", "0x0", { from: userA }),
-           truffleAssert.ErrorType.revert,
-           'caller is not the owner'
-         );
-       });
-
-    it('should allow the contract owner to create tokens and emit a URI',
-       async () => {
-         tokenId += 1;
          truffleAssert.eventEmitted(
            await instance.create(
              owner,
