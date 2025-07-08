@@ -1,5 +1,4 @@
 
-const MockProxyRegistry = artifacts.require(
   "../contracts/MockProxyRegistry.sol"
 );
 const ApprovedSpenderContract = artifacts.require(
