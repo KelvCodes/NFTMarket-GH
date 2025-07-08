@@ -1,5 +1,4 @@
-nderContract = artifacts.require(
-  "../contracts/test/ApprovedSpenderContract.sol"
+erContract.sol"
 );
 
 
