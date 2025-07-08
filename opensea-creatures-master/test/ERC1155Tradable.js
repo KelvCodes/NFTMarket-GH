@@ -1,6 +1,4 @@
-;
-
-  const OVERFLOW_NUMBER = toBN(2, 10).pow(toBN(256, 10)).sub(toBN(1, 10));
+b(toBN(1, 10));
 
   const owner = accounts[0];
   const creator = accounts[1];
