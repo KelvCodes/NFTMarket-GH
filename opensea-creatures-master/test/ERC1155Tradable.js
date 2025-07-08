@@ -1,6 +1,4 @@
-/* libraries used */
-
-const truffleAssert = require('truffle-assertions');
+re('truffle-assertions');
 const { MockProvider } = require("ethereum-waffle");
 const { signMetaTransaction } = require("./utils/signMetaTransaction.js")
 
