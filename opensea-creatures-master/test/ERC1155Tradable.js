@@ -1,7 +1,4 @@
-b(toBN(1, 10));
 
-  const owner = accounts[0];
-  const creator = accounts[1];
   const userA = accounts[2];
   const userB = accounts[3];
   const proxyForOwner = accounts[5];
