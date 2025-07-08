@@ -1,6 +1,4 @@
 
-           await instance.create(owner, tokenId, 0, "", "0x0", { from: owner }),
-           'TransferSingle',
            {
              operator: owner,
              from: vals.ADDRESS_ZERO,
