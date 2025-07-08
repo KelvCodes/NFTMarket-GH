@@ -1,5 +1,4 @@
-9999999;
-  const MINT_AMOUNT = toBN(100);
+;
 
   const OVERFLOW_NUMBER = toBN(2, 10).pow(toBN(256, 10)).sub(toBN(1, 10));
 
