@@ -1,8 +1,4 @@
 
-             to: owner,
-             id: toBN(tokenId),
-             value: toBN(0)
-           }
          );
          const supply = await instance.tokenSupply(tokenId);
          assert.ok(supply.eq(toBN(0)));
