@@ -1,7 +1,4 @@
-
-  "../contracts/MockProxyRegistry.sol"
-);
-const ApprovedSpenderContract = artifacts.require(
+nderContract = artifacts.require(
   "../contracts/test/ApprovedSpenderContract.sol"
 );
 
