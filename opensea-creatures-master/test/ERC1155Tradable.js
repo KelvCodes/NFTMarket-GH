@@ -1,4 +1,4 @@
-racts/ERC1155Tradable.sol");
+
 const MockProxyRegistry = artifacts.require(
   "../contracts/MockProxyRegistry.sol"
 );
