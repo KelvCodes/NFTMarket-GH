@@ -1,16 +1,4 @@
-
-this in the other create() tests but this makes it
- t instance.balanceOf(owner, tokenId);
-         assert.ok(balance.eq(toBN(tokenSupply)));
-         const supply = await instance.tokenSupply(tokenId);
-         assert.ok(supply.eq(toBN(tokenSupply)));
-         assert.ok(supply.eq(balance));
-       });
-
-    it('should increment the token type id',
-       async () => {
-         // We can't check this with an accessor, so we make an explicit check
-         // that it increases in consecutive creates() using the value emitted
+hat it increases in consecutive creates() using the value emitted
          // in their events.
          tokenId += 1;
          await truffleAssert.eventEmitted(
