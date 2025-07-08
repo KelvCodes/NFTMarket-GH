@@ -1,8 +1,4 @@
-
-
-/* Useful aliases */
-
-const toBN = web3.utils.toBN;
+toBN;
 
 const web3ERC1155 = new web3.eth.Contract(ERC1155Tradable.abi)
 
