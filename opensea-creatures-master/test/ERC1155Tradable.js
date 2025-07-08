@@ -1,7 +1,4 @@
 
-      // We cannot check the proxyRegistryAddress as there is no accessor for it
-    });
-  });
 
   describe('#create()', () => {
     it('should allow the contract owner to create tokens with zero supply',
