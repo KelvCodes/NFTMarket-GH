@@ -1,5 +1,4 @@
-ccounts) => {
-  const NAME = 'ERC-1155 Test Contract';
+5 Test Contract';
   const SYMBOL = 'ERC1155Test';
 
   const INITIAL_TOKEN_ID = 1;
