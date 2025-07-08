@@ -1,5 +1,4 @@
-ill create token ID 1 and test B
-  // assumes that it will create token 2, changing test A later so that it
+2, changing test A later so that it
   // creates another token will break this as test B will now create token ID 3.
   // Doing this avoids this scenario.
   let tokenId = 0;
