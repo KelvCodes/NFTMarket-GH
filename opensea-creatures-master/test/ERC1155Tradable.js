@@ -1,7 +1,4 @@
 
-  const proxyForOwner = accounts[5];
-
-  let instance;
   let proxy;
 
   // Keep track of token ids as we progress through the tests, rather than
