@@ -1,16 +1,6 @@
 
 this in the other create() tests but this makes it
-    // explicit and is more thorough.
-    it('should set tokenSupply on creation',
-       async () => {
-         tokenId += 1;
-         tokenSupply = 33
-         truffleAssert.eventEmitted(
-           await instance.create(owner, tokenId, tokenSupply, "", "0x0", { from: owner }),
-           'TransferSingle',
-           { id: toBN(tokenId) }
-         );
-         const balance = await instance.balanceOf(owner, tokenId);
+ t instance.balanceOf(owner, tokenId);
          assert.ok(balance.eq(toBN(tokenSupply)));
          const supply = await instance.tokenSupply(tokenId);
          assert.ok(supply.eq(toBN(tokenSupply)));
