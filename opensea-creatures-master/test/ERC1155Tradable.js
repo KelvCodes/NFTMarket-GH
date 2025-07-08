@@ -1,8 +1,5 @@
 
 
-  describe('#create()', () => {
-    it('should allow the contract owner to create tokens with zero supply',
-       async () => {
          tokenId += 1;
          truffleAssert.eventEmitted(
            await instance.create(owner, tokenId, 0, "", "0x0", { from: owner }),
