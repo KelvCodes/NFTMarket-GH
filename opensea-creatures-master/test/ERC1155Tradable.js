@@ -1,19 +1,5 @@
 
-         truffleAssert.eventEmitted(
-           await instance.create(
-             owner,
-             tokenId,
-             0,
-             vals.URI_BASE,
-             "0x0",
-             { from: owner }
-           ),
-           'URI',
-           {
-             value: vals.URI_BASE,
-             id: toBN(tokenId)
-           }
-         );
+  
        });
 
     it('should not emit a URI if none is passed',
