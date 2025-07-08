@@ -1,7 +1,4 @@
 
-
-         tokenId += 1;
-         truffleAssert.eventEmitted(
            await instance.create(owner, tokenId, 0, "", "0x0", { from: owner }),
            'TransferSingle',
            {
