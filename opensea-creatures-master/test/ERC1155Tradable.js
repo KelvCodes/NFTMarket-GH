@@ -1,6 +1,4 @@
-2, changing test A later so that it
-  // creates another token will break this as test B will now create token ID 3.
-  // Doing this avoids this scenario.
+2, changing test A late
   let tokenId = 0;
 
   // Because we need to deploy and use a mock ProxyRegistry, we deploy our own
