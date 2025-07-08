@@ -1,6 +1,4 @@
-
-  const INITIAL_TOKEN_ID = 1;
-  const NON_EXISTENT_TOKEN_ID = 99999999;
+9999999;
   const MINT_AMOUNT = toBN(100);
 
   const OVERFLOW_NUMBER = toBN(2, 10).pow(toBN(256, 10)).sub(toBN(1, 10));
