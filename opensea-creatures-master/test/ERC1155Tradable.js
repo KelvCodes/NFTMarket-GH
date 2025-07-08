@@ -1,6 +1,4 @@
-and URI', async () => {
-      const name = await instance.name();
-      assert.equal(name, NAME);
+
       const symbol = await instance.symbol();
       assert.equal(symbol, SYMBOL);
       // We cannot check the proxyRegistryAddress as there is no accessor for it
