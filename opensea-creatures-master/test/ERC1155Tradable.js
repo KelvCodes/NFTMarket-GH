@@ -1,7 +1,4 @@
 
-           {
-             operator: owner,
-             from: vals.ADDRESS_ZERO,
              to: owner,
              id: toBN(tokenId),
              value: toBN(0)
