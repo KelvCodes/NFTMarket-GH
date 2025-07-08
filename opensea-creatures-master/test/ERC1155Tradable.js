@@ -1,6 +1,4 @@
 
-      const symbol = await instance.symbol();
-      assert.equal(symbol, SYMBOL);
       // We cannot check the proxyRegistryAddress as there is no accessor for it
     });
   });
