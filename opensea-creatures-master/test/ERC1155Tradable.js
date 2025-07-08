@@ -1,5 +1,4 @@
-2, changing test A late
-  let tokenId = 0;
+
 
   // Because we need to deploy and use a mock ProxyRegistry, we deploy our own
   // instance of ERC1155Tradable instead of using the one that Truffle deployed.
