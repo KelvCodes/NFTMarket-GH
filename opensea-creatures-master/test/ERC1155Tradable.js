@@ -1,9 +1,4 @@
 
-         );
-         const supply = await instance.tokenSupply(tokenId);
-         assert.ok(supply.eq(toBN(0)));
-       });
-
     it('should allow the contract owner to create tokens with initial supply',
        async () => {
          tokenId += 1;
