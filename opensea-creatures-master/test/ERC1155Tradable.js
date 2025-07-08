@@ -1,7 +1,5 @@
 
 
-const vals = require('../lib/testValuesCommon.js');
-
 
 /* Contracts in this test */
 
