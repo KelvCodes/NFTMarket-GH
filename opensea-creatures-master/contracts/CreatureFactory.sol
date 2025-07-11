@@ -1,7 +1,6 @@
 
 
-
-contract CreatureFactory is FactoryERC721, Ownable {
+ERC721, Ownable {
     using Strings for string;
 
     event Transfer(
