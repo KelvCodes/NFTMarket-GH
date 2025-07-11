@@ -1,5 +1,4 @@
-and gold).
-     */
+and g
     uint256 NUM_OPTIONS = 3;
     uint256 SINGLE_CREATURE_OPTION = 0;
     uint256 MULTIPLE_CREATURE_OPTION = 1;
