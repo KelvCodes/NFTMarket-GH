@@ -1,7 +1,5 @@
 
-        proxyRegistryAddress = _proxyRegistryAddress;
-        nftAddress = _nftAddress;
-        lootBoxNftAddress = address(
+     (
             new CreatureLootBox(_proxyRegistryAddress, address(this))
         );
 
