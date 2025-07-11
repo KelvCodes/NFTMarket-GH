@@ -1,5 +1,5 @@
 
-    uint256 LOOTBOX_OPTION = 2;
+
     uint256 NUM_CREATURES_IN_MULTIPLE_CREATURE_OPTION = 4;
 
     constructor(address _proxyRegistryAddress, address _nftAddress) {
