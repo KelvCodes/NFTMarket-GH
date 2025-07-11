@@ -1,4 +1,4 @@
- premium, and gold).
+and gold).
      */
     uint256 NUM_OPTIONS = 3;
     uint256 SINGLE_CREATURE_OPTION = 0;
