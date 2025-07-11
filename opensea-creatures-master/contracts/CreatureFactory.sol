@@ -1,4 +1,5 @@
-or string;
+
+
 
     event Transfer(
         address indexed from,
