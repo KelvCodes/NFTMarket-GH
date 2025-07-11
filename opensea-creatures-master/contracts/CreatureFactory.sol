@@ -1,6 +1,5 @@
 
 
-    uint256 NUM_CREATURES_IN_MULTIPLE_CREATURE_OPTION = 4;
 
     constructor(address _proxyRegistryAddress, address _nftAddress) {
         proxyRegistryAddress = _proxyRegistryAddress;
