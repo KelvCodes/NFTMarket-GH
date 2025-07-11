@@ -1,5 +1,4 @@
 
-import "./IFactoryERC721.sol";
 import "./Creature.sol";
 import "./CreatureLootBox.sol";
 
