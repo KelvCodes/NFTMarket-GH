@@ -1,5 +1,4 @@
-
-    address public lootBoxNftAddress;
+ftAddress;
     string public baseURI = "https://creatures-api.opensea.io/api/factory/";
 
     /*
