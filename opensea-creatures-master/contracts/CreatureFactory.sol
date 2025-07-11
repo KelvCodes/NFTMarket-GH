@@ -1,4 +1,4 @@
-c baseURI = "https://creatures-api.opensea.io/api/factory/";
+tps://creatures-api.opensea.io/api/factory/";
 
     /*
      * Enforce the existence of only 100 OpenSea creatures.
