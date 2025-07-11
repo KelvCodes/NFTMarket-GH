@@ -1,9 +1,4 @@
 
-   
-
-        fireTransferEvents(address(0), owner());
-    }
-
     function name() override external pure returns (string memory) {
         return "OpenSeaCreature Item Sale";
     }
