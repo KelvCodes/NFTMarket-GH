@@ -1,7 +1,4 @@
 
-    function name() override external pure returns (string memory) {
-        return "OpenSeaCreature Item Sale";
-    }
 
     function symbol() override external pure returns (string memory) {
         return "CPF";
