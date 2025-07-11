@@ -1,11 +1,5 @@
 
 
-    function transferOwnership(address newOwner) override public onlyOwner {
-        address _prevOwner = owner();
-        super.transferOwnership(newOwner);
-        fireTransferEvents(_prevOwner, newOwner);
-    }
-
     function fireTransferEvents(address _from, address _to) private {
         for (uint256 i = 0; i < NUM_OPTIONS; i++) {
             emit Transfer(_from, _to, i);
