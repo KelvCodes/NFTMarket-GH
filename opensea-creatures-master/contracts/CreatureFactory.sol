@@ -1,9 +1,5 @@
 
 
-    function supportsFactoryInterface() override public pure returns (bool) {
-        return true;
-    }
-
     function numOptions() override public view returns (uint256) {
         return NUM_OPTIONS;
     }
