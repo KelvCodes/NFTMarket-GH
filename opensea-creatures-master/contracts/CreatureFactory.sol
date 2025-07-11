@@ -1,5 +1,4 @@
 
-import "./Creature.sol";
 import "./CreatureLootBox.sol";
 
 contract CreatureFactory is FactoryERC721, Ownable {
