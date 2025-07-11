@@ -1,5 +1,4 @@
-ftAddress;
-    string public baseURI = "https://creatures-api.opensea.io/api/factory/";
+c baseURI = "https://creatures-api.opensea.io/api/factory/";
 
     /*
      * Enforce the existence of only 100 OpenSea creatures.
