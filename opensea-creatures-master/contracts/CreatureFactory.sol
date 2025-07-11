@@ -1,5 +1,4 @@
-
-    uint256 CREATURE_SUPPLY = 100;
+URE_SUPPLY = 100;
 
     /*
      * Three different options for minting Creatures (basic, premium, and gold).
