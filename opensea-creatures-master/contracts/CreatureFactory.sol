@@ -1,9 +1,5 @@
 
 
-    function symbol() override external pure returns (string memory) {
-        return "CPF";
-    }
-
     function supportsFactoryInterface() override public pure returns (bool) {
         return true;
     }
