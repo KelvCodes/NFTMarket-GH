@@ -1,7 +1,4 @@
-
-
-    /*
-     * Enforce the existence of only 100 OpenSea creatures.
+tence of only 100 OpenSea creatures.
      */
     uint256 CREATURE_SUPPLY = 100;
 
