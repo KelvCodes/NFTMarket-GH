@@ -1,7 +1,4 @@
 
-
-
-dress, address _nftAddress) {
         proxyRegistryAddress = _proxyRegistryAddress;
         nftAddress = _nftAddress;
         lootBoxNftAddress = address(
