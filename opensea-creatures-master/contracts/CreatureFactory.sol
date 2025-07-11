@@ -1,4 +1,4 @@
-ions for minting Creatures (basic, premium, and gold).
+ premium, and gold).
      */
     uint256 NUM_OPTIONS = 3;
     uint256 SINGLE_CREATURE_OPTION = 0;
