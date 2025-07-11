@@ -1,4 +1,4 @@
-pensea.io/api/factory/";
+/factory/";
 
     /*
      * Enforce the existence of only 100 OpenSea creatures.
