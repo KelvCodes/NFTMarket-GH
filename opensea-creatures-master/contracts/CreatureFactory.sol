@@ -1,9 +1,5 @@
 
 
-    function numOptions() override public view returns (uint256) {
-        return NUM_OPTIONS;
-    }
-
     function transferOwnership(address newOwner) override public onlyOwner {
         address _prevOwner = owner();
         super.transferOwnership(newOwner);
