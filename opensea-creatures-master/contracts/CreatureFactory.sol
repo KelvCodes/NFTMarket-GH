@@ -1,4 +1,4 @@
-/factory/";
+
 
     /*
      * Enforce the existence of only 100 OpenSea creatures.
