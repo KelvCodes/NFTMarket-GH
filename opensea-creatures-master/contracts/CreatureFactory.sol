@@ -1,7 +1,6 @@
 
 
-xed to,
-        uint256 indexed tokenId
+xndexed tokenId
     );
 
     address public proxyRegistryAddress;
