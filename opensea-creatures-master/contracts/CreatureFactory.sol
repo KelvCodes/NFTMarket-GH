@@ -1,4 +1,3 @@
-URE_SUPPLY = 100;
 
     /*
      * Three different options for minting Creatures (basic, premium, and gold).
