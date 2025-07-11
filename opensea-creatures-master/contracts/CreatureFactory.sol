@@ -1,7 +1,4 @@
-
-
-ERC721, Ownable {
-    using Strings for string;
+or string;
 
     event Transfer(
         address indexed from,
