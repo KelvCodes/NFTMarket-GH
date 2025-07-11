@@ -1,7 +1,5 @@
 
-     (
-            new CreatureLootBox(_proxyRegistryAddress, address(this))
-        );
+   
 
         fireTransferEvents(address(0), owner());
     }
