@@ -1,4 +1,4 @@
-s public proxyRegistryAddress;
+stryAddress;
     address public nftAddress;
     address public lootBoxNftAddress;
     string public baseURI = "https://creatures-api.opensea.io/api/factory/";
