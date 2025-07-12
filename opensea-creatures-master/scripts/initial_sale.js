@@ -1,7 +1,4 @@
 
-
-const providerEngine = new Web3ProviderEngine();
-providerEngine.addProvider(mnemonicWalletSubprovider);
 providerEngine.addProvider(infuraRpcSubprovider);
 providerEngine.start();
 
