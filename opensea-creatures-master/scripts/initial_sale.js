@@ -1,8 +1,5 @@
 
 
-    : "https://eth-" + network + ".alchemyapi.io/v2/" + NODE_API_KEY,
-});
-
 const providerEngine = new Web3ProviderEngine();
 providerEngine.addProvider(mnemonicWalletSubprovider);
 providerEngine.addProvider(infuraRpcSubprovider);
