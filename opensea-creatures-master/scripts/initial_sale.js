@@ -1,8 +1,4 @@
-
-    `Successfully made ${fixedSellOrders.length} fixed-price sell orders! ${fixedSellOrders[0].asset.openseaLink}\n`
-  );
-
-  // Example: many fixed price auctions for multiple factory options.
+mple: many fixed price auctions for multiple factory options.
   console.log("Creating fixed price auctions...");
   const fixedSellOrdersTwo = await seaport.createFactorySellOrders({
     assets: [
