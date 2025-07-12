@@ -1,5 +1,4 @@
-
-const API_KEY = process.env.API_KEY || ""; // API key is optional but useful if you're doing a high volume of requests.
+l but useful if you're doing a high volume of requests.
 
 const DUTCH_AUCTION_OPTION_ID = "1";
 const DUTCH_AUCTION_START_AMOUNT = 100;
