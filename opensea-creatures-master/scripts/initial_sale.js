@@ -1,8 +1,6 @@
 
 
-      {
-        tokenId: FIXED_PRICE_OPTION_ID,
-        tokenAddress: FACTORY_CONTRACT_ADDRESS,
+ACTORY_CONTRACT_ADDRESS,
       },
     ],
     accountAddress: OWNER_ADDRESS,
