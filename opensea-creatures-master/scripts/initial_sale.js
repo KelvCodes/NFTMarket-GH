@@ -1,9 +1,4 @@
-
-  const fixedSellOrdersTwo = await seaport.createFactorySellOrders({
-    assets: [
-      { tokenId: "3", tokenAddress: FACTORY_CONTRACT_ADDRESS },
-      { tokenId: "4", tokenAddress: FACTORY_CONTRACT_ADDRESS },
-      { tokenId: "5", tokenAddress: FACTORY_CONTRACT_ADDRESS },
+ess: FACTORY_CONTRACT_ADDRESS },
       { tokenId: "6", tokenAddress: FACTORY_CONTRACT_ADDRESS },
     ],
     factoryAddress: FACTORY_CONTRACT_ADDRESS,
