@@ -1,10 +1,4 @@
-fura key, owner, network, API key, nft contract, and factory contract address."
-  );
-  return;
-}
-
-if (!FACTORY_CONTRACT_ADDRESS) {
-  console.error("Please specify a factory contract address.");
+r("Please specify a factory contract address.");
   return;
 }
 
