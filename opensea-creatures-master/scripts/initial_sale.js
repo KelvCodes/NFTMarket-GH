@@ -1,8 +1,5 @@
 
 
-const seaport = new OpenSeaPort(
-  providerEngine,
-  {
     networkName:
       NETWORK === "mainnet" || NETWORK === "live"
         ? Network.Main
