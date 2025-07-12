@@ -1,11 +1,4 @@
-ess: FACTORY_CONTRACT_ADDRESS },
-      { tokenId: "6", tokenAddress: FACTORY_CONTRACT_ADDRESS },
-    ],
-    factoryAddress: FACTORY_CONTRACT_ADDRESS,
-    accountAddress: OWNER_ADDRESS,
-    startAmount: FIXED_PRICE,
-    numberOfOrders: NUM_FIXED_PRICE_AUCTIONS,
-  });
+
   console.log(
     `Successfully made ${fixedSellOrdersTwo.length} fixed-price sell orders for multiple assets at once! ${fixedSellOrders[0].asset.openseaLink}\n`
   );
