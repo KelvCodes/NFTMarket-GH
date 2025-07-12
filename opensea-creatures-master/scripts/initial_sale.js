@@ -1,12 +1,4 @@
-
-  console.log(
-    `Successfully made ${fixedSellOrdersTwo.length} fixed-price sell orders for multiple assets at once! ${fixedSellOrders[0].asset.openseaLink}\n`
-  );
-
-  // Example: many declining Dutch auction for a factory.
-  console.log("Creating dutch auctions...");
-
-  // Expire one day from now
+now
   const expirationTime = Math.round(Date.now() / 1000 + 60 * 60 * 24);
   const dutchSellOrders = await seaport.createFactorySellOrders({
     assets: [
