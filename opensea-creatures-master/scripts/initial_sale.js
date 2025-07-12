@@ -1,10 +1,5 @@
 now
-  const expirationTime = Math.round(Date.now() / 1000 + 60 * 60 * 24);
-  const dutchSellOrders = await seaport.createFactorySellOrders({
-    assets: [
-      {
-        tokenId: DUTCH_AUCTION_OPTION_ID,
-        tokenAddress: FACTORY_CONTRACT_ADDRESS,
+ss: FACTORY_CONTRACT_ADDRESS,
       },
     ],
     accountAddress: OWNER_ADDRESS,
