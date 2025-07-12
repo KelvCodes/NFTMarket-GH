@@ -1,5 +1,5 @@
 
-    ? "https://" + network + ".infura.io/v3/" + NODE_API_KEY
+
     : "https://eth-" + network + ".alchemyapi.io/v2/" + NODE_API_KEY,
 });
 
