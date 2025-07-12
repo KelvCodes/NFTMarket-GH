@@ -1,5 +1,4 @@
-mple: many fixed price auctions for multiple factory options.
-  console.log("Creating fixed price auctions...");
+
   const fixedSellOrdersTwo = await seaport.createFactorySellOrders({
     assets: [
       { tokenId: "3", tokenAddress: FACTORY_CONTRACT_ADDRESS },
