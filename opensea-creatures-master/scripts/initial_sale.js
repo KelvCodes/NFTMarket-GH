@@ -1,7 +1,4 @@
 
-ders: NUM_FIXED_PRICE_AUCTIONS,
-  });
-  console.log(
     `Successfully made ${fixedSellOrders.length} fixed-price sell orders! ${fixedSellOrders[0].asset.openseaLink}\n`
   );
 
