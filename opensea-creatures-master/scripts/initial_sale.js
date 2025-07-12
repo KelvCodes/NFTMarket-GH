@@ -1,5 +1,5 @@
 
-const DUTCH_AUCTION_END_AMOUNT = 50;
+
 const NUM_DUTCH_AUCTIONS = 3;
 
 const FIXED_PRICE_OPTION_ID = "2";
