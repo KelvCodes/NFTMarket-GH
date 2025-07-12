@@ -1,8 +1,4 @@
-
-
-    networkName:
-      NETWORK === "mainnet" || NETWORK === "live"
-        ? Network.Main
+.Main
         : Network.Rinkeby,
     apiKey: API_KEY,
   },
