@@ -1,7 +1,5 @@
 
-asating fixed price auctions...");
-  const fixedSellOrders = await seaport.createFactorySellOrders({
-    assets: [
+
       {
         tokenId: FIXED_PRICE_OPTION_ID,
         tokenAddress: FACTORY_CONTRACT_ADDRESS,
