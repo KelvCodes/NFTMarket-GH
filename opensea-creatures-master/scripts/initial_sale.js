@@ -1,7 +1,5 @@
 
-async function main() {
-  // Example: many fixed price auctions for a factory option.
-  console.log("Creating fixed price auctions...");
+asating fixed price auctions...");
   const fixedSellOrders = await seaport.createFactorySellOrders({
     assets: [
       {
