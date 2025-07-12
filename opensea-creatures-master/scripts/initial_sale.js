@@ -1,6 +1,3 @@
-r("Please specify a factory contract address.");
-  return;
-}
 
 const BASE_DERIVATION_PATH = `44'/60'/0'/0`;
 
