@@ -1,6 +1,4 @@
-.Main
-        : Network.Rinkeby,
-    apiKey: API_KEY,
+
   },
   (arg) => console.log(arg)
 );
