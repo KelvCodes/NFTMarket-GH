@@ -1,9 +1,4 @@
-
-
-ACTORY_CONTRACT_ADDRESS,
-      },
-    ],
-    accountAddress: OWNER_ADDRESS,
+Address: OWNER_ADDRESS,
     startAmount: FIXED_PRICE,
     numberOfOrders: NUM_FIXED_PRICE_AUCTIONS,
   });
