@@ -1,6 +1,4 @@
 
-providerEngine.addProvider(infuraRpcSubprovider);
-providerEngine.start();
 
 const seaport = new OpenSeaPort(
   providerEngine,
