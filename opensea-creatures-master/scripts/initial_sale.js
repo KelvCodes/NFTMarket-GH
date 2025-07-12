@@ -1,4 +1,4 @@
-lletSubprovider = require("@0x/subproviders")
+e("@0x/subproviders")
   .MnemonicWalletSubprovider;
 const RPCSubprovider = require("web3-provider-engine/subproviders/rpc");
 const Web3ProviderEngine = require("web3-provider-engine");
