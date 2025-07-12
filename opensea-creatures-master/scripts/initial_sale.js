@@ -1,5 +1,4 @@
-
-  NETWORK === "mainnet" || NETWORK === "live" ? "mainnet" : "rinkeby";
+t" : "rinkeby";
 const infuraRpcSubprovider = new RPCSubprovider({
   rpcUrl: isInfura
     ? "https://" + network + ".infura.io/v3/" + NODE_API_KEY
