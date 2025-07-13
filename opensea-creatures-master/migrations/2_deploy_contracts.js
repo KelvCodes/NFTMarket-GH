@@ -1,8 +1,6 @@
 
 
 
-const CreatureAccessoryLootBox = artifacts.require(
-  "../contracts/CreatureAccessoryLootBox.sol"
 );
 const LootBoxRandomness = artifacts.require(
   "../contracts/LootBoxRandomness.sol"
