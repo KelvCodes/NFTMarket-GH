@@ -1,6 +1,4 @@
 
-    await deployer.link(LootBoxRandomness, CreatureAccessoryLootBox);
-    await deployer.deploy(
       CreatureAccessoryLootBox,
       proxyRegistryAddress,
       { gas: 6721975 }
