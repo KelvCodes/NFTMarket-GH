@@ -1,7 +1,6 @@
 
 
-  if (DEPLOY_ACCESSORIES) {
-    await deployer.deploy(
+
       CreatureAccessory,
       proxyRegistryAddress,
       { gas: 5000000 }
