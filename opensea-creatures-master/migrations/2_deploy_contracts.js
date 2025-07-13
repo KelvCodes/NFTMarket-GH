@@ -1,5 +1,5 @@
 
-  // OpenSea proxy registry addresses for rinkeby and mainnet.
+  //
   let proxyRegistryAddress = "";
   if (network === 'rinkeby') {
     proxyRegistryAddress = "0x1E525EEAF261cA41b809884CBDE9DD9E1619573A";
