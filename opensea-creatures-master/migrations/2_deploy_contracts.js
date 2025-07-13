@@ -1,5 +1,4 @@
 y,
-      proxyRegistryAddress,
       CreatureAccessory.address,
       CreatureAccessoryLootBox.address,
       { gas: 5000000 }
