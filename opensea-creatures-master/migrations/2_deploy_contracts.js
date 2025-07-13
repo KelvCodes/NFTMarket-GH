@@ -1,8 +1,4 @@
-y,
-      CreatureAccessory.address,
-      CreatureAccessoryLootBox.address,
-      { gas: 5000000 }
-    );
+
     const accessories = await CreatureAccessory.deployed();
     const factory = await CreatureAccessoryFactory.deployed();
     await accessories.transferOwnership(
