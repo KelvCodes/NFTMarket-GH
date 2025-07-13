@@ -1,6 +1,6 @@
 
 
-racts/CreatureAccessoryFactory.sol");
+
 const CreatureAccessoryLootBox = artifacts.require(
   "../contracts/CreatureAccessoryLootBox.sol"
 );
