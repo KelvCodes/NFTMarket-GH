@@ -1,5 +1,4 @@
 
-    await accessories.transferOwnership(
       CreatureAccessoryFactory.address
     );
     await setupCreatureAccessories.setupAccessoryLootBox(lootBox, factory);
