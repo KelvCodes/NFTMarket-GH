@@ -1,7 +1,7 @@
 
 
 
-setupCreatureAccessories.js");
+
 
 // If you want to hardcode what deploys, comment out process.env.X and use
 // true/false;
