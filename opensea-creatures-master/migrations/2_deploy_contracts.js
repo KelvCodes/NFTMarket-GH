@@ -3,8 +3,7 @@
 
 
 
-// If you want to hardcode what deploys, comment out process.env.X and use
-// true/false;
+
 const DEPLOY_ALL = process.env.DEPLOY_ALL;
 const DEPLOY_ACCESSORIES_SALE = process.env.DEPLOY_ACCESSORIES_SALE || DEPLOY_ALL;
 const DEPLOY_ACCESSORIES = process.env.DEPLOY_ACCESSORIES || DEPLOY_ACCESSORIES_SALE || DEPLOY_ALL;
