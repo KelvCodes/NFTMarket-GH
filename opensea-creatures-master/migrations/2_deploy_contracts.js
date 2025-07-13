@@ -1,9 +1,7 @@
 
 
 
-ES_SALE = process.env.DEPLOY_CREATURES_SALE || DEPLOY_ALL;
-// Note that we will default to this unless DEPLOY_ACCESSORIES is set.
-// This is to keep the historical behavior of this migration.
+ES_SALE = process.env.DEPLOY_CREATURES_SALE || DEPLOY_ALL;// This is to keep the historical behavior of this migration.
 const DEPLOY_CREATURES = process.env.DEPLOY_CREATURES || DEPLOY_CREATURES_SALE || DEPLOY_ALL || (! DEPLOY_ACCESSORIES);
 
 module.exports = async (deployer, network, addresses) => {
