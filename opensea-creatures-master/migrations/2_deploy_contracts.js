@@ -1,8 +1,4 @@
 
-
-      { gas: 5000000 }
-    );
-    const accessories = await CreatureAccessory.deployed();
     await setupCreatureAccessories.setupAccessory(
       accessories,
       addresses[0]
