@@ -1,4 +1,4 @@
-proxyRegistryAddress, Creature.address, {gas: 7000000});
+ {gas: 7000000});
     const creature = await Creature.deployed();
     await creature.transferOwnership(CreatureFactory.address);
   }
