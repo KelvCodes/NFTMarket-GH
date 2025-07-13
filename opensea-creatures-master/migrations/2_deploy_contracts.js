@@ -1,8 +1,5 @@
 
 
-
-      CreatureAccessory,
-      proxyRegistryAddress,
       { gas: 5000000 }
     );
     const accessories = await CreatureAccessory.deployed();
