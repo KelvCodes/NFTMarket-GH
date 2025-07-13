@@ -4,7 +4,7 @@
 
 
 
-const DEPLOY_ACCESSORIES = process.env.DEPLOY_ACCESSORIES || DEPLOY_ACCESSORIES_SALE || DEPLOY_ALL;
+ESSORIES || DEPLOY_ACCESSORIES_SALE || DEPLOY_ALL;
 const DEPLOY_CREATURES_SALE = process.env.DEPLOY_CREATURES_SALE || DEPLOY_ALL;
 // Note that we will default to this unless DEPLOY_ACCESSORIES is set.
 // This is to keep the historical behavior of this migration.
