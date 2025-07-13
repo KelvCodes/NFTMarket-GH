@@ -1,9 +1,4 @@
-
-      addresses[0]
-    );
-  }
-
-  if (DEPLOY_ACCESSORIES_SALE) {
+EPLOY_ACCESSORIES_SALE) {
     await deployer.deploy(LootBoxRandomness);
     await deployer.link(LootBoxRandomness, CreatureAccessoryLootBox);
     await deployer.deploy(
