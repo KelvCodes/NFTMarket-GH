@@ -1,7 +1,6 @@
 
 
-
-const CreatureAccessoryFactory = artifacts.require("../contracts/CreatureAccessoryFactory.sol");
+racts/CreatureAccessoryFactory.sol");
 const CreatureAccessoryLootBox = artifacts.require(
   "../contracts/CreatureAccessoryLootBox.sol"
 );
