@@ -1,8 +1,4 @@
 
-      CreatureAccessoryLootBox,
-      proxyRegistryAddress,
-      { gas: 6721975 }
-    );
     const lootBox = await CreatureAccessoryLootBox.deployed();
     await deployer.deploy(
       CreatureAccessoryFactory,
