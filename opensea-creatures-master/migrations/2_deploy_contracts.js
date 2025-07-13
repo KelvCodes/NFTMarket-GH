@@ -1,6 +1,4 @@
 
-
-module.exports = async (deployer, network, addresses) => {
   // OpenSea proxy registry addresses for rinkeby and mainnet.
   let proxyRegistryAddress = "";
   if (network === 'rinkeby') {
