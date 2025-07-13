@@ -1,6 +1,4 @@
 
-    await setupCreatureAccessories.setupAccessory(
-      accessories,
       addresses[0]
     );
   }
