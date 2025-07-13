@@ -1,7 +1,5 @@
 
 
-
-p the historical behavior of this migration.
 const DEPLOY_CREATURES = process.env.DEPLOY_CREATURES || DEPLOY_CREATURES_SALE || DEPLOY_ALL || (! DEPLOY_ACCESSORIES);
 
 module.exports = async (deployer, network, addresses) => {
