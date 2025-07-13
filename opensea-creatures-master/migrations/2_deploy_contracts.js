@@ -1,5 +1,4 @@
- {gas: 7000000});
-    const creature = await Creature.deployed();
+ature.deployed();
     await creature.transferOwnership(CreatureFactory.address);
   }
 
