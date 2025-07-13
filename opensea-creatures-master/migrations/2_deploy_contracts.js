@@ -1,4 +1,4 @@
-co("./Creature.sol");
+
 const CreatureFactory = artifacts.require("./CreatureFactory.sol");
 const CreatureLootBox = artifacts.require("./CreatureLootBox.sol");
 const CreatureAccessory = artifacts.require("../contracts/CreatureAccessory.sol");
