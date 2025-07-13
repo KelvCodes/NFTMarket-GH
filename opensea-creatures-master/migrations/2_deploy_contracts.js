@@ -1,6 +1,4 @@
-ature.deployed();
-hip(CreatureFactory.address);
-  }
+
 
   if (DEPLOY_ACCESSORIES) {
     await deployer.deploy(
