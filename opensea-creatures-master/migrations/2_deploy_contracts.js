@@ -1,5 +1,5 @@
 ature.deployed();
-    await creature.transferOwnership(CreatureFactory.address);
+hip(CreatureFactory.address);
   }
 
   if (DEPLOY_ACCESSORIES) {
