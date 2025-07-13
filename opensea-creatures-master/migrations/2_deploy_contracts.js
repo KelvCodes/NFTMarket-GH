@@ -1,6 +1,4 @@
-
-  if (DEPLOY_CREATURES) {
-    await deployer.deploy(Creature, proxyRegistryAddress, {gas: 5000000});
+RegistryAddress, {gas: 5000000});
   }
 
   if (DEPLOY_CREATURES_SALE) {
