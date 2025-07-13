@@ -1,5 +1,3 @@
-09ec958c83c3f309868babaca7c86dcb077c1";
-  }
 
   if (DEPLOY_CREATURES) {
     await deployer.deploy(Creature, proxyRegistryAddress, {gas: 5000000});
