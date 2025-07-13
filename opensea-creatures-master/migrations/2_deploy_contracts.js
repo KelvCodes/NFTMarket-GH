@@ -1,7 +1,4 @@
-
-    const lootBox = await CreatureAccessoryLootBox.deployed();
-    await deployer.deploy(
-      CreatureAccessoryFactory,
+y,
       proxyRegistryAddress,
       CreatureAccessory.address,
       CreatureAccessoryLootBox.address,
