@@ -1,8 +1,6 @@
 
 
 
-);
-const LootBoxRandomness = artifacts.require(
   "../contracts/LootBoxRandomness.sol"
 );
 
