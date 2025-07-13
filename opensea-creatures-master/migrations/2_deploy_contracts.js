@@ -1,7 +1,4 @@
-RegistryAddress, {gas: 5000000});
-  }
-
-  if (DEPLOY_CREATURES_SALE) {
+PLOY_CREATURES_SALE) {
     await deployer.deploy(CreatureFactory, proxyRegistryAddress, Creature.address, {gas: 7000000});
     const creature = await Creature.deployed();
     await creature.transferOwnership(CreatureFactory.address);
