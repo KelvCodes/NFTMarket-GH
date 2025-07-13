@@ -1,9 +1,6 @@
 
 
 
-  "../contracts/LootBoxRandomness.sol"
-);
-
 const setupCreatureAccessories = require("../lib/setupCreatureAccessories.js");
 
 // If you want to hardcode what deploys, comment out process.env.X and use
