@@ -1,6 +1,5 @@
 
 
-CE_AUCTIONS = 10;
 const FIXED_PRICE = 0.05; // Fixed price in ETH
 
 // Check that all required environment variables are set
