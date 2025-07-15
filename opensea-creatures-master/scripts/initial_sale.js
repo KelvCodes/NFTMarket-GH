@@ -1,14 +1,4 @@
-
-;
-
-// Initialize OpenSea SDK (OpenSeaPort) with the configured provider
-const seaport = new OpenSeaPort(
-  providerEngine,
-  {
-    networkName: NETWORK === "mainnet" || NETWORK === "live" ? Network.Main : Network.Rinkeby,
-    apiKey: API_KEY, // Optional but useful if making many requests
-  },
-  (arg) => console.log(arg) // Logger callback (optional)
+ole.log(arg) // Logger callback (optional)
 );
 
 async function main() {
