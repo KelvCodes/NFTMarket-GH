@@ -1,7 +1,4 @@
 
-ss.");
-  return;
-}
 
 // Define base derivation path for HD wallet (common for Ethereum)
 const BASE_DERIVATION_PATH = `44'/60'/0'/0`;
