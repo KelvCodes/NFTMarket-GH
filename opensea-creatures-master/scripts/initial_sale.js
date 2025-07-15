@@ -1,5 +1,4 @@
-n
-const DUTCH_AUCTION_END_AMOUNT = 50;   // Ending price for Dutch auction
+ 50;   // Ending price for Dutch auction
 const NUM_DUTCH_AUCTIONS = 3;
 
 const FIXED_PRICE_OPTION_ID = "2";
