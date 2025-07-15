@@ -1,5 +1,5 @@
 
-  console.error("Please specify a factory contract address.");
+Please specify a factory contract address.");
   return;
 }
 
