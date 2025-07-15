@@ -1,5 +1,5 @@
 
-; // Fixed price in ETH
+
 
 // Check that all required environment variables are set
 if (!MNEMONIC || !NODE_API_KEY || !NETWORK || !OWNER_ADDRESS) {
