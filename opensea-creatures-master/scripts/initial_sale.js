@@ -1,6 +1,4 @@
-|| NETWORK === "live" ? "mainnet" : "rinkeby";
-
-// Set up RPC provider using Infura or Alchemy
+r using Infura or Alchemy
 const infuraRpcSubprovider = new RPCSubprovider({
   rpcUrl: isInfura
     ? `https://${network}.infura.io/v3/${NODE_API_KEY}`
