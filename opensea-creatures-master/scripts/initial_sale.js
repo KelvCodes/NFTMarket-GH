@@ -1,6 +1,4 @@
-
-const DUTCH_AUCTION_OPTION_ID = "1";
-const DUTCH_AUCTION_START_AMOUNT = 100; // Starting price for Dutch auction
+n
 const DUTCH_AUCTION_END_AMOUNT = 50;   // Ending price for Dutch auction
 const NUM_DUTCH_AUCTIONS = 3;
 
