@@ -1,6 +1,5 @@
 
-
-const FIXED_PRICE = 0.05; // Fixed price in ETH
+; // Fixed price in ETH
 
 // Check that all required environment variables are set
 if (!MNEMONIC || !NODE_API_KEY || !NETWORK || !OWNER_ADDRESS) {
