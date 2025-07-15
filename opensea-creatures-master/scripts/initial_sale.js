@@ -1,4 +1,4 @@
-ort = opensea.OpenSeaPort;
+SeaPort;
 const Network = opensea.Network;
 
 const MnemonicWalletSubprovider = require("@0x/subproviders").MnemonicWalletSubprovider;
