@@ -1,6 +1,4 @@
-vider;
-const RPCSubprovider = require("web3-provider-engine/subproviders/rpc");
-const Web3ProviderEngine = require("web3-provider-engine");
+eb3-provider-engine");
 
 // Load environment variables (make sure to set these securely)
 const MNEMONIC = process.env.MNEMONIC;
