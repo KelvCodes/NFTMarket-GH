@@ -1,6 +1,4 @@
-eb3-provider-engine");
-
-// Load environment variables (make sure to set these securely)
+e sure to set these securely)
 const MNEMONIC = process.env.MNEMONIC;
 const NODE_API_KEY = process.env.INFURA_KEY || process.env.ALCHEMY_KEY;
 const isInfura = !!process.env.INFURA_KEY;
