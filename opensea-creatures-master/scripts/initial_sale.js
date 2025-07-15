@@ -1,6 +1,4 @@
 
-const FACTORY_CONTRACT_ADDRESS = process.env.FACTORY_CONTRACT_ADDRESS;
-const OWNER_ADDRESS = process.env.OWNER_ADDRESS;
 const NETWORK = process.env.NETWORK; // e.g., 'rinkeby' or 'mainnet'
 const API_KEY = process.env.API_KEY || ""; // Optional: OpenSea API key
 
