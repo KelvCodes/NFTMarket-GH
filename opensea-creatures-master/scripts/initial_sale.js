@@ -2,13 +2,7 @@ ole.log(arg) // Logger callback (optional)
 );
 
 async function main() {
-  try {
-    // Example 1: Create multiple fixed price sell orders for a single option
-    console.log("Creating fixed price auctions...");
-    const fixedSellOrders = await seaport.createFactorySellOrders({
-      assets: [
-        {
-          tokenId: FIXED_PRICE_OPTION_ID,
+_PRICE_OPTION_ID,
           tokenAddress: FACTORY_CONTRACT_ADDRESS,
         },
       ],
