@@ -1,7 +1,5 @@
 
 
-
-// Set up wallet provider using mnemonic phrase
 const mnemonicWalletSubprovider = new MnemonicWalletSubprovider({
   mnemonic: MNEMONIC,
   baseDerivationPath: BASE_DERIVATION_PATH,
