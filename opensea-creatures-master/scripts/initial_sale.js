@@ -1,7 +1,4 @@
 
-  baseDerivationPath: BASE_DERIVATION_PATH,
-});
-
 // Determine which Ethereum network to use
 const network = NETWORK === "mainnet" || NETWORK === "live" ? "mainnet" : "rinkeby";
 
