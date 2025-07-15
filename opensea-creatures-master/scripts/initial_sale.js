@@ -1,7 +1,4 @@
-
-}
-
-if (!FACTORY_CONTRACT_ADDRESS) {
+ONTRACT_ADDRESS) {
   console.error("Please specify a factory contract address.");
   return;
 }
