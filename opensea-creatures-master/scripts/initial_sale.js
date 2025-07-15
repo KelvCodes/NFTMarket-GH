@@ -1,6 +1,4 @@
-
-// Determine which Ethereum network to use
-const network = NETWORK === "mainnet" || NETWORK === "live" ? "mainnet" : "rinkeby";
+|| NETWORK === "live" ? "mainnet" : "rinkeby";
 
 // Set up RPC provider using Infura or Alchemy
 const infuraRpcSubprovider = new RPCSubprovider({
