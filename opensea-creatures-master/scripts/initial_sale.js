@@ -1,4 +1,4 @@
-ONTRACT_ADDRESS) {
+
   console.error("Please specify a factory contract address.");
   return;
 }
