@@ -1,6 +1,6 @@
 
 
-const FIXED_PRICE_OPTION_ID = "2";
+
 const NUM_FIXED_PRICE_AUCTIONS = 10;
 const FIXED_PRICE = 0.05; // Fixed price in ETH
 
