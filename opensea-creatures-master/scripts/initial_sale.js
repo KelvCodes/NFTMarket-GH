@@ -1,4 +1,4 @@
-r using Infura or Alchemy
+
 const infuraRpcSubprovider = new RPCSubprovider({
   rpcUrl: isInfura
     ? `https://${network}.infura.io/v3/${NODE_API_KEY}`
