@@ -1,8 +1,6 @@
 
 
 
-const BASE_DERIVATION_PATH = `44'/60'/0'/0`;
-
 // Set up wallet provider using mnemonic phrase
 const mnemonicWalletSubprovider = new MnemonicWalletSubprovider({
   mnemonic: MNEMONIC,
