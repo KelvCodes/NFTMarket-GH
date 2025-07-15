@@ -1,4 +1,4 @@
- = opensea.Network;
+
 
 const MnemonicWalletSubprovider = require("@0x/subproviders").MnemonicWalletSubprovider;
 const RPCSubprovider = require("web3-provider-engine/subproviders/rpc");
