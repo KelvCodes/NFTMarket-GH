@@ -1,4 +1,4 @@
-d environment variables are set
+
 if (!MNEMONIC || !NODE_API_KEY || !NETWORK || !OWNER_ADDRESS) {
   console.error(
     "Please set a mnemonic, Alchemy/Infura key, owner, network, API key, nft contract, and factory contract address."
