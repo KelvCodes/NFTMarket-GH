@@ -1,8 +1,4 @@
 
-    ? `https://${network}.infura.io/v3/${NODE_API_KEY}`
-    : `https://eth-${network}.alchemyapi.io/v2/${NODE_API_KEY}`,
-});
-
 // Create and configure provider engine
 const providerEngine = new Web3ProviderEngine();
 providerEngine.addProvider(mnemonicWalletSubprovider);
