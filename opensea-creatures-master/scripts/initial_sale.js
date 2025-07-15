@@ -1,9 +1,5 @@
 
-// Create and configure provider engine
-const providerEngine = new Web3ProviderEngine();
-providerEngine.addProvider(mnemonicWalletSubprovider);
-providerEngine.addProvider(infuraRpcSubprovider);
-providerEngine.start();
+;
 
 // Initialize OpenSea SDK (OpenSeaPort) with the configured provider
 const seaport = new OpenSeaPort(
