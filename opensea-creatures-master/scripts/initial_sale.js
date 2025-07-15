@@ -1,6 +1,4 @@
- address."
-  );
-  return;
+
 }
 
 if (!FACTORY_CONTRACT_ADDRESS) {
