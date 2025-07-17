@@ -2,15 +2,7 @@
        
 
 
-vider = new HDWalletProvider(
-    MNEMONIC,
-    isInfura
-      ? "https://" + network + ".infura.io/v3/" + NODE_API_KEY
-      : "https://eth-" + network + ".alchemyapi.io/v2/" + NODE_API_KEY
-  );
-  const web3Instance = new web3(provider);
-
-  if (FACTORY_CONTRACT_ADDRESS) {
+NTRACT_ADDRESS) {
     const factoryContract = new web3Instance.eth.Contract(
       FACTORY_ABI,
       FACTORY_CONTRACT_ADDRESS,
