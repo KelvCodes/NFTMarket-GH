@@ -2,7 +2,7 @@
 
 
 
-        type: "address",
+
       },
     ],
     name: "mintTo",
