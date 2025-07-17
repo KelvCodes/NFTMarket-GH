@@ -1,7 +1,6 @@
 
        
-    ],
-    name: "mint",
+,
     outputs: [],
     payable: false,
     stateMutability: "nonpayable",
