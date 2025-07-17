@@ -1,6 +1,5 @@
 
-      {
-        name: "_optionId",
+    ptionId",
         type: "uint256",
       },
       {
