@@ -1,8 +1,7 @@
 
 
 
-
-const FACTORY_ABI = [
+[
   {
     constant: false,
     inputs: [
