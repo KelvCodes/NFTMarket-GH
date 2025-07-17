@@ -1,6 +1,6 @@
 
 
-const DEFAULT_OPTION_ID = 0;
+
 const LOOTBOX_OPTION_ID = 2;
 
 if (!MNEMONIC || !NODE_API_KEY || !OWNER_ADDRESS || !NETWORK) {
