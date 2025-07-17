@@ -1,8 +1,6 @@
 
 
-nction",
-  },
-];
+
 
 const FACTORY_ABI = [
   {
