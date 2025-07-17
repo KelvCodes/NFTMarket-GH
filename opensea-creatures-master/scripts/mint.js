@@ -1,6 +1,4 @@
-;
-const NFT_CONTRACTv.OWNER_ADDRESS;
-const NETWORK = process.env.NETWORK;
+;const NETWORK = process.env.NETWORK;
 const NUM_CREATURES = 12;
 const NUM_LOOTBOXES = 4;
 const DEFAULT_OPTION_ID = 0;
