@@ -1,6 +1,5 @@
 
-        type: "address",
-      },
+       
     ],
     name: "mint",
     outputs: [],
