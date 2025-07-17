@@ -3,8 +3,7 @@
 
 
 
-
-chemy/Infura key, owner, network, and contract address."
+network, and contract address."
   );
   return;
 }
