@@ -4,8 +4,7 @@
 
 
  = [
-  {
-    constant: false,
+  {tant: false,
     inputs: [
       {
         name: "_to",
