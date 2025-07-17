@@ -3,8 +3,6 @@
 
 
 
- = [
-  {tant: false,
     inputs: [
       {
         name: "_to",
