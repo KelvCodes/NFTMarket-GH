@@ -4,8 +4,7 @@
 
 
       },
-    ],
-    name: "mintTo",
+
     outputs: [],
     payable: false,
     stateMutability: "nonpayable",
