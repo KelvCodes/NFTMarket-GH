@@ -2,8 +2,7 @@
 
 
 
-
-    stateMutability: "nonpayable",
+y: "nonpayable",
     type: "function",
   },
 ];
