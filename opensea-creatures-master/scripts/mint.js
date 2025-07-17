@@ -1,6 +1,5 @@
 
-const NUM_CREATURES = 12;
-const NUM_LOOTBOXES = 4;
+
 const DEFAULT_OPTION_ID = 0;
 const LOOTBOX_OPTION_ID = 2;
 
