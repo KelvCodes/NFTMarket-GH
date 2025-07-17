@@ -3,7 +3,7 @@
 
 
 
-RESS || !NETWORK) {
+WORK) {
   console.error(
     "Please set a mnemonic, Alchemy/Infura key, owner, network, and contract address."
   );
