@@ -2,7 +2,6 @@
 
 
 
-y: "nonpayable",
     type: "function",
   },
 ];
