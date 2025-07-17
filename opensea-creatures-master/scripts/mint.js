@@ -1,8 +1,6 @@
 
 
-
-
-    type: "function",
+nction",
   },
 ];
 
