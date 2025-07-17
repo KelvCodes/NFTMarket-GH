@@ -2,12 +2,7 @@
        
 
 
-NTRACT_ADDRESS) {
-    const factoryContract = new web3Instance.eth.Contract(
-      FACTORY_ABI,
-      FACTORY_CONTRACT_ADDRESS,
-      { gasLimit: "1000000" }
-    );
+
 
     // Creatures issued directly to the owner.
     for (var i = 0; i < NUM_CREATURES; i++) {
