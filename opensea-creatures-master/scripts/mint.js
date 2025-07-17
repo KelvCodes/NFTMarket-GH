@@ -1,11 +1,7 @@
 
        
 
-    payable: false,
-    stateMutability: "nonpayable",
-    type: "function",
-  },
-];
+
 
 async function main() {
   const network =
