@@ -3,8 +3,7 @@
 
 
 
-  );
-  return;
+ 
 }
 
 const NFT_ABI = [
