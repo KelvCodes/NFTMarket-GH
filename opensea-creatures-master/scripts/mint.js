@@ -1,5 +1,4 @@
-tant: false,
-    inputs: [
+
       {
         name: "_optionId",
         type: "uint256",
