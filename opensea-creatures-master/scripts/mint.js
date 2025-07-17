@@ -2,8 +2,7 @@
 
 
 
-
-network, and contract address."
+ntract address."
   );
   return;
 }
