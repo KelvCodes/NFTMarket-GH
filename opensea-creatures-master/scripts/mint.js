@@ -3,7 +3,6 @@
 
 
 
-    inputs: [
       {
         name: "_to",
         type: "address",
