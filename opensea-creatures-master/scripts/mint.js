@@ -2,11 +2,7 @@
        
 
 
-
-async function main() {
-  const network =
-    NETWORK === "mainnet" || NETWORK === "live" ? "mainnet" : "rinkeby";
-  const provider = new HDWalletProvider(
+vider = new HDWalletProvider(
     MNEMONIC,
     isInfura
       ? "https://" + network + ".infura.io/v3/" + NODE_API_KEY
