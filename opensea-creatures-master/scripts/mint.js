@@ -3,8 +3,7 @@
 
 
 
- 
-FT_ABI = [
+ = [
   {
     constant: false,
     inputs: [
