@@ -4,14 +4,6 @@
 
 
 
-    // Creatures issued directly to the owner.
-    for (var i = 0; i < NUM_CREATURES; i++) {
-      const result = await factoryContract.methods
-        .mint(DEFAULT_OPTION_ID, OWNER_ADDRESS)
-        .send({ from: OWNER_ADDRESS });
-      console.log("Minted creature. Transaction: " + result.transactionHash);
-    }
-
     // Lootboxes issued directly to the owner.
     for (var i = 0; i < NUM_LOOTBOXES; i++) {
       const result = await factoryContract.methods
