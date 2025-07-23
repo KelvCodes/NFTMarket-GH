@@ -1,6 +1,5 @@
 
-ic, Alchemy/Infura key, owner, network, API key, nft contract, and factory contract address."
-  );
+ic, Alche
   return;
 }
 
