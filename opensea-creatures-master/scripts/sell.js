@@ -1,9 +1,6 @@
 
  NFT_CONTRACT_ADDRESS,
-      schemaName: WyvernSchemaName.ERC721
-    },
-    startAmount: 0.05,
-    expirationTime: 0,
+      sche
     accountAddress: OWNER_ADDRESS,
   });
   console.log(
