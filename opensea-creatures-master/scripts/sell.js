@@ -1,4 +1,4 @@
- is optional but useful if you're doing a high volume of requests.
+
 
 if (!MNEMONIC || !NODE_API_KEY || !NETWORK || !OWNER_ADDRESS) {
   console.error(
