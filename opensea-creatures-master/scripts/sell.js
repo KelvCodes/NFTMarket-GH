@@ -1,6 +1,4 @@
-
-    ? "https://" + network + ".infura.io/v3/" + NODE_API_KEY
-    : "https://eth-" + network + ".alchemyapi.io/v2/" + NODE_API_KEY,
+k + ".alchemyapi.io/v2/" + NODE_API_KEY,
 });
 
 const providerEngine = new Web3ProviderEngine();
