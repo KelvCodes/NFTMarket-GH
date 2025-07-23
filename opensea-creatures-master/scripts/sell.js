@@ -1,8 +1,5 @@
 
-      NETWORK === "mainnet" || NETWORK === "live"
-        ? Netwy,
-    apiKey: API_KEY,
-  },
+
   (arg) => console.log(arg)
 );
 
