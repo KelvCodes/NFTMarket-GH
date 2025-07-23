@@ -1,7 +1,4 @@
-
-providerEngine.addProvider(mnemonicWalletS
-
-const seaport = new OpenSeaPort(
+ort = new OpenSeaPort(
   providerEngine,
   {
     networkName:
