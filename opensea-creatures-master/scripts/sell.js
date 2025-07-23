@@ -1,8 +1,4 @@
 
-
-  (arg) => console.log(arg)
-);
-
 async function main() {
   // Example: simple fixed-price sale of an item owned by a user.
   console.log("Auctioning an item for a fixed price...");
