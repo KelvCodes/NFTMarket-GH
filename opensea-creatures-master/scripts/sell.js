@@ -1,7 +1,6 @@
 
       NETWORK === "mainnet" || NETWORK === "live"
-        ? Network.Main
-        : Network.Rinkeby,
+        ? Netwy,
     apiKey: API_KEY,
   },
   (arg) => console.log(arg)
