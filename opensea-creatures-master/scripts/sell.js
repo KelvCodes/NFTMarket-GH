@@ -1,5 +1,4 @@
-
-const API_KEY = process.env.API_KEY || ""; // API key is optional but useful if you're doing a high volume of requests.
+ is optional but useful if you're doing a high volume of requests.
 
 if (!MNEMONIC || !NODE_API_KEY || !NETWORK || !OWNER_ADDRESS) {
   console.error(
