@@ -1,7 +1,5 @@
 
-providerEngine.addProvider(mnemonicWalletSubprovider);
-providerEngine.addProvider(infuraRpcSubprovider);
-providerEngine.start();
+providerEngine.addProvider(mnemonicWalletS
 
 const seaport = new OpenSeaPort(
   providerEngine,
