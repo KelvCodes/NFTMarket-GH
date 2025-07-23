@@ -1,8 +1,6 @@
 
 }
 
-
-  baseDerivationPath: BASE_DERIVATION_PATH,
 });
 const network =
   NETWORK === "mainnet" || NETWORK === "live" ? "mainnet" : "rinkeby";
