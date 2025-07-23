@@ -1,6 +1,4 @@
 
-
-if (!FACTORY_CONTRACT_ADDRESS && !NFT_CONTRACT_ADDRESS) {
   console.error("Please either set a factory or NFT contract address.");
   return;
 }
