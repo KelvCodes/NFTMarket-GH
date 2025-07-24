@@ -1,11 +1,4 @@
-
-      sche
-    a
-    expirationTime: expirationTime,
-    accountAddress: OWNER_ADDRESS,
-  });
-  console.log(
-    `Successfully created a dutch auction sell order! ${dutchAuctionSellOrder.asset.openseaLink}\n`
+ated a dutch auction sell order! ${dutchAuctionSellOrder.asset.openseaLink}\n`
   );
 
   // Example: English auction.
