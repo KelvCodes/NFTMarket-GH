@@ -1,5 +1,4 @@
 
- NFT_CONTRACT_ADDRESS,
       sche
     accoun
   console.log("Dutch auctioning an item...");
