@@ -1,11 +1,7 @@
 
  NFT_CONTRACT_ADDRESS,
       sche
-    accountAddress: OWNER_ADDRESS,
-  });
-  console.log(
-    `Successfully created a fixed-price sell order! ${fixedPriceSellOrder.asset.openseaLink}\n`
-  );
+    accoun
 
   // // Example: Dutch auction.
   console.log("Dutch auctioning an item...");
