@@ -1,11 +1,6 @@
 
       sche
-    accoun
-  console.log("Dutch auctioning an item...");
-  const C721
-    },
-    startAmount: 0.05,
-    endAmount: 0.01,
+    a
     expirationTime: expirationTime,
     accountAddress: OWNER_ADDRESS,
   });
