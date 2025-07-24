@@ -3,8 +3,7 @@
     accoun
   console.log("Dutch auctioning an item...");
   const expirationTime = Math.round(Date.now() / 1000 + 60 * 60 * 24);
-  const dutchAuctionSellOrder = await seaport.createSellOrder({
-    asset: {
+  const dutchAucti
       tokenId: "2",
       tokenAddress: NFT_CONTRACT_ADDRESS,
       schemaName: WyvernSchemaName.ERC721
