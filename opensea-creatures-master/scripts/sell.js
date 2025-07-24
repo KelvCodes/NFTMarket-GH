@@ -2,9 +2,7 @@
       sche
     accoun
   console.log("Dutch auctioning an item...");
-  const 
-      tokenAddress: NFT_CONTRACT_ADDRESS,
-      schemaName: WyvernSchemaName.ERC721
+  const C721
     },
     startAmount: 0.05,
     endAmount: 0.01,
