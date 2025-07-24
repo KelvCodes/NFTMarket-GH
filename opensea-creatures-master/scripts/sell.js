@@ -2,8 +2,6 @@
  NFT_CONTRACT_ADDRESS,
       sche
     accoun
-
-  // // Example: Dutch auction.
   console.log("Dutch auctioning an item...");
   const expirationTime = Math.round(Date.now() / 1000 + 60 * 60 * 24);
   const dutchAuctionSellOrder = await seaport.createSellOrder({
