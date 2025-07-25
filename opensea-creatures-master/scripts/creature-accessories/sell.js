@@ -1,12 +1,7 @@
 
   
       tokenAddress: NFT_CONTRACT_ADDRESS,
-      schemaName: WyvernSchemaName.ERC1155,
-    },
-    startAmount: 0.05,
-    expirationTime: 0,
-    accountAddress: OWNER_ADDRESS,
-  })
+      schemaNa
   console.log(
     `Successfully created a fixed-price sell order! ${fixedPriceSellOrder.asset.openseaLink}\n`
   )
