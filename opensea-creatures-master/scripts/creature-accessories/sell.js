@@ -1,6 +1,4 @@
-
-const providerEngine = new Web3ProviderEngine()
-providerEngine.addProvider(mnemonicWalletSubprovider)
+cWalletSubprovider)
 providerEngine.addProvider(infuraRpcSubprovider)
 providerEngine.start()
 
