@@ -1,7 +1,5 @@
 
-
-if (!NFT_CONTRACT_ADDRESS) {
-  console.error('Please set an NFT contract address.')
+ase set an NFT contract address.')
   return
 }
 
@@ -93,4 +91,5 @@ async function main() {
 }
 
 main()
+
 
