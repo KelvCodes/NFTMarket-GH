@@ -1,6 +1,4 @@
-
-const infuraRpcSubprovider = new RPCSubprovider({
-  rpcUrl: 'https://' + network + '.infura.io/v3/' + INFURA_KEY,
+ + network + '.infura.io/v3/' + INFURA_KEY,
 })
 
 const providerEngine = new Web3ProviderEngine()
