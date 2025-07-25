@@ -1,7 +1,4 @@
-
- || '' // A.
-
-if (!MNEMONIC || !INFURA_KEY || !NETWORK || !OWNER_ADDRESS) {
+FURA_KEY || !NETWORK || !OWNER_ADDRESS) {
   console.error(
     'Please set a mnemonic, infura key, owner, network, API key, nft contract, and factory contract address.'
   )
