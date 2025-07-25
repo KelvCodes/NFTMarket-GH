@@ -1,5 +1,4 @@
 
-  console.error(
     'Please set a mnemonic, infura key, owner, network, API key, nft contract, and factory contract address.'
   )
   return
