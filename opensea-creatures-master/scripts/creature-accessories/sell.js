@@ -1,9 +1,5 @@
 
-  // Example: simple fixed-price sale of an item owned by a user.
-  console.log('Auctioning an item for a fixed price...')
-  const fixedPriceSellOrder = await seaport.createSellOrder({
-    asset: {
-      tokenId: '1',
+  
       tokenAddress: NFT_CONTRACT_ADDRESS,
       schemaName: WyvernSchemaName.ERC1155,
     },
