@@ -1,5 +1,4 @@
- new MnemonicWalletSubprovider({
-  mnemonic: MNEMONIC,
+
   baseDerivationPath: BASE_DERIVATION_PATH,
 })
 const network =
