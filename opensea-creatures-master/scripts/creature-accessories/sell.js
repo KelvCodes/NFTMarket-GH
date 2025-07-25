@@ -1,6 +1,4 @@
-
-  .MnemonicWalletSubprovider
-const RPCSubprovider = require('web3-provider-engine/subproviders/rpc')
+ovider-engine/subproviders/rpc')
 const Web3ProviderEngine = require('web3-provider-engine')
 
 const MNEMONIC = process.env.MNEMONIC
