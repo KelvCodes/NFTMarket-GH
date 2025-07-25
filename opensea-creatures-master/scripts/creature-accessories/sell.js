@@ -1,6 +1,5 @@
 
 
-const NETWORK = process.env.NETWORK
 const API_KEY = process.env.API_KEY || '' // API key is optional but useful if you're doing a high volume of requests.
 
 if (!MNEMONIC || !INFURA_KEY || !NETWORK || !OWNER_ADDRESS) {
