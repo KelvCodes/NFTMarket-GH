@@ -1,4 +1,4 @@
-net' || NETWORK === 'live' ? 'mainnet' : 'rinkeby'
+
 const infuraRpcSubprovider = new RPCSubprovider({
   rpcUrl: 'https://' + network + '.infura.io/v3/' + INFURA_KEY,
 })
