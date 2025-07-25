@@ -1,6 +1,4 @@
-rEngine,
-  {
-    networkName:
+:
       NETWORK === 'mainnet' || NETWORK === 'live'
         ? Network.Main
         : Network.Rinkeby,
