@@ -1,6 +1,4 @@
-cWalletSubprovider)
-providerEngine.addProvider(infuraRpcSubprovider)
-providerEngine.start()
+cWallet()
 
 const seaport = new OpenSeaPort(
   providerEngine,
