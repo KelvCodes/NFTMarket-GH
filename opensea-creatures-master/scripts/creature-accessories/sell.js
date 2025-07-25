@@ -1,10 +1,6 @@
 
   
       tokenAddress: NFT_CONTRACT_ADDRESS,
-      schemaNa
-  console.log(
-    `Successfully created a fixed-price sell order! ${fixedPriceSellOrder.asset.openseaLink}\n`
-  )
 
   // // Example: Dutch auction.
   console.log('Dutch auctioning an item...')
