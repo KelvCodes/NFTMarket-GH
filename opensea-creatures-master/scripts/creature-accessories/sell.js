@@ -1,6 +1,4 @@
-const Web3ProviderEngine = require('web3-provider-engine')
 
-const MNEMONIC = process.env.MNEMONIC
 const INFURA_KEY = process.env.INFURA_KEY
 const NFT_CONTRACT_ADDRESS = process.env.NFT_CONTRACT_ADDRESS
 const OWNER_ADDRESS = process.env.OWNER_ADDRESS
