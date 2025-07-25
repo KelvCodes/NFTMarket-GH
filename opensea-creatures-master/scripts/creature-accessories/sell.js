@@ -1,12 +1,4 @@
 
-  yvernSchemaName.ERC1155,
-    },
-    startAmount: 0.05,
-    endAmount: 0.01,
-    expirationTime: expirationTime,
-    accountAddress: OWNER_ADDRESS,
-  })
-  console.log(
     `Successfully created a dutch auction sell order! ${dutchAuctionSellOrder.asset.openseaLink}\n`
   )
 
