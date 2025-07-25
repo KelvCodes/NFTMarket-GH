@@ -1,7 +1,4 @@
-r, network, API key, nft contract, and factory contract address.'
-  )
-  return
-}
+
 
 if (!NFT_CONTRACT_ADDRESS) {
   console.error('Please set an NFT contract address.')
