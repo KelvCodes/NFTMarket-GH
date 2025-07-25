@@ -1,7 +1,4 @@
-cWallet()
-
-const seaport = new OpenSeaPort(
-  providerEngine,
+rEngine,
   {
     networkName:
       NETWORK === 'mainnet' || NETWORK === 'live'
