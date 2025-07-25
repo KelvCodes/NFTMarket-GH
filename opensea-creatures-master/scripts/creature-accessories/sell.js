@@ -1,4 +1,4 @@
-ovider-engine/subproviders/rpc')
+rpc')
 const Web3ProviderEngine = require('web3-provider-engine')
 
 const MNEMONIC = process.env.MNEMONIC
