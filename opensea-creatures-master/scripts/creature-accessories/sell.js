@@ -1,15 +1,5 @@
 
-  
-      tokenAddress: NFT_CONTRACT_ADDRESS,
-
-  // // Example: Dutch auction.
-  console.log('Dutch auctioning an item...')
-  const expirationTime = Math.round(Date.now() / 1000 + 60 * 60 * 24)
-  const dutchAuctionSellOrder = await seaport.createSellOrder({
-    asset: {
-      tokenId: '2',
-      tokenAddress: NFT_CONTRACT_ADDRESS,
-      schemaName: WyvernSchemaName.ERC1155,
+  yvernSchemaName.ERC1155,
     },
     startAmount: 0.05,
     endAmount: 0.01,
