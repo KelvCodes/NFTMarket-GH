@@ -1,6 +1,4 @@
-NEMONIC || !NODE_API_KEY) && needsNodeAPI) {
-  console.error("Please
-}
+
 
 const rinkebyNodeUrl = isInfura
   ? "https://rinkeby.infura.io/v3/" + NODE_API_KEY
