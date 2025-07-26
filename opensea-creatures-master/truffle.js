@@ -4,9 +4,7 @@
  
 
             },
-      },
-    },
-  },
+   
   plugins: [
     'truffle-plugin-verify'
   ],
