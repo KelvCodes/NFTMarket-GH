@@ -1,8 +1,5 @@
 
 
-      network_id: "*", // Match any network id
-    },
-    rinkeby: {
       provider: function () {
         return new HDWalletProvider(MNEMONIC, rinkebyNodeUrl);
       },
