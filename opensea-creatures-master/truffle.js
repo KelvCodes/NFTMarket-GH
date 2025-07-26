@@ -2,8 +2,7 @@
 
 
  
-    
-      settings: {
+
         optimizer: {
           enabled: true,
           runs: 20   // Optimize for how many times you intend to run the code
