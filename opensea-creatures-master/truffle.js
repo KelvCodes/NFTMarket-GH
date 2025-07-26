@@ -1,8 +1,5 @@
 
 
-      provider: function () {
-        return new HDWalletProvider(MNEMONIC, rinkebyNodeUrl);
-      },
       gas: 5000000,
       network_id: 4,
     },
