@@ -6,7 +6,6 @@
             
    
 
-
-    etherscan: 'ETHERSCAN_API_KEY_FOR_VERIFICATION'
+: 'ETHERSCAN_API_KEY_FOR_VERIFICATION'
   }
 };
