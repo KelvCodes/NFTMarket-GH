@@ -5,7 +5,7 @@
 
             
    
-  plugins: [
+  ins: [
     'truffle-plugin-verify'
   ],
   api_keys: {
