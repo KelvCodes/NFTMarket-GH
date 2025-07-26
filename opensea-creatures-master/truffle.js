@@ -5,7 +5,6 @@
 
             
    
-
-: 'ETHERSCAN_API_KEY_FOR_VERIFICATION'
+RSCAN_API_KEY_FOR_VERIFICATION'
   }
 };
