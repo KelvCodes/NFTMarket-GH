@@ -1,8 +1,4 @@
-s
 
-      provider: function () {
-        return new HDWalletProvider(MNEMONIC, mainnetNodeUrl);
-      },
       gas: 5000000,
       gasPrice: 5000000000,
     },
