@@ -1,6 +1,4 @@
 
-const needsNodeAPI =
-  process.env.npm_config_
   (process.env.npm_config_argv.includes("rinkeby") ||
     process.env.npm_config_argv.includes("live"));
 
