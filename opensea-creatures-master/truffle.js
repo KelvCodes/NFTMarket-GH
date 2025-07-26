@@ -1,8 +1,6 @@
 
 
-      gasPrice: 2,
-    },
-  },
+
   compilers: {
     solc: {
       version: "^0.8.0",
