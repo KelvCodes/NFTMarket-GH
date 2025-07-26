@@ -1,8 +1,4 @@
 
-      gas: 5000000,
-      gasPrice: 5000000000,
-    },
-  },
   mocha: {
     reporter: "eth-gas-reporter",
     reporterOptions: {
