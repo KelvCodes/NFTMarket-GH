@@ -1,4 +1,4 @@
-| process.env.ALCHEMY_KEY;
+
 const isInfura = !!process.env.INFURA_KEY;
 
 const needsNodeAPI =
