@@ -1,7 +1,4 @@
-
-    process.env.npm_config_argv.includes("live"));
-
-if ((!MNEMONIC || !NODE_API_KEY) && needsNodeAPI) {
+NEMONIC || !NODE_API_KEY) && needsNodeAPI) {
   console.error("Please set a mnemonic and ALCHEMY_KEY or INFURA_KEY.");
   process.exit(0);
 }
