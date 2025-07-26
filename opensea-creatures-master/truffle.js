@@ -4,6 +4,5 @@
  
 
             
-KEY_FOR_VERIFICATION'
-  }
+K
 };
