@@ -1,6 +1,5 @@
 
 
-    reporterOptions: {
       currency: "USD",
       gasPrice: 2,
     },
