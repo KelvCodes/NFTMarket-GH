@@ -1,6 +1,5 @@
 
 
-      currency: "U,
       gasPrice: 2,
     },
   },
