@@ -1,6 +1,5 @@
 NEMONIC || !NODE_API_KEY) && needsNodeAPI) {
-  console.error("Please set a mnemonic and ALCHEMY_KEY or INFURA_KEY.");
-  process.exit(0);
+  console.error("Please
 }
 
 const rinkebyNodeUrl = isInfura
