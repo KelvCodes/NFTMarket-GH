@@ -1,4 +1,4 @@
-const HDWalletProvider = require("truffle-hdwallet-provider");
+require("truffle-hdwallet-provider");
 
 const MNEMONIC = process.env.MNEMONIC;
 const NODE_API_KEY = process.env.INFURA_KEY || process.env.ALCHEMY_KEY;
