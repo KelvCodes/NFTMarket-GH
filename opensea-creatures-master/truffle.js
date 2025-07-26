@@ -1,8 +1,5 @@
 
-  : "https://eth-mainnet.alchemyapi.io/v2/" + NODE_API_KEY;
-
-module.exports = {
-  networks: {
+ 
     development: {
       host: "localhost",
       port: 7545,
