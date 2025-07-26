@@ -4,7 +4,6 @@
  
 
             
-   
-RSCAN_API_KEY_FOR_VERIFICATION'
+KEY_FOR_VERIFICATION'
   }
 };
