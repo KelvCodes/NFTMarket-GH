@@ -1,7 +1,5 @@
 
 
-      gas: 5000000,
-      network_id: 4,
     },
     live: {
       network_id: 1,
