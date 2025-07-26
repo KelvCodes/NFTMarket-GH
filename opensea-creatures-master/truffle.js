@@ -1,6 +1,4 @@
 
-const isInfura = !!process.env.INFURA_KEY;
-
 const needsNodeAPI =
   process.env.npm_config_argv &&
   (process.env.npm_config_argv.includes("rinkeby") ||
