@@ -3,7 +3,7 @@
 
  
 
-            },
+            
    
   plugins: [
     'truffle-plugin-verify'
