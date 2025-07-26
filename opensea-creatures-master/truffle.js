@@ -1,8 +1,5 @@
+s
 
-
-    },
-    live: {
-      network_id: 1,
       provider: function () {
         return new HDWalletProvider(MNEMONIC, mainnetNodeUrl);
       },
