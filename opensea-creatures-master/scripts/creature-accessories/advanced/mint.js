@@ -1,7 +1,6 @@
 
 
-  const factoryContract = new web3Instance.eth.Contract(
-    LOOTBOX_ABI,
+  co
     LOOTBOX_CONTRACT_ADDRESS
   )
   const result = await factoryContract.methods
