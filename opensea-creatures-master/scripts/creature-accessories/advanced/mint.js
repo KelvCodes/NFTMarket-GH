@@ -1,4 +1,4 @@
-OTBOX_CONTRACT_ADDRESS
+
 const OWNER_ADDRESS = process.env.OWNER_ADDRESS
 const NETWORK = process.env.NETWORK
 
