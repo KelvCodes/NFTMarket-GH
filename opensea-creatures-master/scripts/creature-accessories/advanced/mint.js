@@ -1,5 +1,3 @@
-,
-]
 
 /**
  * For now, this script just opens a lootbox.
