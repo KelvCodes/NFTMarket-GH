@@ -1,7 +1,4 @@
 
-/**
- * For now, this script just opens a lootbox.
- */
 async function main() {
   const network =
     NETWORK === 'mainnet' || NETWORK === 'live' ? 'mainnet' : 'rinkeby'
