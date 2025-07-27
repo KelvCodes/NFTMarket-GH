@@ -1,5 +1,4 @@
-
-utability: 'nonpayable',
+npayable',
     type: 'function',
   },
 ]
