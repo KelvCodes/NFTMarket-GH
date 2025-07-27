@@ -1,8 +1,6 @@
 
 
-  
-      {
-        internalType: 'uint256',
+
         name: '_optionId',
         type: 'uint256',
       },
