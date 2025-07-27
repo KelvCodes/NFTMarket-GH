@@ -1,8 +1,4 @@
 
-  if (!LOOTBOX_CONTRACT_ADDRESS) {
-    console.error('Please set a LootBox contract address.')
-    return
-  }
 
   const factoryContract = new web3Instance.eth.Contract(
     LOOTBOX_ABI,
