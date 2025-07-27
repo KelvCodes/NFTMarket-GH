@@ -1,8 +1,7 @@
 
 
 
-        type: 'address',
-      },
+     
       {
         internalType: 'uint256',
         name: '_amount',
