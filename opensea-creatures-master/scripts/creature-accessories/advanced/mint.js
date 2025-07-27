@@ -1,6 +1,4 @@
 
-  return
-}
 
 const LOOTBOX_ABI = [
   {
