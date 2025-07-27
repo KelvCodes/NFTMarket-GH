@@ -1,5 +1,4 @@
 
-const OWNER_ADDRESS = process.env.OWNER_ADDRESS
 const NETWORK = process.env.NETWORK
 
 if (!MNEMONIC || !INFURA_KEY || !OWNER_ADDRESS || !NETWORK) {
