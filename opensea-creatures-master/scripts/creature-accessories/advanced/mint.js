@@ -1,7 +1,6 @@
 
 
   
-    inputs: [
       {
         internalType: 'uint256',
         name: '_optionId',
