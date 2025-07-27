@@ -1,6 +1,4 @@
 
-    ],
-    name: 'unpack',
     outputs: [],
     payable: false,
     stateMutability: 'nonpayable',
