@@ -1,9 +1,5 @@
 
 
-
-     
-      {
-        internalType: 'uint256',
         name: '_amount',
         type: 'uint256',
       },
