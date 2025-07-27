@@ -1,6 +1,4 @@
 
-
-        name: '_amount',
         type: 'uint256',
       },
     ],
