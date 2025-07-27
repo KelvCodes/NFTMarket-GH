@@ -1,7 +1,7 @@
 
 
 
-        type: 'uint256',
+   'uint256',
       },
       {
         internalType: 'address',
