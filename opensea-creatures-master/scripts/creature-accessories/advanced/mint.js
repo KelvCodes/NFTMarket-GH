@@ -1,5 +1,5 @@
 
-async function main() {
+asyn
   const network =
     NETWORK === 'mainnet' || NETWORK === 'live' ? 'mainnet' : 'rinkeby'
   const provider = new HDWalletProvider(
