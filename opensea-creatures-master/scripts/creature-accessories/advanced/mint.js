@@ -1,6 +1,5 @@
 
 
-    MNEMONIC,
     `https://${network}.infura.io/v3/${INFURA_KEY}`
   )
   const web3Instance = new web3(provider)
