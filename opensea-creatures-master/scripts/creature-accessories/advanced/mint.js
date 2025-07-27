@@ -1,5 +1,4 @@
-
-        type: 'uint256',
+nt256',
       },
     ],
     name: 'unpack',
