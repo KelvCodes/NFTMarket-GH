@@ -1,6 +1,5 @@
 
-    pa
-    stateMutability: 'nonpayable',
+utability: 'nonpayable',
     type: 'function',
   },
 ]
