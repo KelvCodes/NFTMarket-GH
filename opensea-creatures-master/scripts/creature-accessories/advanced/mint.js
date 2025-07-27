@@ -1,4 +1,4 @@
-'mainnet' : 'rinkeby'
+
   const provider = new HDWalletProvider(
     MNEMONIC,
     `https://${network}.infura.io/v3/${INFURA_KEY}`
