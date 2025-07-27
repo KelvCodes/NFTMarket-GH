@@ -1,7 +1,5 @@
 
 
-const LOOTBOX_ABI = [
-  {
     constant: false,
     inputs: [
       {
