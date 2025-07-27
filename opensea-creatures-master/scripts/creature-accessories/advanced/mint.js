@@ -1,6 +1,4 @@
-
-
-    'Please set a mnemonic, infura key, owner, network, and contract address.'
+work, and contract address.'
   )
   return
 }
