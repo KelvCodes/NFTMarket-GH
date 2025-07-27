@@ -1,7 +1,6 @@
 
 
 
-        name: '_optionId',
         type: 'uint256',
       },
       {
