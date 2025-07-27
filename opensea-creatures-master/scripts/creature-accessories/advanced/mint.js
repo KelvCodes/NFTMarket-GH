@@ -1,6 +1,3 @@
-INFURA_KEY}`
-  )
-  const web3Instance = new web3(provider)
 
   if (!LOOTBOX_CONTRACT_ADDRESS) {
     console.error('Please set a LootBox contract address.')
