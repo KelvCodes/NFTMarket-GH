@@ -1,4 +1,4 @@
-der = require('truffle-hdwallet-provider')
+truffle-hdwallet-provider')
 const web3 = require('web3')
 const MNEMONIC = process.env.MNEMONIC
 const INFURA_KEY = process.env.INFURA_KEY
