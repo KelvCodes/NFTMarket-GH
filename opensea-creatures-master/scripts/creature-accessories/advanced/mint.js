@@ -1,6 +1,4 @@
 
-const NETWORK = process.env.NETWORK
-
 if (!MNEMONIC || !INFURA_KEY || !OWNER_ADDRESS || !NETWORK) {
   console.error(
     'Please set a mnemonic, infura key, owner, network, and contract address.'
