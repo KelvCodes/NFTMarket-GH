@@ -1,6 +1,4 @@
-    //i
-//C,
-  baseDerivationPath: BASE_DERIVATION_PATH,
+ BASE_DERIVATION_PATH,
 });
 
 // Choose correct RPC URL depending on provider (Infura or Alchemy)
