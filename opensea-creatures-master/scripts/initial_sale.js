@@ -1,10 +1,6 @@
 o/v2
 async function to create multiple auctions
-async function main() {
-  try {
-    console.log("🚀 Starting auction creation script...\n");
-
-    // ✅ Example 1: Create multiple fixed price sell orders for the same option
+async 1: Create multiple fixed price sell orders for the same option
     console.log("Creating fixed price auctions...");
     const fixedSellOrders = await seaport.createFactorySellOrders({
       assets: [
