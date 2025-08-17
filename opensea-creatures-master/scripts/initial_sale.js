@@ -1,11 +1,4 @@
-o/v2
-async function to create multiple auctions
-async 1: Create multiple fixed price sell orders for the same option
-    console.log("Creating fixed price auctions...");
-    const fixedSellOrders = await seaport.createFactorySellOrders({
-      assets: [
-        {
-          tokenId: FIXED_PRICE_OPTION_ID,
+nId: FIXED_PRICE_OPTION_ID,
           tokenAddress: FACTORY_CONTRACT_ADDRESS,
         },
       ],
