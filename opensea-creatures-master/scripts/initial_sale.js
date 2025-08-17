@@ -1,5 +1,5 @@
 
-const OpenSeaPort = opensea.OpenSeaPort;
+const OpenSea
 const Network = opensea.Network;
 
 const MnemonicWalletSubprovider = require("@0x/subproviders").MnemonicWalletSubprovider;
