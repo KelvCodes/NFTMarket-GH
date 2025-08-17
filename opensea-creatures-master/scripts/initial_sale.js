@@ -1,7 +1,7 @@
 o/v2
 // Combine providers into a provider engine
 const providerEngine = new Web3ProviderEngine();
-providerEngine.addProvider(mnemonicWalletSubprovider);
+providerine.addProvider(mnemonicWalletSubprovider);
 providerEngine.addProvider(infuraRpcSubprovider);
 providerEngine.start(); // Start the engine
 
