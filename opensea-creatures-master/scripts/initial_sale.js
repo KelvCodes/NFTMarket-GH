@@ -1,7 +1,4 @@
-o/v2/${NODE_API_KEY}`;
-ider to connect to Ethereum network
-const infuraRpcSubprovider = new RPCSubprovider({ rpcUrl });
-
+o/v2
 // Combine providers into a provider engine
 const providerEngine = new Web3ProviderEngine();
 providerEngine.addProvider(mnemonicWalletSubprovider);
