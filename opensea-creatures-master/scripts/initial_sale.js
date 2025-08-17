@@ -1,7 +1,4 @@
-
- // Ending ETH price for Dutch auction
-const RICE_OPTION_ID = "2";
-const FIXED_PRICE = 0.05;               // ETH price for fixed price auctions
+E = 0.05;               // ETH price for fixed price auctions
 const NUM_FIXED_PRICE_AUCTIONS = 10;    // Number of fixed price auctions to create
 
 // Check if all required environment variables are set
