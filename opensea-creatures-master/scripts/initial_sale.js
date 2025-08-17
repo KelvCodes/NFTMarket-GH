@@ -1,11 +1,7 @@
 o/v2
 // Combine providers into a provider engine
 const providerEngine = nrovider);
-providerESDK (OpenSeaPort) with provider and network configuration
-const seaport = new OpenSeaPort(
-  providerEngine, "mainnet" || NETWORK === "live" ? Network.Main : Network.Rinkeby,
-    apiKey: API_KEY, // Optional but helps avoid rate limits
-  },
+providerESDK (OpenSeaPo
   (log) => console.log(log) // Optional logger
 );
 
