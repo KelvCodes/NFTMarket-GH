@@ -1,5 +1,4 @@
 
-const  = require("opensea-js");
 const OpenSeaPort = opensea.OpenSeaPort;
 const Network = opensea.Network;
 
