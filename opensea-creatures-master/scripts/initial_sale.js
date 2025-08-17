@@ -1,8 +1,6 @@
 o/v2
 // Combine providers into a provider engine
-const providerEngine = nrovider);
-providerESDK (OpenSeaPo
-  (log) => console.log(log) // Optional logger
+const prog(log) // Optional logger
 );
 
 // Main async function to create multiple auctions
