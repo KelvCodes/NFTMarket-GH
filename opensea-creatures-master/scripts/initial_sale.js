@@ -1,5 +1,4 @@
-    // ETH pr
-// Define base derivati
+    //i
 // Create wallet subprovider from mnemonic
 const mnemonicWalletSubprovider = new MnemonicWalletSubprovider({
   mnemonic: MNEMONIC,
