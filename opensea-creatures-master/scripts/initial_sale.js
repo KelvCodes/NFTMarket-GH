@@ -1,5 +1,5 @@
     // ETH price for fixed price auctions
-const NUM_FIXIONS = 10;    // Number of fixed price auctions to cr
+const NUM_FIXIONS = 10;    // of fixed price auctions to cr
 if (!FACTORY_CONTRACT_ADDRESS) {
   con
 // Define base derivation path for HD wallet (Ethereum standard)
