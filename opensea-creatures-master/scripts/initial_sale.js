@@ -1,7 +1,5 @@
 
 
-HEMY_KEY;= process.env.FACTORY_CONTRACT_ADDRESS;
-const OWNER_ADDRESS = process.env.OWNER_A
 // Auction configuration values
 const DUTCH_AUCTION_OPTION_ID = "1";
 const DUTCH_AUCTION_START_AMOUNT = 100; // Starting ETH price for Dutch auction
