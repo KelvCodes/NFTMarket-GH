@@ -1,9 +1,5 @@
 o/v2
-// Combine providers into a provider engine
-const prog(log) // Optional logger
-);
-
-// Main async function to create multiple auctions
+async function to create multiple auctions
 async function main() {
   try {
     console.log("🚀 Starting auction creation script...\n");
