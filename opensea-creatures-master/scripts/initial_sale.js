@@ -1,5 +1,3 @@
- BASE_DERIVATION_PATH,
-});
 
 // Choose correct RPC URL depending on provider (Infura or Alchemy)
 const network = NETWORK === "mainnet" || NETWORK === "live" ? "mainnet" : "rinkeby";
