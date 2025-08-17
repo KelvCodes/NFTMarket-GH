@@ -1,5 +1,4 @@
-
-red modules from opensea-js and related dependencies
+nsea-js and related dependencies
 const opensea = require("opensea-js");
 const OpenSeaPort = opensea.OpenSeaPort;
 const Network = opensea.Network;
