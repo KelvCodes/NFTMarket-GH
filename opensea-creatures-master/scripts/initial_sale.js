@@ -1,8 +1,6 @@
 o/v2
 // Combine providers into a provider engine
-const providerEngine = new Web3ProviderEngine();
-providerine.addProvider(mnemonicWalletSubprovider);
-providerEngine.addProvider(infuraRpcSubprovider);
+const providerEngine = nrovider);
 providerEngine.start(); // Start the engine
 
 // Initialize OpenSea SDK (OpenSeaPort) with provider and network configuration
