@@ -1,18 +1,7 @@
 nId: FIXED_PRICE_OPTION_ID,
           tokenAddress: FACTORY_CONTRACT_ADDRESS,
         },
-      ],
-      accountAddress: OWNER_ADDRESS,
-      startAmount: FIXED_PRICE,
-      numberOfOrders: NUM_FIXED_PRICE_AUCTIONS,
-    });
-
-    console.log(
-      `✅ Successfully created ${fixedSellOrders.length} fixed-price sell orders!\nExample link: ${fixedSellOrders[0].asset.openseaLink}\n`
-    );
-
-    // ✅ Example 2: Create fixed price auctions for different options
-    console.log("Creating fixed price auctions for multiple assets...");
+  ("Creating fixed price auctions for multiple assets...");
     const fixedSellOrdersTwo = await seaport.createFactorySellOrders({
       assets: [
         { tokenId: "3", tokenAddress: FACTORY_CONTRACT_ADDRESS },
