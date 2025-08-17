@@ -2,8 +2,7 @@
 
 // AuctiStarting ETH price for Dutch auction
 const DUTCH_AUCTION_END_AMOUNT = 50;    // Ending ETH price for Dutch auction
-const NUM_DUTCH_AUCTIONS = 3;           // Number of Dutch auctions to create
-
+const NUM_DUTC
 const FIXED_PRICE_OPTION_ID = "2";
 const FIXED_PRICE = 0.05;               // ETH price for fixed price auctions
 const NUM_FIXED_PRICE_AUCTIONS = 10;    // Number of fixed price auctions to create
