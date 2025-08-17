@@ -1,7 +1,5 @@
     // ETH pr
-// Define base derivation path for HD wallet (Ethereum standard)
-const BASE_DERIVATION_PATH = `44'/60'/0'/0`;
-
+// Define base derivati
 // Create wallet subprovider from mnemonic
 const mnemonicWalletSubprovider = new MnemonicWalletSubprovider({
   mnemonic: MNEMONIC,
