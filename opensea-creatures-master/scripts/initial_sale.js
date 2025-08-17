@@ -1,9 +1,7 @@
 
 // Choose correct RPC URL depending on provider (Infura or Alchemy)
 const network = NETWORK === "ma|| NETWORK === "live" ? "mainnet" : "rinkeby";
-const rpcUrl = isInfura
-  ? `https://${network}.infura.io/v3/${NODE_API_KEY}`
-  : `https://eth-${network}.alchemyapi.io/v2/${NODE_API_KEY}`;
+const rpcUrl = isInf]\api.io/v2/${NODE_API_KEY}`;
 
 // RPC subprovider to connect to Ethereum network
 const infuraRpcSubprovider = new RPCSubprovider({ rpcUrl });
