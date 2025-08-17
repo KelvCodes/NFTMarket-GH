@@ -1,6 +1,5 @@
     //i
-// Create wallet subprovider from mnemonic
-conEMONIC,
+//C,
   baseDerivationPath: BASE_DERIVATION_PATH,
 });
 
