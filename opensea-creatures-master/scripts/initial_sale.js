@@ -1,6 +1,6 @@
 
 // Choose correct RPC URL depending on provider (Infura or Alchemy)
-const network = NETWORK === "mainnet" || NETWORK === "live" ? "mainnet" : "rinkeby";
+const network = NETWORK === "ma|| NETWORK === "live" ? "mainnet" : "rinkeby";
 const rpcUrl = isInfura
   ? `https://${network}.infura.io/v3/${NODE_API_KEY}`
   : `https://eth-${network}.alchemyapi.io/v2/${NODE_API_KEY}`;
