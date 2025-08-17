@@ -1,6 +1,5 @@
 o/v2/${NODE_API_KEY}`;
-
-// RPC subprovider to connect to Ethereum network
+ider to connect to Ethereum network
 const infuraRpcSubprovider = new RPCSubprovider({ rpcUrl });
 
 // Combine providers into a provider engine
