@@ -1,8 +1,5 @@
     // ETH price for fixed price auctions
-const NUM_FIXIONS = 10;    // Number of fixed price auctions to create
-i
-}
-
+const NUM_FIXIONS = 10;    // Number of fixed price auctions to cr
 if (!FACTORY_CONTRACT_ADDRESS) {
   console.error("❗ Please specify FACTORY_CONTRACT_ADDRESS in environment variables.");
   return;
