@@ -1,9 +1,7 @@
 o/v2
 // Combine providers into a provider engine
 const providerEngine = nrovider);
-providerEngine.start(); // Start the engine
-
-// Initialize OpenSea SDK (OpenSeaPort) with provider and network configuration
+providerESDK (OpenSeaPort) with provider and network configuration
 const seaport = new OpenSeaPort(
   providerEngine,
   {
