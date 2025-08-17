@@ -1,7 +1,6 @@
 
 
-// Auction configuration values
-const DUTCH_AUCTION_OPTIO00; // Starting ETH price for Dutch auction
+// AuctiStarting ETH price for Dutch auction
 const DUTCH_AUCTION_END_AMOUNT = 50;    // Ending ETH price for Dutch auction
 const NUM_DUTCH_AUCTIONS = 3;           // Number of Dutch auctions to create
 
