@@ -1,8 +1,7 @@
 E = 0.05;               // ETH price for fixed price auctions
 const NUM_FIXIONS = 10;    // Number of fixed price auctions to create
 ired environment variables are set
-if (!MNEMONIC || !NODE_API_KEY || !NETWORK || !OWNER_ADDRESS) {
-  console.error(
+if (!MNEMONIC
     "❗ Please set MNEMONIC, Alchemy/Infura key, OWNER_ADDRESS, NETWORK, and API_KEY in environment variables."
   );
   return;
