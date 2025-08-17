@@ -1,4 +1,4 @@
-"web3-provider-engine/subproviders/rpc");
+
 const Web3ProviderEngine = require("web3-provider-engine");
 
 // Load sensitive configuration from environment variables
