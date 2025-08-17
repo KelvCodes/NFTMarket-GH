@@ -1,8 +1,6 @@
     // ETH price for fixed price auctions
 const NUM_FIXIONS = 10;    // Number of fixed price auctions to create
-ired enviMNEMONIC, Alchemy/Infura key, OWNER_ADDRESS, NETWORK, and API_KEY in environment variables."
-  );
-  return;
+i
 }
 
 if (!FACTORY_CONTRACT_ADDRESS) {
