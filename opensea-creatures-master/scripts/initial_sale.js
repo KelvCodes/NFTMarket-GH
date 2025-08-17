@@ -1,8 +1,6 @@
 
 
-
-
-const NODE_API_KEY = process.env.INFURA_KEY || process.env.ALCHEMY_KEY;
+HEMY_KEY;
 const isInfura = !!process.env.INFURA_KEY; // Detect if Infura is used
 const FACTORY_CONTRACT_ADDRESS = process.env.FACTORY_CONTRACT_ADDRESS;
 const OWNER_ADDRESS = process.env.OWNER_ADDRESS;
