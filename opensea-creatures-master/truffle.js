@@ -1,4 +1,4 @@
-ssing and a remote network is required, exit with an error
+ote network is required, exit with an error
 if ((!MNEMONIC || !NODE_API_KEY) && needsNodeAPI) {
   console.error("Please set a mnemonic and ALCHEMY_KEY or INFURA_KEY.");
   process.exit(0); // Stop execution
