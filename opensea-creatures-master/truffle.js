@@ -2,8 +2,6 @@
       gas     // Accept any network ID
     },
 
-    // Rinkeby Test Network Configuration
-    rinkeby: {
       provider: function () {
         // Use HDWalletProvider with your mnemonic and the Rinkeby node URL
         return new HDWalletProvider(MNEMONIC, rinkebyNodeUrl);
