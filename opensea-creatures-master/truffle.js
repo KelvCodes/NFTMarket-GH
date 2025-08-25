@@ -1,4 +1,4 @@
-Determine if the current npm script requires a connection to a remote node (Rinkeby or Mainnet)
+ a connection to a remote node (Rinkeby or Mainnet)
 const needsNodeAPI =
   process.env.npm_config_argv &&
   (process.env.npm_config_argv.includes("rinkeby") ||
