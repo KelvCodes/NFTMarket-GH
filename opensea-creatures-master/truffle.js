@@ -1,4 +1,4 @@
- a connection to a remote node (Rinkeby or Mainnet)
+ode (Rinkeby or Mainnet)
 const needsNodeAPI =
   process.env.npm_config_argv &&
   (process.env.npm_config_argv.includes("rinkeby") ||
