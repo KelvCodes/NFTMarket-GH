@@ -1,8 +1,5 @@
 
-  NODE_API_KEY
-  : "https://eth-rink
-const mainnetNodeUrl = isInfura
-  ? "https://mainnet.infura.io/v3/" + NODE_API_KEY
+  NODEnfura.io/v3/" + NODE_API_KEY
   : "https://eth-mainnet.alchemyapi.io/v2/" + NODE_API_KEY;
 
 module.exports = {
