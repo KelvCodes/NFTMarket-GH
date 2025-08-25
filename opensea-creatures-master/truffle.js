@@ -1,5 +1,4 @@
-t a mnemonic and ALCHEMY_KEY or INFURA_KEY.");
-  process.exit(0); // Stop execution
+; // Stop execution
 }
 
 // Construct URLs for Rinkeby and Mainnet based on the selected provider (Infura or Alchemy)
