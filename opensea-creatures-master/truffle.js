@@ -1,5 +1,4 @@
 
-  nedevelopment network (usually Ganache)
     development: {
       host: "localhost",     // Localhost IP
       port: 7545,            // Default port for Ganache
