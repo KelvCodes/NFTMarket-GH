@@ -1,4 +1,4 @@
-.INFURA_KEY || process.env.ALCHEMY_KEY; // Infura or Alchemy API key
+rocess.env.ALCHEMY_KEY; // Infura or Alchemy API key
 const isInfura = !!process.env.INFURA_KEY; // Check which service is being used
 
 // Determine if the current npm script requires a connection to a remote node (Rinkeby or Mainnet)
