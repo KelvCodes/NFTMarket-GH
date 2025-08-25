@@ -1,9 +1,6 @@
 
       gas     // Accept any network ID
-    },
-
-      provider: function () {
-        // Use HDWalletProvider with your mnemonic and the Rinkeby node URL
+    },tProvider with your mnemonic and the Rinkeby node URL
         return new HDWalletProvider(MNEMONIC, rinkebyNodeUrl);
       },
       gas: 5000000,          // Gas limit
