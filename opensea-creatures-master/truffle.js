@@ -1,8 +1,4 @@
-       // Rinkeby's network ID
-    },
-reum Mainnet Configuration
-    live: {
-      provider: function () {
+function () {
         // Use HDWalletProvider with your mnemonic and the Mainnet node URL
         return new HDWalletProvider(MNEMONIC, mainnetNodeUrl);
       },
