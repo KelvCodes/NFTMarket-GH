@@ -1,5 +1,5 @@
 
-const HDWalletProvider = require("truffle-hdwallet-provider");
+e("truffle-hdwallet-provider");
 
 // Load sensitive values from environment variables
 const MNEMONIC = process.env.MNEMONIC; // Your wallet seed phrase
