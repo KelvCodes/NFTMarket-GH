@@ -1,8 +1,7 @@
 
 
 module.exports = {
-  networks: {
-    // Local development network (usually Ganache)
+  nedevelopment network (usually Ganache)
     development: {
       host: "localhost",     // Localhost IP
       port: 7545,            // Default port for Ganache
