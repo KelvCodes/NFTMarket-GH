@@ -1,6 +1,4 @@
-
-    proc
-// If MNEMONIC or NODE_API_KEY are missing and a remote network is required, exit with an error
+ssing and a remote network is required, exit with an error
 if ((!MNEMONIC || !NODE_API_KEY) && needsNodeAPI) {
   console.error("Please set a mnemonic and ALCHEMY_KEY or INFURA_KEY.");
   process.exit(0); // Stop execution
