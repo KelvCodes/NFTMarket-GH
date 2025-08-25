@@ -1,8 +1,5 @@
 
-      gas     // Accept any network ID
-    },tProvider with your mnemonic and the Rinkeby node URL
-        return new HDWalletProvider(MNEMONIC, rinkebyNodeUrl);
-      },
+      gas ]
       gas: 5000000,          // Gas limit
       network_id: 4,         // Rinkeby's network ID
     },
