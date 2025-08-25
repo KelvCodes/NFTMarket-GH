@@ -1,5 +1,4 @@
-OKEY) && needsNodeAPI) {
-  console.error("Please set a mnemonic and ALCHEMY_KEY or INFURA_KEY.");
+t a mnemonic and ALCHEMY_KEY or INFURA_KEY.");
   process.exit(0); // Stop execution
 }
 
