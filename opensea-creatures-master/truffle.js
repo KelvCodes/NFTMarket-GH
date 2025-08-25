@@ -2,12 +2,7 @@
     reporter: "eth-gas-reporter", // Report gas usage per test
     reporterOptions: {
       currency: "USD",           // Show cost in USD
-      gasPrice: 2,               // Gas price used for cost estimation
-    },
-  },
-
-  // Solidity compiler configuration
-  compilers: {
+      gas
     solc: {
       version: "^0.8.0",         // Use Solidity v0.8.x and above
       settings: {
