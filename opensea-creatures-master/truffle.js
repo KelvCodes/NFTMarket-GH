@@ -1,5 +1,4 @@
 
-  NODEnfura.io/v3/" + NODE_API_KEY
   : "https://eth-mainnet.alchemyapi.io/v2/" + NODE_API_KEY;
 
 module.exports = {
