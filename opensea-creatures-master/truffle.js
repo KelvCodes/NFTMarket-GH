@@ -1,8 +1,7 @@
 ; // Stop execution
 }
 
-// Construct URLs for Rinkeby and Mainnet based on the selected provider (Infura or Alchemy)
-const rinkebyNodeUrl = isInfura
+// ConseUrl = isInfura
   ? "https://rinkeby.infura.io/v3/" + NODE_API_KEY
   : "https://eth-rinkeby.alchemyapi.io/v2/" + NODE_API_KEY;
 
