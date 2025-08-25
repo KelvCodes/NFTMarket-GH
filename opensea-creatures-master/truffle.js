@@ -1,5 +1,4 @@
 
-  process.env.npm_config_argv &&
   (process.env.npm_config_argv.includes("rinkeby") ||
     process.env.npm_config_argv.includes("live"));
 
