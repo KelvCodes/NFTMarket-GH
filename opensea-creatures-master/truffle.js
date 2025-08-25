@@ -1,6 +1,4 @@
 
-
-module.exports = {
   nedevelopment network (usually Ganache)
     development: {
       host: "localhost",     // Localhost IP
