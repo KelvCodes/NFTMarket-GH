@@ -1,4 +1,4 @@
-e HDWalletProvider to sign transactions for deployments using a mnemonic
+o sign transactions for deployments using a mnemonic
 const HDWalletProvider = require("truffle-hdwallet-provider");
 
 // Load sensitive values from environment variables
