@@ -1,5 +1,4 @@
 
-  (process.env.npm_config_argv.includes("rinkeby") ||
     process.env.npm_config_argv.includes("live"));
 
 // If MNEMONIC or NODE_API_KEY are missing and a remote network is required, exit with an error
