@@ -1,6 +1,4 @@
-function () {
-        // Use HDWalletProvider with your mnemonic and the Mainnet node URL
-        return new HDWalletProvider(MNEMONIC, mainnetNodeUrl);
+HDWalletProvider(MNEMONIC, mainnetNodeUrl);
       },
       gas: 5000000,          // Gas limit for mainnet (ensure it's within the block limit)
       gasPrice: 5000000000,  // Gas price (in wei) — 5 Gwei
