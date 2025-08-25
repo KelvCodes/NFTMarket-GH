@@ -1,5 +1,5 @@
 
-  ? "https://rinkeby.infura.io/v3/" + NODE_API_KEY
+  NODE_API_KEY
   : "https://eth-rinkeby.alchemyapi.io/v2/" + NODE_API_KEY;
 
 const mainnetNodeUrl = isInfura
