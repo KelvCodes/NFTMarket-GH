@@ -1,6 +1,5 @@
 
-      gas: 5000000,          // Max gas for transactions
-      network_id: "*",       // Accept any network ID
+      gas     // Accept any network ID
     },
 
     // Rinkeby Test Network Configuration
