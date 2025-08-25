@@ -1,8 +1,6 @@
 HDWalletProvider(MNEMONIC, mainnetNodeUrl);
       }         // Mainnet network ID
-    },
-  },
-
+    }
   // Mocha testing configuration
   mocha: {
     reporter: "eth-gas-reporter", // Report gas usage per test
