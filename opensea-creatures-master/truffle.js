@@ -1,7 +1,6 @@
        // Rinkeby's network ID
     },
-
-    // Ethereum Mainnet Configuration
+reum Mainnet Configuration
     live: {
       provider: function () {
         // Use HDWalletProvider with your mnemonic and the Mainnet node URL
