@@ -1,7 +1,4 @@
-
-      gas ]
-      gas: 5000000,          // Gas limit
-      network_id: 4,         // Rinkeby's network ID
+       // Rinkeby's network ID
     },
 
     // Ethereum Mainnet Configuration
