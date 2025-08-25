@@ -1,5 +1,4 @@
 
-      host: "localhost",     // Localhost IP
       port: 7545,            // Default port for Ganache
       gas: 5000000,          // Max gas for transactions
       network_id: "*",       // Accept any network ID
