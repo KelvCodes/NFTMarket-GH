@@ -1,4 +1,4 @@
- // Your wallet seed phrase
+
 const NODE_API_KEY = process.env.INFURA_KEY || process.env.ALCHEMY_KEY; // Infura or Alchemy API key
 const isInfura = !!process.env.INFURA_KEY; // Check which service is being used
 
