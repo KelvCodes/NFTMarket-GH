@@ -1,4 +1,4 @@
-yments using a mnemonic
+
 const HDWalletProvider = require("truffle-hdwallet-provider");
 
 // Load sensitive values from environment variables
