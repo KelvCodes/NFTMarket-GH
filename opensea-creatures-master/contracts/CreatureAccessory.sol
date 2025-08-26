@@ -1,5 +1,5 @@
 
-         creatures-api.opensea.io/api/accessory/{id}",
+         creatures-ai/accessory/{id}",
             _proxyRegistryAddress
         ) {}
 
