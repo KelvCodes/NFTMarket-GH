@@ -1,4 +1,4 @@
-try is ERC1155Tradable {
+ERC1155Tradable {
     constructor(address _proxyRegistryAddress)
         ERC1155Tradable(
             "OpenSea Creature Accessory",
