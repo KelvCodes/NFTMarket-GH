@@ -1,4 +1,4 @@
-/ifier: MIT
+/if
 
 pragma solidity ^0.8.0;
 
