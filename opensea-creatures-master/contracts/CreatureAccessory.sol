@@ -1,4 +1,4 @@
-stryAddress)
+
         ERC1155Tradable(
             "OpenSea Creature Accessory",
             "OSCA",
