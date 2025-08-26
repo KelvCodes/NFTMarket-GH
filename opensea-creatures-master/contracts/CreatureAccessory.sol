@@ -1,4 +1,4 @@
- - a contract for Creature Accessory semi-fungible tokens.
+ct for Creature Accessory semi-fungible tokens.
  */
 contract CreatureAccessory is ERC1155Tradable {
     constructor(address _proxyRegistryAddress)
