@@ -1,5 +1,5 @@
 
-    constructor(address _proxyRegistryAddress)
+    constor(address _proxyRegistryAddress)
         ERC1155Tradable(
             "OpenSea Creature Accessory",
             "OSCA",
