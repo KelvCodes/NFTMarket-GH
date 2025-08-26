@@ -1,5 +1,4 @@
-
-contract CreatureAccessory is ERC1155Tradable {
+t CreatureAccessory is ERC1155Tradable {
     constructor(address _proxyRegistryAddress)
         ERC1155Tradable(
             "OpenSea Creature Accessory",
