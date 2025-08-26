@@ -1,4 +1,4 @@
-radable(
+
             "OpenSea Creature Accessory",
             "OSCA",
             "https://creatures-api.opensea.io/api/accessory/{id}",
