@@ -1,5 +1,4 @@
-
- * CreatureAccessory - a contract for Creature Accessory semi-fungible tokens.
+eAccessory - a contract for Creature Accessory semi-fungible tokens.
  */
 contract CreatureAccessory is ERC1155Tradable {
     constructor(address _proxyRegistryAddress)
