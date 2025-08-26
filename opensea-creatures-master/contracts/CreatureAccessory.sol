@@ -1,4 +1,4 @@
-RC1155Tradable.sol";
+
 
 /**
  * @title CreatureAccessory
