@@ -1,5 +1,4 @@
-
-         creatures-ai/accessory/{id}",
+i/accessory/{id}",
             _proxyRegistryAddress
         ) {}
 
