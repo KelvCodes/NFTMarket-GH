@@ -1,4 +1,4 @@
-i/accessory/{id}",
+i/accesso
             _proxyRegistryAddress
         ) {}
 
