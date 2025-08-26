@@ -1,4 +1,4 @@
-ERC1155Tradable {
+ERadable {
     constructor(address _proxyRegistryAddress)
         ERC1155Tradable(
             "OpenSea Creature Accessory",
