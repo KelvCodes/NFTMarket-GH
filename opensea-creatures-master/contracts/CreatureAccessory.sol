@@ -1,4 +1,3 @@
-
-        return "https://creatures-api.opensea.io/contract/opensea-erc1155";
+urn "https://creatures-api.opensea.io/contract/opensea-erc1155";
     }
 }
