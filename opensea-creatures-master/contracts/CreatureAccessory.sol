@@ -1,5 +1,4 @@
-
-    (address _proxyRegistryAddress)
+_proxyRegistryAddress)
         ERC1155Tradable(
             "OpenSea Creature Accessory",
             "OSCA",
