@@ -1,5 +1,4 @@
-
-on setCompleted(uint completed) public restricted {
+etCompleted(uint completed) public restricted {
     last_completed_migration = completed;
   }
 
