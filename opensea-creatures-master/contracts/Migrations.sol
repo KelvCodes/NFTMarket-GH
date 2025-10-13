@@ -1,5 +1,4 @@
-
-er = msg.sender;
+.sender;
   }
 
   modifier restricted() {
