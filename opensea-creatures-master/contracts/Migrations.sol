@@ -1,4 +1,4 @@
-ublic restricted {
+ restricted {
     last_completed_migration = completed;
   }
 
