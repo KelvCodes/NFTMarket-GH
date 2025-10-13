@@ -1,4 +1,4 @@
- last_completed_migration;
+completed_migration;
 
   constructor() {
     owner = msg.sender;
