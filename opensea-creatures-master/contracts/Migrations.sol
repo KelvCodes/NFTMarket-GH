@@ -1,4 +1,4 @@
- restricted() {
+stricted() {
     if (msg.sender == owner) _;
   }
 
