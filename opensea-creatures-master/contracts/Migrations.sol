@@ -1,5 +1,4 @@
-
- (msg.sender == owner) _;
+sg.sender == owner) _;
   }
 
   function setCompleted(uint completed) public restricted {
