@@ -1,4 +1,4 @@
-r == owner) _;
+owner) _;
   }
 
   function setCompleted(uint completed) public restricted {
