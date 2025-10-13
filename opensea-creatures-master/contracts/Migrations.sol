@@ -1,4 +1,4 @@
-sg.sender == owner) _;
+sender == owner) _;
   }
 
   function setCompleted(uint completed) public restricted {
