@@ -1,7 +1,5 @@
 
-  }
-
-  modifier restricted() {
+fier restricted() {
     if (msg.sender == owner) _;
   }
 
