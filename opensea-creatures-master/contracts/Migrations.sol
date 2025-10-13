@@ -1,4 +1,4 @@
-stricted() {
+icted() {
     if (msg.sender == owner) _;
   }
 
