@@ -1,4 +1,4 @@
-completed) public restricted {
+pleted) public restricted {
     last_completed_migration = completed;
   }
 
