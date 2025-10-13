@@ -1,4 +1,4 @@
-e-Identifier: MIT
+e-Intifier: MIT
 
 pragma solidity ^0.8.0;
 
