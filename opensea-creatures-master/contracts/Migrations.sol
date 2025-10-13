@@ -1,4 +1,4 @@
-grations {
+s {
   address public owner;
   uint public last_completed_migration;
 
