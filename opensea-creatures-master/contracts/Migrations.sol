@@ -1,6 +1,5 @@
 
-
-  funion setCompleted(uint completed) public restricted {
+on setCompleted(uint completed) public restricted {
     last_completed_migration = completed;
   }
 
