@@ -1,4 +1,4 @@
-dity ^0.8.0;
+.8.0;
 
 contract Migrations {
   address public owner;
