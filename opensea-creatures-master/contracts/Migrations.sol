@@ -1,4 +1,4 @@
-ted(uint completed) public restricted {
+d(uint completed) public restricted {
     last_completed_migration = completed;
   }
 
