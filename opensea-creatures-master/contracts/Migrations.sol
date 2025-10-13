@@ -1,5 +1,4 @@
-s {
-  address public owner;
+ress public owner;
   uint public last_completed_migration;
 
   constructor() {
