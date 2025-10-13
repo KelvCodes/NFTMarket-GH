@@ -1,6 +1,6 @@
 
 
-  constructor() {
+uctor() {
     owner = msg.sender;
   }
 
