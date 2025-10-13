@@ -1,6 +1,4 @@
-.8.0;
-
-contract Migrations {
+ract Migrations {
   address public owner;
   uint public last_completed_migration;
 
