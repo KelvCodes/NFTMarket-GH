@@ -1,4 +1,4 @@
- public owner;
+c owner;
   uint public last_completed_migration;
 
   constructor() {
