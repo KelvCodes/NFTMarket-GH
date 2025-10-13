@@ -1,6 +1,5 @@
 
-{
-    owner = msg.sender;
+er = msg.sender;
   }
 
   modifier restricted() {
