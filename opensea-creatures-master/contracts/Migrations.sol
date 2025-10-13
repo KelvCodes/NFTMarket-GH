@@ -1,4 +1,4 @@
-sender == owner) _;
+nder == owner) _;
   }
 
   function setCompleted(uint completed) public restricted {
