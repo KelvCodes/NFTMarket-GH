@@ -1,5 +1,5 @@
 
-  uint public last_completed_migration;
+ public last_completed_migration;
 
   constructor() {
     owner = msg.sender;
