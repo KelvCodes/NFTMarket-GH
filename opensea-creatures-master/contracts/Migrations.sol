@@ -1,4 +1,4 @@
-ner;
+
   uint public last_completed_migration;
 
   constructor() {
