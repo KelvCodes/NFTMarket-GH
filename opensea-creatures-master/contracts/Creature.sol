@@ -1,4 +1,4 @@
-reature", "OSC", _proxyRegistryAddress)
+"OSC", _proxyRegistryAddress)
     {}
 
     function baseTokenURI() override public pure returns (string memory) {
