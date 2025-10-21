@@ -1,4 +1,4 @@
-non-fungible creatures.
+-fungible creatures.
  */
 contract Creature is ERC721Tradable {
     constructor(address _proxyRegistryAddress)
