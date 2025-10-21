@@ -1,4 +1,4 @@
-xyRegistryAddress)
+ss)
     {}
 
     function baseTokenURI() override public pure returns (string memory) {
