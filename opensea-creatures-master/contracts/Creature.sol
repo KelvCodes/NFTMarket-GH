@@ -1,5 +1,4 @@
-
-        ERC721Tradable("Creature", "OSC", _proxyRegistryAddress)
+reature", "OSC", _proxyRegistryAddress)
     {}
 
     function baseTokenURI() override public pure returns (string memory) {
