@@ -1,5 +1,4 @@
-
-import "./ERC721Tradable.sol";
+ "./ERC721Tradable.sol";
 
 /**
  * @title Creature
