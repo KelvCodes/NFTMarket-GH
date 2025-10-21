@@ -1,4 +1,4 @@
-oxyRegistryAddress)
+gistryAddress)
         ERC721Tradable("Creature", "OSC", _proxyRegistryAddress)
     {}
 
