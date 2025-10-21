@@ -1,5 +1,3 @@
-ss)
-    {}
 
     function baseTokenURI() override public pure returns (string memory) {
         return "https://creatures-api.opensea.io/api/creature/";
