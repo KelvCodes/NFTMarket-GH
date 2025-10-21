@@ -1,5 +1,4 @@
-
- *le Creature
+Creature
  * Creature - a contract for my non-fungible creatures.
  */
 contract Creature is ERC721Tradable {
