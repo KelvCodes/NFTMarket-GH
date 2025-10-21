@@ -1,4 +1,4 @@
-"OSC", _proxyRegistryAddress)
+xyRegistryAddress)
     {}
 
     function baseTokenURI() override public pure returns (string memory) {
