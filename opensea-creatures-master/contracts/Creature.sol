@@ -1,5 +1,4 @@
 
-olidi
 import "./ERC721Tradable.sol";
 
 /**
