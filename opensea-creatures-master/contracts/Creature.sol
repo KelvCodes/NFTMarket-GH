@@ -1,4 +1,4 @@
-ct Creature is ERC721Tradable {
+reature is ERC721Tradable {
     constructor(address _proxyRegistryAddress)
         ERC721Tradable("Creature", "OSC", _proxyRegistryAddress)
     {}
