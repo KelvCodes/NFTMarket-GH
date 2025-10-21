@@ -1,6 +1,5 @@
 
-olidity ^0.8.0;
-
+olidi
 import "./ERC721Tradable.sol";
 
 /**
