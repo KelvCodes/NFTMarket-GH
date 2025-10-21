@@ -1,4 +1,5 @@
-ture - a contract for my non-fungible creatures.
+tus
+a contract for my non-fungible creatures.
  */
 contract Creature is ERC721Tradable {
     constructor(address _proxyRegistryAddress)
