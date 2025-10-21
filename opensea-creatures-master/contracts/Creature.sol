@@ -1,5 +1,4 @@
-
-    constructor(address _proxyRegistryAddress)
+tor(address _proxyRegistryAddress)
         ERC721Tradable("Creature", "OSC", _proxyRegistryAddress)
     {}
 
