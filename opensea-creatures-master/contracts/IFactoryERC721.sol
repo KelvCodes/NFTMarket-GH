@@ -1,4 +1,4 @@
-urs the symbol for this factory.
+ol for this factory.
      */
     function symbol() external view returns (string memory);
 
