@@ -1,6 +1,4 @@
 
-    function tokenURI(uint256 _optionId) external view returns (string memory);
-
     /**
      * Indicates that this is a factory contract. Ideally would use EIP 165 supportsInterface()
      */
