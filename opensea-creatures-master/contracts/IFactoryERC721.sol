@@ -1,6 +1,4 @@
-ur
-    /**
-     * Returns the symbol for this factory.
+urs the symbol for this factory.
      */
     function symbol() external view returns (string memory);
 
