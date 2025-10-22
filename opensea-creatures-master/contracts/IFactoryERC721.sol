@@ -1,5 +1,4 @@
-
-    /**ptions the factory supports.
+the factory supports.
      */
     function numOptions() external view returns (uint256);
 
