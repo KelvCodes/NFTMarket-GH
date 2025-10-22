@@ -1,4 +1,4 @@
-option". This should be
+
      * callable only by the contract owner or the owner's Wyvern Proxy (later universal login will solve this).
      * Options should also be delineated 0 - (numOptions() - 1) for convenient indexing.
      * @param _optionId the option id
