@@ -1,6 +1,4 @@
-
-    /**
-     * Indicates that this is a factory contract. Ideally would use EIP 165 supportsInterface()
+tes that this is a factory contract. Ideally would use EIP 165 supportsInterface()
      */
     function supportsFactoryInterface() external view returns (bool);
 
