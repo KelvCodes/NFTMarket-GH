@@ -1,5 +1,5 @@
 
- * ways of minting.
+ *ting.
  */
 interface FactoryERC721 {
     /**
