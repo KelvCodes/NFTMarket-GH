@@ -1,6 +1,5 @@
 
-
-interface FactoryERC721 {
+toryERC721 {
     /**
      * Returns the name of this factory.
      */
