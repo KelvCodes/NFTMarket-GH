@@ -1,5 +1,4 @@
-
-     * Returns the name of this factory.
+urns the name of this factory.
      */
     function name() external view returns (string memory);
 
