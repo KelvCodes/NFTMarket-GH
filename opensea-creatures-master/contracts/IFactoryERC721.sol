@@ -1,6 +1,5 @@
 
- *ting.
- */
+
 interface FactoryERC721 {
     /**
      * Returns the name of this factory.
