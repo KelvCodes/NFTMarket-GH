@@ -1,5 +1,4 @@
-
-    function numOptions() external view returns (uint256);
+numOptions() external view returns (uint256);
 
     /**
      * @dev Returns whether the option ID can be minted. Can return false if the developer wishes to
