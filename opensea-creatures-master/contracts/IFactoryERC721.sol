@@ -1,4 +1,4 @@
-neate various
+
  * ways of minting.
  */
 interface FactoryERC721 {
