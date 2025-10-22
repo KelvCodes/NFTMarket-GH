@@ -1,4 +1,4 @@
-ontract that can be used to mint tokens. The configuration
+hat can be used to mint tokens. The configuration
  * for minting is specified by an _optionId, which can be used to delineate various
  * ways of minting.
  */
