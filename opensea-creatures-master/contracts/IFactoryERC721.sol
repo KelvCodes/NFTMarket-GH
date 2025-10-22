@@ -1,5 +1,4 @@
-y contract. Ideally would use EIP 165 supportsInterface()
-     */
+
     function supportsFactoryInterface() external view returns (bool);
 
     /**
