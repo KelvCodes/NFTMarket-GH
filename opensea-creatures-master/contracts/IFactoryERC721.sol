@@ -1,5 +1,4 @@
-
-her the option ID can be minted. Can return false if the developer wishes to
+n ID can be minted. Can return false if the developer wishes to
      * restrict a total supply per option ID (or overall).
      */
     function canMint(uint256 _optionId) external view returns (bool);
