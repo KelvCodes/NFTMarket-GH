@@ -1,4 +1,4 @@
-ed to delineate various
+neate various
  * ways of minting.
  */
 interface FactoryERC721 {
