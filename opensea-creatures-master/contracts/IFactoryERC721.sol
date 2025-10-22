@@ -1,8 +1,4 @@
 
-     */
-    function canMint(uint256 _optionId) external view returns (bool);
-
-    /**
      * @dev Returns a URL specifying some metadata about the option. This metadata can be of the
      * same structure as the ERC721 metadata.
      */
