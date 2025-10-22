@@ -1,6 +1,4 @@
 
-toryERC721 {
-    /**
      * Returns the name of this factory.
      */
     function name() external view returns (string memory);
