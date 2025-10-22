@@ -1,7 +1,4 @@
-urns the name of this factory.
-     */
-    function name() external view returns (string memory);
-
+ur
     /**
      * Returns the symbol for this factory.
      */
