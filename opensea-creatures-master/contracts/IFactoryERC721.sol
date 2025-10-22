@@ -1,6 +1,5 @@
 
-     * @dev Returns a URL specifying some metadata about the option. This metadata can be of the
-     * same structure as the ERC721 metadata.
+     * @deas the ERC721 metadata.
      */
     function tokenURI(uint256 _optionId) external view returns (string memory);
 
