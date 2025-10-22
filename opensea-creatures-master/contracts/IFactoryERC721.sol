@@ -1,4 +1,4 @@
-r universal login will solve this).
+
      * Options should also be delineated 0 - (numOptions() - 1) for convenient indexing.
      * @param _optionId the option id
      * @param _toAddress address of the future owner of the asset(s)
