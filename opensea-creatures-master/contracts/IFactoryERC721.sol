@@ -1,5 +1,4 @@
-th
-     */
+
     function numOptions() external view returns (uint256);
 
     /**
