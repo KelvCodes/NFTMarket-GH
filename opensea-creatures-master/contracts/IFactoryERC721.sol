@@ -1,7 +1,6 @@
 
 
-    /**
-     * @dev Returns whether the option ID can be minted. Can return false if the developer wishes to
+  ev Returns whether the option ID can be minted. Can return false if the developer wishes to
      * restrict a total supply per option ID (or overall).
      */
     function canMint(uint256 _optionId) external view returns (bool);
