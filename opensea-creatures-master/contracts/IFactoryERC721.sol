@@ -1,6 +1,4 @@
-
-     */
-    function symbol() external view returns (string memory);
+ion symbol() external view returns (string memory);
 
     /**
      * Number of options the factory supports.
