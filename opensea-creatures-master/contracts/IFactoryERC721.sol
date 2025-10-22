@@ -1,6 +1,4 @@
 
-     * @deas the ERC721 metadata.
-     */
     function tokenURI(uint256 _optionId) external view returns (string memory);
 
     /**
