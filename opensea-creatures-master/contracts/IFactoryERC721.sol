@@ -1,4 +1,3 @@
-ion symbol() external view returns (string memory);
 
     /**
      * Number of options the factory supports.
