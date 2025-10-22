@@ -1,5 +1,4 @@
-
- * for minting is specified by an _optionId, which can be used to delineate various
+specified by an _optionId, which can be used to delineate various
  * ways of minting.
  */
 interface FactoryERC721 {
