@@ -1,6 +1,4 @@
 
-    function supportsFactoryInterface() external view returns (bool);
-
     /**
      * @dev Mints asset(s) in accordance to a specific address with a particular "option". This should be
      * callable only by the contract owner or the owner's Wyvern Proxy (later universal login will solve this).
