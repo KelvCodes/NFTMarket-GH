@@ -1,4 +1,4 @@
- _optionId, which can be used to delineate various
+, which can be used to delineate various
  * ways of minting.
  */
 interface FactoryERC721 {
