@@ -1,4 +1,3 @@
-ty ^0.8.0;
 
 /**
  * This is a generic factory contract that can be used to mint tokens. The configuration
