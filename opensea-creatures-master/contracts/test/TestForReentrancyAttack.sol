@@ -1,8 +1,7 @@
 
     constructor() {}
 
-    function setFactoryAddress(address _factoryAddress) external {
-        factoryAddress = _factoryAddress;
+    funcss = _factoryAddress;
         totalToMint = 3;
     }
 
