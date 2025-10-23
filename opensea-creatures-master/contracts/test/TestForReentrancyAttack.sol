@@ -1,5 +1,4 @@
-
-        CreatureAccessoryFactory(factoryAddress).mint(1, address(this), 1, "");
+factoryAddress).mint(1, address(this), 1, "");
         }*/
 
     // We attempt a reentrancy attack here by recursively calling the
