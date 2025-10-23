@@ -1,5 +1,3 @@
-ryFactor
-    // defends against reentrancy.
 
     function onERC1155Received(
         address /*_operator*/,
