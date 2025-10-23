@@ -1,5 +1,4 @@
 
-        totalToMint = _totalToMint;
         CreatureAccessoryFactory(factoryAddress).mint(1, address(this), 1, "");
         }*/
 
