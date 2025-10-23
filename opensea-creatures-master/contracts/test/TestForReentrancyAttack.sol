@@ -1,6 +1,5 @@
 
-
-    funcss = _factoryAddress;
+ctoryAddress;
         totalToMint = 3;
     }
 
