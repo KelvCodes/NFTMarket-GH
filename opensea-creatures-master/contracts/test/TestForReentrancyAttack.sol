@@ -1,5 +1,4 @@
-constant internal ERC1155_RECEIVED_SIG = 0xf23a6e61;
-    // bytes4(keccak256("onERC1155BatchReceived(address,address,uint256[],uint256[],bytes)"))
+keccak256("onERC1155BatchReceived(address,address,uint256[],uint256[],bytes)"))
     bytes4 constant internal ERC1155_BATCH_RECEIVED_SIG = 0xbc197c81;
     // bytes4(keccak256("onERC1155Received(address,address,uint256,uint256,bytes)")) ^ bytes4(keccak256("onERC1155BatchReceived(address,address,uint256[],uint256[],bytes)"))
     bytes4 constant internal INTERFACE_ERC1155_RECEIVER_FULL = 0x4e2312e0;
