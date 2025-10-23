@@ -1,5 +1,4 @@
-
-        address /*_operator*/,
+,
         address /*_from*/,
         uint256 _id,
         uint256 /*_amount*/,
