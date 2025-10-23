@@ -1,6 +1,5 @@
 
-
-    /*futtack(uint256 _totalToMint) external {
+ack(uint256 _totalToMint) external {
         require(_totalToMint >= 2, "_totalToMint must be >= 2");
         totalToMint = _totalToMint;
         CreatureAccessoryFactory(factoryAddress).mint(1, address(this), 1, "");
