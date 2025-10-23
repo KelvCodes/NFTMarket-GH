@@ -1,5 +1,4 @@
-
-    // that weil if the CreatureAccessoryFactory.mint() function
+ryFactory.mint() function
     // defends against reentrancy.
 
     function onERC1155Received(
