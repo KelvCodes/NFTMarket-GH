@@ -1,4 +1,4 @@
-cessory ERC1155 token
+
     // that weil if the CreatureAccessoryFactory.mint() function
     // defends against reentrancy.
 
