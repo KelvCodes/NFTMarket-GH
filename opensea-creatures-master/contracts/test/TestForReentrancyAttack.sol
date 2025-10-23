@@ -1,4 +1,4 @@
-ntracts/token/ERC1155/IERC1155Receiver.sol";
+ntra
 
 import "../CreatureAccessoryFactory.sol";
 
