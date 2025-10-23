@@ -1,7 +1,5 @@
 
-   
-
-    address public factoryAddress;
+;
     uint256 private totalToMint;
 
     constructor() {}
