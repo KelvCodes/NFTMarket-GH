@@ -1,5 +1,4 @@
-
-    // CreatureAccessoryFactory that created the CreatureAccessory ERC1155 token
+ created the CreatureAccessory ERC1155 token
     // that we are receiving here.
     // We expect this to fail if the CreatureAccessoryFactory.mint() function
     // defends against reentrancy.
