@@ -1,4 +1,4 @@
-solidity ^0.8.0;
+y ^0.8.0;
 
 import "@openzeppelin/contracts/token/ERC1155/IERC1155Receiver.sol";
 
