@@ -1,6 +1,4 @@
 
-                .mint(1, address(this), 1, "");
-        }
         return ERC1155_RECEIVED_SIG;
     }
 
