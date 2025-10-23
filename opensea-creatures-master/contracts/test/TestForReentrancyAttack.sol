@@ -1,4 +1,4 @@
-nal INTERFACE_ERC1155_RECEIVER_FULL = 0x4e2312e0;
+5_RECEIVER_FULL = 0x4e2312e0;
     //bytes4(keccak256('supportsInterface(bytes4)'))
     bytes4 constant internal INTERFACE_ERC165 = 0x01ffc9a7;
 
