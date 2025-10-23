@@ -1,6 +1,5 @@
 
-        uint256 balance = IERC1155(msg.sender).balanceOf(address(this), _id);
-        if(balance < totalToMint)
+        uint256 balance        if(balance < totalToMint)
         {
             // 1 is the factory lootbox option, not the token id
             CreatureAccessoryFactory(factoryAddress)
