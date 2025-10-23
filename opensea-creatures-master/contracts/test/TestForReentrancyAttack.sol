@@ -1,6 +1,4 @@
-y ^0.8.0;
-
-import "@openzeppelin/contracts/token/ERC1155/IERC1155Receiver.sol";
+t "@openzeppelin/contracts/token/ERC1155/IERC1155Receiver.sol";
 
 import "../CreatureAccessoryFactory.sol";
 
