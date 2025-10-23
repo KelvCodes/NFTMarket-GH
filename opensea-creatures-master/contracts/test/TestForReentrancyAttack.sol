@@ -1,5 +1,4 @@
 
-    constructor() {}
 
     funcss = _factoryAddress;
         totalToMint = 3;
