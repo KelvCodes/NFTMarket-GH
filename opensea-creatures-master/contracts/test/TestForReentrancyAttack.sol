@@ -1,7 +1,4 @@
 
-;
-    uint256 private totalToMint;
-
     constructor() {}
 
     function setFactoryAddress(address _factoryAddress) external {
