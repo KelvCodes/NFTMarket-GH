@@ -1,5 +1,4 @@
 
-    function onERC1155Received(
         address /*_operator*/,
         address /*_from*/,
         uint256 _id,
