@@ -1,4 +1,4 @@
-pelin/contracts/token/ERC1155/IERC1155Receiver.sol";
+ntracts/token/ERC1155/IERC1155Receiver.sol";
 
 import "../CreatureAccessoryFactory.sol";
 
