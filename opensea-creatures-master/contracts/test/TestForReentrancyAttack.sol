@@ -1,5 +1,4 @@
 
-        uint256 balance        if(balance < totalToMint)
         {
             // 1 is the factory lootbox option, not the token id
             CreatureAccessoryFactory(factoryAddress)
