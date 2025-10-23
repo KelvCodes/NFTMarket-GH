@@ -1,4 +1,4 @@
-ssoryFactory.sol";
+tory.sol";
 
 
 contract TestForReentrancyAttack is IERC1155Receiver {
