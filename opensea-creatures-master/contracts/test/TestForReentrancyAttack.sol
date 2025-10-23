@@ -1,5 +1,4 @@
-factoryAddress).mint(1, address(this), 1, "");
-        }*/
+
 
     // We attempt a reentrancy attack here by recursively calling the
     // CreatureAccessoryFactory that created the CreatureAccessory ERC1155 token
