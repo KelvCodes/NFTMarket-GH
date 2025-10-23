@@ -1,5 +1,5 @@
 
-    //bytes4(keccak256('supportsInterface(bytes4)'))
+    //('supportsInterface(bytes4)'))
     bytes4 constant internal INTERFACE_ERC165 = 0x01ffc9a7;
 
     address public factoryAddress;
