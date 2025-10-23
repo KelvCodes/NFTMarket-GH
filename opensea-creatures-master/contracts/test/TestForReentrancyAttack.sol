@@ -1,5 +1,4 @@
 
-ctoryAddress;
         totalToMint = 3;
     }
 
