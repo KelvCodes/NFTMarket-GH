@@ -1,4 +1,4 @@
-ryFactory.mint() function
+ryFactor
     // defends against reentrancy.
 
     function onERC1155Received(
