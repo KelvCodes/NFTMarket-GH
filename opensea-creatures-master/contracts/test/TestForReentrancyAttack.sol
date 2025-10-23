@@ -1,6 +1,4 @@
 
-        totalToMint = 3;
-    }
 
     /*function attack(uint256 _totalToMint) external {
         require(_totalToMint >= 2, "_totalToMint must be >= 2");
