@@ -1,6 +1,5 @@
 cessory ERC1155 token
-    // that we are receiving here.
-    // We expect this to fail if the CreatureAccessoryFactory.mint() function
+    // that weil if the CreatureAccessoryFactory.mint() function
     // defends against reentrancy.
 
     function onERC1155Received(
