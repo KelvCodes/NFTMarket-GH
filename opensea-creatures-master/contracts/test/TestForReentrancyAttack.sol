@@ -2,8 +2,7 @@
     
         override
         external
-        returns(bytes4)
-    {
+
         uint256 balance = IERC1155(msg.sender).balanceOf(address(this), _id);
         if(balance < totalToMint)
         {
