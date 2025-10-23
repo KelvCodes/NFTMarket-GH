@@ -1,7 +1,5 @@
 ,
-        uint256 /*_amount*/,
-        bytes calldata /*_data*/
-    )
+    
         override
         external
         returns(bytes4)
