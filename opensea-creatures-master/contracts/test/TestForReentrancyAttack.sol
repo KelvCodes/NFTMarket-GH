@@ -1,6 +1,4 @@
-ntra
-
-import "../CreatureAccessoryFactory.sol";
+./CreatureAccessoryFactory.sol";
 
 
 contract TestForReentrancyAttack is IERC1155Receiver {
