@@ -1,4 +1,4 @@
-INITIAL_SUPPLY, "", "0x0");
+AL_SUPPLY, "", "0x0");
   }
 };
 
