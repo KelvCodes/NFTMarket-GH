@@ -1,11 +1,4 @@
-_GOLD,
-    7,
-    [7300, 2100, 400, 100, 50, 50],
-    [3, 0, 2, 0, 1, 0]
-  );
-};
 
-// Deploy and configure everything
 
 const setupCreatureAccessories = async(accessories, factory, lootBox, owner) => {
   await setupAccessory(accessories, owner);
