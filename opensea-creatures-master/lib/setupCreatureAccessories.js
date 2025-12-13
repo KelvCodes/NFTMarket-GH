@@ -1,4 +1,4 @@
-NUM_CLASSES; i++) {
+ i++) {
     const id = tokenIndexToId(i);
     await lootBox.setTokenIdsForClass(i, [id]);
   }
