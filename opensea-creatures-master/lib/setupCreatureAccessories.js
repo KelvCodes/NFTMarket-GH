@@ -1,4 +1,4 @@
-figure the lootbox
+
 
 const setupAccessoryLootBox = async (lootBox, factory) => {
   await lootBox.setState(
