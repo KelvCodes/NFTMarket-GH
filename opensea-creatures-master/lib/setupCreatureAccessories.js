@@ -1,4 +1,4 @@
-upAccessory = async (
+
   accessories,
   owner
 ) => {
