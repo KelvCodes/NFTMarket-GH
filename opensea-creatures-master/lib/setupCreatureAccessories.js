@@ -1,4 +1,4 @@
-kenIndexToId = a => a;
+ a => a;
 
 // Configure the nfts
 
