@@ -1,5 +1,4 @@
-
-    values.NUM_CLASSES,
+.NUM_CLASSES,
     1337
   );
   // We have one token id per rarity class.
