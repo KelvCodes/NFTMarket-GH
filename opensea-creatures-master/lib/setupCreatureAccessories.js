@@ -1,4 +1,4 @@
-./valuesCommon.js');
+mon.js');
 
 // A function in case we need to change this relationship
 const tokenIndexToId = a => a;
