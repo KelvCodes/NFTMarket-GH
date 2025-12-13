@@ -1,4 +1,4 @@
-, 0, 0, 0, 0]
+
   );
   await lootBox.setOptionSettings(
     values.LOOTBOX_OPTION_PREMIUM,
