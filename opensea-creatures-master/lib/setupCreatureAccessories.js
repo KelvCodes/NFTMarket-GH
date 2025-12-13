@@ -1,5 +1,4 @@
-Settings(
-    values.LOOTBOX_OPTION_BASIC,
+BOX_OPTION_BASIC,
     3,
     [7300, 2100, 400, 100, 50, 50],
     [0, 0, 0, 0, 0, 0]
