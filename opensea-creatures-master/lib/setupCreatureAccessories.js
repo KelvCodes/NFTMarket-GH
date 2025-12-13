@@ -1,4 +1,4 @@
-, 400, 100, 50, 50],
+00, 50, 50],
     [0, 0, 0, 0, 0, 0]
   );
   await lootBox.setOptionSettings(
