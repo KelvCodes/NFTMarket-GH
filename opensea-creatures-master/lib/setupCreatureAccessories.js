@@ -1,4 +1,1 @@
 
-  setupAccessoryLootBox,
-  setupCreatureAccessories
-};
