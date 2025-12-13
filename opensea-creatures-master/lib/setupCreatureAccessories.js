@@ -1,4 +1,4 @@
- change this relationship
+ this relationship
 const tokenIndexToId = a => a;
 
 // Configure the nfts
