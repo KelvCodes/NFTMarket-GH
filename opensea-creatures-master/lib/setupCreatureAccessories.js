@@ -1,7 +1,4 @@
-
-    1337
-  );
-  // We have one token id per rarity class.
+have one token id per rarity class.
   for (let i = 0; i < values.NUM_CLASSES; i++) {
     const id = tokenIndexToId(i);
     await lootBox.setTokenIdsForClass(i, [id]);
