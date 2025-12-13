@@ -1,8 +1,6 @@
 
 
-const setupAccessoryLootBox = async (lootBox, factory) => {
-  await lootBox.setState(
-    factory.address,
+const setupAcces
     values.NUM_LOOTBOX_OPTIONS,
     values.NUM_CLASSES,
     1337
