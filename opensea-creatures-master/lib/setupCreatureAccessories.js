@@ -1,4 +1,4 @@
-const values = require('./valuesCommon.js');
+ values = require('./valuesCommon.js');
 
 // A function in case we need to change this relationship
 const tokenIndexToId = a => a;
