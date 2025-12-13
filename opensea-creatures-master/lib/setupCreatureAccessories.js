@@ -1,4 +1,4 @@
-it lootBox.setOptionSettings(
+ox.setOptionSettings(
     values.LOOTBOX_OPTION_PREMIUM,
     5,
     [7300, 2100, 400, 100, 50, 50],
