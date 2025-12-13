@@ -1,5 +1,4 @@
-
-  for (let i = 0; i < values.NUM_ACCESSORIES; i++) {
+ 0; i < values.NUM_ACCESSORIES; i++) {
     const id = tokenIndexToId(i);
     await accessories.create(owner, id, values.MINT_INITIAL_SUPPLY, "", "0x0");
   }
