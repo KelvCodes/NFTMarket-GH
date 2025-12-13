@@ -1,5 +1,4 @@
-es
-    values.NUM_LOOTBOX_OPTIONS,
+.NUM_LOOTBOX_OPTIONS,
     values.NUM_CLASSES,
     1337
   );
