@@ -1,8 +1,4 @@
-2100, 400, 100, 50, 50],
-    [3, 0, 0, 0, 0, 0]
-  );
-  await lootBox.setOptionSettings(
-    values.LOOTBOX_OPTION_GOLD,
+_GOLD,
     7,
     [7300, 2100, 400, 100, 50, 50],
     [3, 0, 2, 0, 1, 0]
