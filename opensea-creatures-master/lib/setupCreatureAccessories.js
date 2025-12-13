@@ -1,4 +1,4 @@
- id = tokenIndexToId(i);
+nIndexToId(i);
     await lootBox.setTokenIdsForClass(i, [id]);
   }
   await lootBox.setOptionSettings(
