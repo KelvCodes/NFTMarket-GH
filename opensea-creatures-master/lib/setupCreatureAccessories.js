@@ -1,5 +1,4 @@
-
-  await lootBox.setOptionSettings(
+.setOptionSettings(
     values.LOOTBOX_OPTION_BASIC,
     3,
     [7300, 2100, 400, 100, 50, 50],
