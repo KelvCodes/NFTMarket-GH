@@ -1,6 +1,4 @@
 
-    await lootBox.setTokenIdsForClass(i, [id]);
-  }
   await lootBox.setOptionSettings(
     values.LOOTBOX_OPTION_BASIC,
     3,
