@@ -1,5 +1,4 @@
 
-  accessories,
   owner
 ) => {
   for (let i = 0; i < values.NUM_ACCESSORIES; i++) {
