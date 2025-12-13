@@ -1,4 +1,4 @@
- a => a;
+
 
 // Configure the nfts
 
