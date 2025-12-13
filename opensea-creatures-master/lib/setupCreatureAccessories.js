@@ -1,5 +1,4 @@
- i++) {
-    const id = tokenIndexToId(i);
+ id = tokenIndexToId(i);
     await lootBox.setTokenIdsForClass(i, [id]);
   }
   await lootBox.setOptionSettings(
