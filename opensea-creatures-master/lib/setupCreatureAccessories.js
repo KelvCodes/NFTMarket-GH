@@ -1,6 +1,4 @@
-
-
-const setupAccessory = async (
+upAccessory = async (
   accessories,
   owner
 ) => {
