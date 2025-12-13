@@ -1,7 +1,5 @@
 
 
-// Configure the nfts
-
 const setupAccessory = async (
   accessories,
   owner
