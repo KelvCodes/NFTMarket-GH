@@ -1,4 +1,4 @@
-sories.create(owner, id, values.MINT_INITIAL_SUPPLY, "", "0x0");
+eate(owner, id, values.MINT_INITIAL_SUPPLY, "", "0x0");
   }
 };
 
