@@ -1,5 +1,4 @@
-
-const tokenIndexToId = a => a;
+kenIndexToId = a => a;
 
 // Configure the nfts
 
