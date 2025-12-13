@@ -1,5 +1,4 @@
-ings(
-    values.LOOTBOX_OPTION_PREMIUM,
+lues.LOOTBOX_OPTION_PREMIUM,
     5,
     [7300, 2100, 400, 100, 50, 50],
     [3, 0, 0, 0, 0, 0]
