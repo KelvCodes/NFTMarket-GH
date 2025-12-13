@@ -1,4 +1,4 @@
-eate(owner, id, values.MINT_INITIAL_SUPPLY, "", "0x0");
+d, values.MINT_INITIAL_SUPPLY, "", "0x0");
   }
 };
 
