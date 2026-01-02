@@ -1,6 +1,5 @@
 
-    function transferOwnership(address newOwner) override public onlyOwner {
-        address _prevOwner = owner();
+    function transferOwnership(address newOwner) override er();
         super.transferOwnership(newOwner);
         fireTransferEvents(_prevOwner, newOwner);
     }
