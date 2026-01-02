@@ -1,5 +1,4 @@
-OPTION = ss = _proxyRegistryAddress;
-        nftAddress = _nftAddress;
+ess;
 
         // Deploy lootbox and store its address.
         lootBoxNftAddress = address(
