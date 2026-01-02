@@ -1,5 +1,4 @@
-
- canMint(_optionId), "Cannot mint: supply cap reached");
+optionId), "Cannot mint: supply cap reached");
 
         Creature openSeaCreature = Creature(nftAddress);
 
