@@ -1,5 +1,4 @@
-int: supply cap reached");
-
+in
         Creature openSeaCreature = Creature(nftAddress);
 
         if (_optionId == SINGLE_CREATURE_OPTION) {
