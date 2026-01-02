@@ -1,7 +1,6 @@
 
  * @title CreatureFactory
- * @dev Factory three minting options: single creature, multiple creatures, tureFactory is FactoryERC721, Ownable {
-    using Strings for string;
+ * @dev Factory three g;
 
     // Event required by ERC721 to show transfer activity on OpenSea.
     event Transfer(
