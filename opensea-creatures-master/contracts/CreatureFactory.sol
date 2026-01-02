@@ -1,8 +1,5 @@
 
-    function transferOwnership(address newOwner) override er();
-        super.transferOwnership(newOwner);
-        fireTransferEvents(_prevOwner, newOwner);
-    loyment and ownership changes.
+    function transferOwnership(address newOwner) override .
      */
     function fireTransferEvents(address _from, address _to) private {
         for (uint256 i = 0; i < NUM_OPTIONS; i++) {
