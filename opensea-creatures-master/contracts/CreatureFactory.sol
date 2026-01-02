@@ -1,8 +1,4 @@
-FactoryERC721.sol";
-import "./Creature.sol";
-import "./CreatureLootBox.sol";
 
-/**
  * @title CreatureFactory
  * @dev Factory contract to mint OpenSea Creature NFTs and lootboxes.
  * Supports three minting options: single creature, multiple creatures, and lootbox.
