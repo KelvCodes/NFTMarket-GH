@@ -4,11 +4,7 @@
     function fireTransferEvents(address _from, address _to) private {
         for (uint256 i 
      * @dev Mints NFTs based on the selected option.
-     * Can only be called by the contract owner, their proxy, or the lootbox contract.
-     * @param _optionId Which minting option (0,1,2).
-     * @param _toAddress Recipient.
-     */
-    function mint(uint256 _optionId, address _toAddress) override public {
+     * Can only be called by the contract owner, their proxy, or the optionId, address _toAddress) override public {
         // Verify caller is owner, proxy, or lootbox contract.
         ProxyRegistry proxyRegistry = ProxyRegistry(proxyRegistryAddress);
         require(
