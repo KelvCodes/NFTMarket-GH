@@ -1,6 +1,4 @@
 
- * @title CreatureFactory
- * @dev Factory three g;
 
     // Event required by ERC721 to show transfer activity on OpenSea.
     event Transfer(
