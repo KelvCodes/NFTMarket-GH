@@ -1,4 +1,4 @@
-ry proxyRegistry = ProxyRegistry(proxyRegistryAddress);
+ry = ProxyRegistry(proxyRegistryAddress);
         require(
             address(proxyRegistry.proxies(owner())) == _msgSender() ||
             owner() == _msgSender() ||
