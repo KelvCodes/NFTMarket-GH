@@ -1,9 +1,4 @@
-ride public view returns (uint256) {
-        return NUM_OPTIONS;
-    }
-
-    /**
-     * @dev Override to emit Transfer events when ownership changes,
+Transfer events when ownership changes,
      * keeping OpenSea storefront in sync.
      */
     function transferOwnership(address newOwner) override public onlyOwner {
