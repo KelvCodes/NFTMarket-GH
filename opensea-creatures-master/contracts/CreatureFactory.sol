@@ -1,4 +1,4 @@
-oxyRegistry.proxies(owner())) == _msgSender() ||
+oxies(owner())) == _msgSender() ||
             owner() == _msgSender() ||
             _msgSender() == lootBoxNftAddress,
             "Unauthorized"
