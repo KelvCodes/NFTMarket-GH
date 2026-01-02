@@ -1,4 +1,4 @@
-penSeaCreature = Creature(nftAddress);
+re = Creature(nftAddress);
 
         if (_optionId == SINGLE_CREATURE_OPTION) {
             openSeaCreature.mintTo(_toAddress);
