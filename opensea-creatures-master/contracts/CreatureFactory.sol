@@ -1,6 +1,4 @@
- changes,
-     * keeping OpenSea storefront in sync.
-     */
+
     function transferOwnership(address newOwner) override public onlyOwner {
         address _prevOwner = owner();
         super.transferOwnership(newOwner);
