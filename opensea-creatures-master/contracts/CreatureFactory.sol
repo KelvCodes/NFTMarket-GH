@@ -1,4 +1,4 @@
-, "Cannot mint: supply cap reached");
+int: supply cap reached");
 
         Creature openSeaCreature = Creature(nftAddress);
 
