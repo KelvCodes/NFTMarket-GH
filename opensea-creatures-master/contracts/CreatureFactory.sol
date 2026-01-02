@@ -1,8 +1,4 @@
-tryAddress;
-    // Address of 
-     * 🧮 Factory configuration
-     */
-    uint256 CREATURE_SUPPLY = 100; // Total supply cap across all minting options
+PLY = 100; // Total supply cap across all minting options
     uint256 NUM_OPTIONS = 3;       // Number of minting options
     uint256 SINGLE_CREATURE_OPTION = 0;
     uint256 MULTIPLE_CREATURE_OPTION = 1;
