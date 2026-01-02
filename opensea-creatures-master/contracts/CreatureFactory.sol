@@ -1,7 +1,4 @@
-OPTION = 0;
-    uint256  
-    constructor(address _proxyRegistryAddress, address _nftAddress) {
-        proxyRegistryAddress = _proxyRegistryAddress;
+OPTION = ss = _proxyRegistryAddress;
         nftAddress = _nftAddress;
 
         // Deploy lootbox and store its address.
