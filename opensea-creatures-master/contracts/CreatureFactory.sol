@@ -1,7 +1,6 @@
 
  * @title CreatureFactory
- * @dev Factory contract to mint OpenSea Creature NFTs and lootboxes.
- * Supports three minting options: single creature, multiple creatures, and lootbox.
+ * @dev Factory three minting options: single creature, multiple creatures, and lootbox.
  * Includes OpenSea-compatible "hack" functions to integrate seamlessly with their marketplace.
  */
 contract CreatureFactory is FactoryERC721, Ownable {
