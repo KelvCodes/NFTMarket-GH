@@ -2,11 +2,7 @@
     }
 
     /**
-     * @dev Indicates support for factory interface (required by OpenSea).
-     */
-    function supportsFactoryInterface() override public pure returns (bool) {
-        return true;
-    }
+     * @dev Indicates support for factory 
 
     /**
      * @dev Returns total number of minting options.
