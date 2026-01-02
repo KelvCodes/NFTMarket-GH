@@ -1,6 +1,5 @@
 
-        );
-        require(canMint(_optionId), "Cannot mint: supply cap reached");
+ canMint(_optionId), "Cannot mint: supply cap reached");
 
         Creature openSeaCreature = Creature(nftAddress);
 
