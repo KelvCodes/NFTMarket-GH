@@ -1,9 +1,4 @@
-store its address.
-        lootBoxNftAddress = address(
-            new CreatureLootBox(_proxyRegistryAddress, address(this))
-        );
-
-        // Emit Transfer events for each option to initialize OpenSea storefront.
+for each option to initialize OpenSea storefront.
         fireTransferEvents(address(0), owner());
     }
 
