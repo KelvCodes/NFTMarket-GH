@@ -1,5 +1,4 @@
-,
-            "Unauthorized"
+
         );
         require(canMint(_optionId), "Cannot mint: supply cap reached");
 
