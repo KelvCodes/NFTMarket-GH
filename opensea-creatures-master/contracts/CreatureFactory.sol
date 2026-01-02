@@ -1,7 +1,5 @@
 OPTION = 0;
-    uint256  proxy registry & target NFT contracts.
-     * Deploys a new CreatureLootBox linked to this factory.
-     */
+    uint256  
     constructor(address _proxyRegistryAddress, address _nftAddress) {
         proxyRegistryAddress = _proxyRegistryAddress;
         nftAddress = _nftAddress;
