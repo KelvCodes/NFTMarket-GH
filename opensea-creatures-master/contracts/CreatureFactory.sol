@@ -1,4 +1,4 @@
-oxyRegistryAddress);
+
         require(
             address(proxyRegistry.proxies(owner())) == _msgSender() ||
             owner() == _msgSender() ||
