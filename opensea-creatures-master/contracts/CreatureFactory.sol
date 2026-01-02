@@ -1,8 +1,7 @@
 
      * @dev Human-readable factory name.
      */
-    function name() override external pure returns (string memory) {
-        return "OpenSeaCreature Item Sale";
+     Item Sale";
     }
 
     /**
