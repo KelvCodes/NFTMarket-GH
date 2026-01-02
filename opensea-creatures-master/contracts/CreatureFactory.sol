@@ -1,4 +1,4 @@
-Transfer events when ownership changes,
+ changes,
      * keeping OpenSea storefront in sync.
      */
     function transferOwnership(address newOwner) override public onlyOwner {
