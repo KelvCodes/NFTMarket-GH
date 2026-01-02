@@ -1,8 +1,4 @@
-
-        uint256 indexed tokenId
-    );
-
-    // Address of OpenSea's ProxyRegistry (for gasless trading)
+ea's ProxyRegistry (for gasless trading)
     address public proxyRegistryAddress;
     // Address of the Creature ERC721 contract
     address public nftAddress;
