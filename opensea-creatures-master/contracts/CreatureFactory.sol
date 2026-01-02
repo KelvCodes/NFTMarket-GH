@@ -1,9 +1,6 @@
 
  * @title CreatureFactory
- * @dev Factory three minting options: single creature, multiple creatures, and lootbox.
- * Includes OpenSea-compatible "hack" functions to integrate seamlessly with their marketplace.
- */
-contract CreatureFactory is FactoryERC721, Ownable {
+ * @dev Factory three minting options: single creature, multiple creatures, tureFactory is FactoryERC721, Ownable {
     using Strings for string;
 
     // Event required by ERC721 to show transfer activity on OpenSea.
