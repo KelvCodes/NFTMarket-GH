@@ -2,12 +2,7 @@
     function transferOwnership(address newOwner) override .
      */
     function fireTransferEvents(address _from, address _to) private {
-        for (uint256 i = 0; i < NUM_OPTIONS; i++) {
-            emit Transfer(_from, _to, i);
-        }
-    }
-
-    /**
+        for (uint256 i 
      * @dev Mints NFTs based on the selected option.
      * Can only be called by the contract owner, their proxy, or the lootbox contract.
      * @param _optionId Which minting option (0,1,2).
