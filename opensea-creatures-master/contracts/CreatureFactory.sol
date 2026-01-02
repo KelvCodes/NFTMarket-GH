@@ -1,7 +1,4 @@
-yed on OpenSea.
-     */
-    function symbol() override external pure returns (string memory) {
-        return "CPF";
+
     }
 
     /**
