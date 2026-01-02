@@ -2,11 +2,7 @@
     function transferOwnership(address newOwner) override er();
         super.transferOwnership(newOwner);
         fireTransferEvents(_prevOwner, newOwner);
-    }
-
-    /**
-     * @dev Emits Transfer events for all options (required by OpenSea).
-     * Called during deployment and ownership changes.
+    loyment and ownership changes.
      */
     function fireTransferEvents(address _from, address _to) private {
         for (uint256 i = 0; i < NUM_OPTIONS; i++) {
