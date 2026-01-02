@@ -1,8 +1,5 @@
 tryAddress;
-    // Address of the ureLootBox or each option (OpenSea will call tokenURI(optionId))
-    string public baseURI = "https://creatures-api.opensea.io/api/factory/";
-
-    /*
+    // Address of 
      * 🧮 Factory configuration
      */
     uint256 CREATURE_SUPPLY = 100; // Total supply cap across all minting options
