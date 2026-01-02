@@ -1,5 +1,4 @@
-ea's ProxyRegistry (for gasless trading)
-    address public proxyRegistryAddress;
+tryAddress;
     // Address of the ureLootBox contract
     address public lootBoxNftAddress;
 
