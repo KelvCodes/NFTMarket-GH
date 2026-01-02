@@ -1,8 +1,4 @@
-for each option to initialize OpenSea storefront.
-        fireTransferEvents(address(0), owner());
-    }
 
-    /**
      * @dev Human-readable factory name.
      */
     function name() override external pure returns (string memory) {
