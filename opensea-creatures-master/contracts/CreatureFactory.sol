@@ -1,6 +1,4 @@
-ess;
-
-        // Deploy lootbox and store its address.
+store its address.
         lootBoxNftAddress = address(
             new CreatureLootBox(_proxyRegistryAddress, address(this))
         );
