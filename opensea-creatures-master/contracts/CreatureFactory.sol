@@ -1,8 +1,6 @@
 ea's ProxyRegistry (for gasless trading)
     address public proxyRegistryAddress;
-    // Address of the Creature ERC721 contract
-    address public nftAddress;
-    // Address of the CreatureLootBox contract
+    // Address of the ureLootBox contract
     address public lootBoxNftAddress;
 
     // Base metadata URI for each option (OpenSea will call tokenURI(optionId))
