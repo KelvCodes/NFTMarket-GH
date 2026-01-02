@@ -1,4 +1,4 @@
-oxies(owner())) == _msgSender() ||
+) == _msgSender() ||
             owner() == _msgSender() ||
             _msgSender() == lootBoxNftAddress,
             "Unauthorized"
