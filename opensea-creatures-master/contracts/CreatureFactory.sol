@@ -1,11 +1,4 @@
-
-     * @dev Human-readable factory name.
-     */
-     Item Sale";
-    }
-
-    /**
-     * @dev Symbol displayed on OpenSea.
+yed on OpenSea.
      */
     function symbol() override external pure returns (string memory) {
         return "CPF";
