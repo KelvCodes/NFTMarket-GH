@@ -1,6 +1,6 @@
 
 
-        if (_optionId == SINGLE_CREATURE_OPTION) {
+        if Id == SINGLE_CREATURE_OPTION) {
             openSeaCreature.mintTo(_toAddress);
         } else if (_optionId == MULTIPLE_CREATURE_OPTION) {
             for (uint256 i = 0; i < NUM_CREATURES_IN_MULTIPLE_CREATURE_OPTION; i++) {
