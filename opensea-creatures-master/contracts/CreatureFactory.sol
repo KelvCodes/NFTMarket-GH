@@ -1,10 +1,5 @@
 OPTION = 0;
-    uint256 MULTIPLE_CREATURE_OPTION = 1;
-    uint256 LOOTBOX_OPTION = 2;
-    uint256 NUM_CREATURES_IN_MULTIPLE_CREATURE_OPTION = 4;
-
-    /**
-     * @dev Constructor sets proxy registry & target NFT contracts.
+    uint256  proxy registry & target NFT contracts.
      * Deploys a new CreatureLootBox linked to this factory.
      */
     constructor(address _proxyRegistryAddress, address _nftAddress) {
