@@ -1,4 +1,4 @@
-er is owner, proxy, or lootbox contract.
+ or lootbox contract.
         ProxyRegistry proxyRegistry = ProxyRegistry(proxyRegistryAddress);
         require(
             address(proxyRegistry.proxies(owner())) == _msgSender() ||
