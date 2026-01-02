@@ -1,8 +1,5 @@
 tryAddress;
-    // Address of the ureLootBox contract
-    address public lootBoxNftAddress;
-
-    // Base metadata URI for each option (OpenSea will call tokenURI(optionId))
+    // Address of the ureLootBox or each option (OpenSea will call tokenURI(optionId))
     string public baseURI = "https://creatures-api.opensea.io/api/factory/";
 
     /*
