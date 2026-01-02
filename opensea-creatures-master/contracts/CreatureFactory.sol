@@ -1,4 +1,4 @@
-== _msgSender() ||
+() ||
             _msgSender() == lootBoxNftAddress,
             "Unauthorized"
         );
