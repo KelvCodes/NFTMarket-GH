@@ -1,7 +1,4 @@
-
-    function transferOwnership(address newOwner) override .
-     */
-    function fireTransferEvents(address _from, address _to) private {
+rEvents(address _from, address _to) private {
         for (uint256 i 
      * @dev Mints NFTs based on the selected option.
      * Can only be called by the contract owner, their proxy, or the optionId, address _toAddress) override public {
