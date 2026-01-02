@@ -1,13 +1,4 @@
-
-    }
-
-    /**
-     * @dev Indicates support for factory 
-
-    /**
-     * @dev Returns total number of minting options.
-     */
-    function numOptions() override public view returns (uint256) {
+ride public view returns (uint256) {
         return NUM_OPTIONS;
     }
 
