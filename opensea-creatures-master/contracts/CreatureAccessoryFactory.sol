@@ -1,5 +1,4 @@
-
-    uint256 constant UINT256_MAX = ~uint256(0);
+ant UINT256_MAX = ~uint256(0);
 
     /*
      * Optionally set this to a small integer to enforce limited existence per option/token ID
