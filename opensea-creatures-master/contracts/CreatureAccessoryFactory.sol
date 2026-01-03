@@ -1,5 +1,4 @@
 
-    using Strings for string;
     using SafeMath for uint256;
 
     address public proxyRegistryAddress;
