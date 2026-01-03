@@ -1,6 +1,4 @@
-
-    // The number of creature accessories (not creature accessory rarity classes!)
-    uint256 constant NUM_ITEM_OPTIONS = 6;
+ONS = 6;
 
     /*
      * Three different options for minting CreatureAccessories (basic, premium, and gold).
