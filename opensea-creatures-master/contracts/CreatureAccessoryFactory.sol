@@ -1,8 +1,4 @@
-rride external pure returns (string memory) {
-        return "OpenSea Creature Accessory Pre-Sale";
-    }
-
-    function symbol() override external pure returns (string memory) {
+override external pure returns (string memory) {
         return "OSCAP";
     }
 
