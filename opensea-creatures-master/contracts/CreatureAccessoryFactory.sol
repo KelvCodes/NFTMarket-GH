@@ -1,4 +1,4 @@
-Ownable, ReentrancyGuard {
+
     using Strings for string;
     using SafeMath for uint256;
 
