@@ -1,7 +1,6 @@
 
     constructor(
-        ad
-        proxyRegistryAddress = _proxyRegistryAddress;
+    stryAddress = _proxyRegistryAddress;
         nftAddress = _nftAddress;
         lootBoxAddress = _lootBoxAddress;
     }
