@@ -1,5 +1,4 @@
-
-    address public nftAddress;
+ic nftAddress;
     address public lootBoxAddress;
     string
         internal constant baseMetadataURI = "https://creatures-api.opensea.io/api/";
