@@ -1,21 +1,6 @@
 
 
-    function numOptions() override external pure returns (uint256) {
-  
-        view
-        returns (bool)
-    {
-        return _canMint(_msgSender(), _optionId, _amount);
-    }
-
-    function mint(
-        uint256 _optionId,
-        address _toAddress,
-        uint256 _amount,
-        bytes calldata _data
-    ) override external nonReentrant() {
-        return _mint(_optionId, _toAddress, _amount, _data);
-    }
+    function numOptions() override 
 
     /**
      * @dev Main minting logic implemented here!
