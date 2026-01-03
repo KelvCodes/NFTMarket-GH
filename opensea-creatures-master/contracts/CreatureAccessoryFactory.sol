@@ -1,5 +1,4 @@
-
-le CreatureAccessoryFactory
+essoryFactory
  * CreatureAccessory - a factory contract for Creature Accessory semi-fungible
  * tokens.
  */
