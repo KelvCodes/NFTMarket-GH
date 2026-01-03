@@ -1,5 +1,4 @@
-l";
-import "./IFactoryERC1155.sol";
+"./IFactoryERC1155.sol";
 import "./ERC1155Tradable.sol";
 
 /**
