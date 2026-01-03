@@ -1,5 +1,4 @@
-
-    uint256 public constant NUM_OPTIONS = NUM_ITEM_OPTIONS +
+ONS = NUM_ITEM_OPTIONS +
         NUM_LOOTBOX_OPTIONS;
 
     constructor(
