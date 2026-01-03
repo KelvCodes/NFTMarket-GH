@@ -1,7 +1,4 @@
-ONS = 6;
-
-    /*
-     * Three different options for minting CreatureAccessories (basic, premium, and gold).
+minting CreatureAccessories (basic, premium, and gold).
      */
     uint256 public constant BASIC_LOOTBOX = NUM_ITEM_OPTIONS + 0;
     uint256 public constant PREMIUM_LOOTBOX = NUM_ITEM_OPTIONS + 1;
