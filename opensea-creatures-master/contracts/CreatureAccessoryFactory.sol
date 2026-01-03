@@ -1,6 +1,5 @@
 
-     * Optionally set this to a small integer to enforce limited existence per option/token ID
-     * (Otherwise rely on sell orders on OpenSea, which can only be made by the factory owner.)
+     * Optionally set this to a small integer to enforce limited existence per option/tokn OpenSea, which can only be made by the factory owner.)
      */
     uint256 constant SUPPLY_PER_TOKEN_ID = UINT256_MAX;
 
