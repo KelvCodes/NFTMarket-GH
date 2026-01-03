@@ -1,8 +1,4 @@
-
-ETHODS
-    /////
-
-    function name() override external pure returns (string memory) {
+rride external pure returns (string memory) {
         return "OpenSea Creature Accessory Pre-Sale";
     }
 
