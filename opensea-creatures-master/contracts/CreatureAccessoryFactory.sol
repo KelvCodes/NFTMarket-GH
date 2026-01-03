@@ -1,94 +1,252 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.20;
 
-            _canMint(_msgSender(), _option, _amount),
-            "CreatureAccessoryFactory#_mint: CANNOT_MINT_MORE"
-        );
-        if 
-        } else if (_option < NUM_OPTIONS) {
-            require(_isOwnerOrProxy(_msgSender()), "Caller cannot mint boxes");
-            uint256 lootBoxOption = _option - NUM_ITEM_OPTIONS;
-            // LootBoxes are not premined, so we need to create or mint them.
-            // lootBoxOption is used as a token ID here.
-            _createOrMint(
-                lootBoxAddress,
-                _toAddress,
-                lootBoxOption,
-                _amount,
-                _data
-            );
-        } else {
-            revert("Unknown _option");
-        }
+import "@openzeppelin/contracts/access/Ownable.sol";
+import "@openzeppelin/contracts/security/ReentrancyGuard.sol";
+import "@openzeppelin/contracts/utils/Strings.sol";
+
+import "./IFactoryERC1155.sol";
+import "./ERC1155Tradable.sol";
+
+/**
+ * @title CreatureAccessoryFactory
+ * @author Kelvin
+ * @notice Factory contract for minting Creature Accessories & LootBoxes (ERC1155)
+ */
+contract CreatureAccessoryFactory is
+    FactoryERC1155,
+    Ownable,
+    ReentrancyGuard
+{
+    using Strings for uint256;
+
+    /*//////////////////////////////////////////////////////////////
+                                ERRORS
+    //////////////////////////////////////////////////////////////*/
+    error CannotMint();
+    error InvalidOption();
+    error Unauthorized();
+
+    /*//////////////////////////////////////////////////////////////
+                              CONSTANTS
+    //////////////////////////////////////////////////////////////*/
+    string internal constant BASE_METADATA_URI =
+        "https://creatures-api.opensea.io/api/";
+
+    uint256 public constant NUM_ITEM_OPTIONS = 6;
+    uint256 public constant NUM_LOOTBOX_OPTIONS = 3;
+    uint256 public constant NUM_OPTIONS =
+        NUM_ITEM_OPTIONS + NUM_LOOTBOX_OPTIONS;
+
+    uint256 public constant BASIC_LOOTBOX = NUM_ITEM_OPTIONS;
+    uint256 public constant PREMIUM_LOOTBOX = NUM_ITEM_OPTIONS + 1;
+    uint256 public constant GOLD_LOOTBOX = NUM_ITEM_OPTIONS + 2;
+
+    uint256 internal constant MAX_SUPPLY = type(uint256).max;
+
+    /*//////////////////////////////////////////////////////////////
+                              STORAGE
+    //////////////////////////////////////////////////////////////*/
+    address public immutable proxyRegistryAddress;
+    address public immutable nftAddress;
+    address public immutable lootBoxAddress;
+
+    /*//////////////////////////////////////////////////////////////
+                                EVENTS
+    //////////////////////////////////////////////////////////////*/
+    event Minted(
+        address indexed caller,
+        address indexed to,
+        uint256 indexed optionId,
+        uint256 amount
+    );
+
+    /*//////////////////////////////////////////////////////////////
+                              CONSTRUCTOR
+    //////////////////////////////////////////////////////////////*/
+    constructor(
+        address _proxyRegistryAddress,
+        address _nftAddress,
+        address _lootBoxAddress
+    ) {
+        proxyRegistryAddress = _proxyRegistryAddress;
+        nftAddress = _nftAddress;
+        lootBoxAddress = _lootBoxAddress;
     }
 
-    /*
-     * Note: make sure code that calls this is non-reentrant.
-     * Note: this is the token _id *within* the ERC1155 contract, not the option
-     *       id from this contract.
-     */
-    function _createOrMint(
-        address _erc1155Address,
-        address _to,
-        uint256 _id,
-        uint256 _amount,
-        bytes memory _data
-    ) internal {
-        ERC1155Tradable tradable = ERC1155Tradable(_erc1155Address);
-        // Lazily create the token
-        if (!tradable.exists(_id)) {
-            tradable.create(_to, _id, _amount, "", _data);
-        } else {
-            tradable.mint(_to, _id, _amount, _data);
-        }
+    /*//////////////////////////////////////////////////////////////
+                      FACTORY METADATA (OpenSea)
+    //////////////////////////////////////////////////////////////*/
+    function name() external pure override returns (string memory) {
+        return "OpenSea Creature Accessory Pre-Sale";
     }
 
-    /**
-     * Get the factory's ownership of Option.
-     * Should be the amount it can still mint.
-     * NOTE: Called by `canMint`
-     */
-    function balanceOf(address _owner, uint256 _optionId)
+    function symbol() external pure override returns (string memory) {
+        return "OSCAP";
+    }
+
+    function supportsFactoryInterface()
+        external
+        pure
         override
-        public
-        view
-        returns (uint256)
+        returns (bool)
     {
-        if (_optionId < NUM_ITEM_OPTIONS) {
-            if (!_isOwnerOrProxy(_owner) && _owner != lootBoxAddress) {
-                // Only the factory's owner or owner's proxy,
-                // or the lootbox can have supply
-                return 0;
-            }
-            // The pre-minted balance belongs to the address that minted this contract
-            ERC1155Tradable lootBox = ERC1155Tradable(nftAddress);
-            // OptionId is used as a token ID here
-            uint256 currentSupply = lootBox.balanceOf(owner(), _optionId);
-            return currentSupply;
-        } else {
-            if (!_isOwnerOrProxy(_owner)) {
-                // Only the factory owner or owner's proxy can have supply
-                return 0;
-            }
-            // We explicitly calculate the token ID here
-            uint256 tokenId = (_optionId - NUM_ITEM_OPTIONS);
-            ERC1155Tradable lootBox = ERC1155Tradable(lootBoxAddress);
-            uint256 currentSupply = lootBox.totalSupply(tokenId);
-            // We can mint up to a balance of SUPPLY_PER_TOKEN_ID
-            return SUPPLY_PER_TOKEN_ID.sub(currentSupply);
+        return true;
+    }
+
+    function factorySchemaName()
+        external
+        pure
+        override
+        returns (string memory)
+    {
+        return "ERC1155";
+    }
+
+    function numOptions() external pure override returns (uint256) {
+        return NUM_OPTIONS;
+    }
+
+    function uri(uint256 optionId)
+        external
+        pure
+        override
+        returns (string memory)
+    {
+        return
+            string(
+                abi.encodePacked(
+                    BASE_METADATA_URI,
+                    "factory/",
+                    optionId.toString()
+                )
+            );
+    }
+
+    /*//////////////////////////////////////////////////////////////
+                          MINTING LOGIC
+    //////////////////////////////////////////////////////////////*/
+    function canMint(
+        uint256 optionId,
+        uint256 amount
+    ) external view override returns (bool) {
+        return _canMint(_msgSender(), optionId, amount);
+    }
+
+    function mint(
+        uint256 optionId,
+        address to,
+        uint256 amount,
+        bytes calldata data
+    ) external override nonReentrant {
+        _mint(optionId, to, amount, data);
+        emit Minted(msg.sender, to, optionId, amount);
+    }
+
+    function _mint(
+        uint256 optionId,
+        address to,
+        uint256 amount,
+        bytes memory data
+    ) internal {
+        if (!_canMint(_msgSender(), optionId, amount)) revert CannotMint();
+
+        // ===================== ACCESSORY ITEMS =====================
+        if (optionId < NUM_ITEM_OPTIONS) {
+            if (
+                !_isOwnerOrProxy(_msgSender()) &&
+                _msgSender() != lootBoxAddress
+            ) revert Unauthorized();
+
+            ERC1155Tradable(nftAddress).safeTransferFrom(
+                owner(),
+                to,
+                optionId,
+                amount,
+                data
+            );
         }
+        // ===================== LOOT BOXES =====================
+        else if (optionId < NUM_OPTIONS) {
+            if (!_isOwnerOrProxy(_msgSender())) revert Unauthorized();
+
+            uint256 tokenId = optionId - NUM_ITEM_OPTIONS;
+            _createOrMint(lootBoxAddress, to, tokenId, amount, data);
+        } else {
+            revert InvalidOption();
+        }
+    }
+
+    /*//////////////////////////////////////////////////////////////
+                        ERC1155 HELPERS
+    //////////////////////////////////////////////////////////////*/
+    function _createOrMint(
+        address erc1155,
+        address to,
+        uint256 id,
+        uint256 amount,
+        bytes memory data
+    ) internal {
+        ERC1155Tradable token = ERC1155Tradable(erc1155);
+
+        if (!token.exists(id)) {
+            token.create(to, id, amount, "", data);
+        } else {
+            token.mint(to, id, amount, data);
+        }
+    }
+
+    /*//////////////////////////////////////////////////////////////
+                          SUPPLY CONTROL
+    //////////////////////////////////////////////////////////////*/
+    function balanceOf(
+        address ownerAddress,
+        uint256 optionId
+    ) public view override returns (uint256) {
+        // ===================== ITEMS =====================
+        if (optionId < NUM_ITEM_OPTIONS) {
+            if (
+                !_isOwnerOrProxy(ownerAddress) &&
+                ownerAddress != lootBoxAddress
+            ) {
+                return 0;
+            }
+
+            return
+                ERC1155Tradable(nftAddress).balanceOf(
+                    owner(),
+                    optionId
+                );
+        }
+
+        // ===================== LOOT BOXES =====================
+        if (!_isOwnerOrProxy(ownerAddress)) return 0;
+
+        uint256 tokenId = optionId - NUM_ITEM_OPTIONS;
+        uint256 minted = ERC1155Tradable(lootBoxAddress).totalSupply(tokenId);
+
+        return MAX_SUPPLY - minted;
     }
 
     function _canMint(
-        address _fromAddress,
-        uint256 _optionId,
-        uint256 _amount
+        address caller,
+        uint256 optionId,
+        uint256 amount
     ) internal view returns (bool) {
-        return _amount > 0 && balanceOf(_fromAddress, _optionId) >= _amount;
+        return amount > 0 && balanceOf(caller, optionId) >= amount;
     }
 
-    function _isOwnerOrProxy(address _address) internal view returns (bool) {
-        ProxyRegistry proxyRegistry = ProxyRegistry(proxyRegistryAddress);
+    /*//////////////////////////////////////////////////////////////
+                         OPENSEA PROXY
+    //////////////////////////////////////////////////////////////*/
+    function _isOwnerOrProxy(address account)
+        internal
+        view
+        returns (bool)
+    {
+        ProxyRegistry registry = ProxyRegistry(proxyRegistryAddress);
         return
-            owner() == _address ||
-            address(proxyRegistry.proxies(owner())) == _address;
+            account == owner() ||
+            address(registry.proxies(owner())) == account;
     }
 }
