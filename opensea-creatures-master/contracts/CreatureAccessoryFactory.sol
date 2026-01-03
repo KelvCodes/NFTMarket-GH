@@ -1,4 +1,4 @@
-tant baseMetadataURI = "https://creatures-api.opensea.io/api/";
+= "https://creatures-api.opensea.io/api/";
     uint256 constant UINT256_MAX = ~uint256(0);
 
     /*
