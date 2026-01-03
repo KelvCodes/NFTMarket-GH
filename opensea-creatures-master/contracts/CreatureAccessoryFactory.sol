@@ -1,8 +1,4 @@
 
-    }
-    function factorySchemaName() override external pure returns (string memory) {
-        return "ERC1155";
-    }
 
     function numOptions() override external pure returns (uint256) {
         return NUM_LOOTBOX_OPTIONS + NUM_ITEM_OPTIONS;
