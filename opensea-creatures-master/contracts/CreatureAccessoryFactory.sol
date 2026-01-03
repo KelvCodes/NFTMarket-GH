@@ -1,7 +1,5 @@
 
-
-    /////
-    // FACTORY INTERFACE METHODS
+ETHODS
     /////
 
     function name() override external pure returns (string memory) {
