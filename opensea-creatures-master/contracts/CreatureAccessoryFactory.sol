@@ -1,4 +1,4 @@
-/contracts/utils/Strings.sol";
+/utils/Strings.sol";
 import "./IFactoryERC1155.sol";
 import "./ERC1155Tradable.sol";
 
