@@ -1,4 +1,4 @@
-yRegistryAddress;
+
     address public nftAddress;
     address public lootBoxAddress;
     string
