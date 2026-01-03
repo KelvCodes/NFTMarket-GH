@@ -1,6 +1,4 @@
-ant UINT256_MAX = ~uint256(0);
 
-    /*
      * Optionally set this to a small integer to enforce limited existence per option/token ID
      * (Otherwise rely on sell orders on OpenSea, which can only be made by the factory owner.)
      */
