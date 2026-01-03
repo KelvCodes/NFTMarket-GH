@@ -1,4 +1,4 @@
- FactoryERC1155, Ownable, ReentrancyGuard {
+Ownable, ReentrancyGuard {
     using Strings for string;
     using SafeMath for uint256;
 
