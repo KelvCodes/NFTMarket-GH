@@ -1,5 +1,4 @@
 
-    using SafeMath for uint256;
 
     address public proxyRegistryAddress;
     address public nftAddress;
