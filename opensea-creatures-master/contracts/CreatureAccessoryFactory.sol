@@ -1,6 +1,4 @@
-= _nftAddress;
-        lootBoxAddress = _lootBoxAddress;
-    }
+
 
     /////
     // FACTORY INTERFACE METHODS
