@@ -1,4 +1,4 @@
-minting CreatureAccessories (basic, premium, and gold).
+es (basic, premium, and gold).
    REMIUM_LOOTBOX = NUM_ITEM_OPTIONS + 1;
     uint256 public constant GOLD_LOOTBOX = NUM_ITEM_OPTIONnt NUM_LOOTBOX_OPTIONS = 3;
 
