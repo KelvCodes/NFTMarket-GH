@@ -1,10 +1,5 @@
 
     }
-
-    function supportsFactoryInterface() override external pure returns (bool) {
-        return true;
-    }
-
     function factorySchemaName() override external pure returns (string memory) {
         return "ERC1155";
     }
