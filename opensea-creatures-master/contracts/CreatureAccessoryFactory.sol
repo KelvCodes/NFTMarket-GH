@@ -1,5 +1,4 @@
-
-import "./ERC1155Tradable.sol";
+RC1155Tradable.sol";
 
 /**
  * @title CreatureAccessoryFactory
