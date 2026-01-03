@@ -1,4 +1,4 @@
-cyGuard.sol";
+
 import "@openzeppelin/contracts/utils/Strings.sol";
 import "./IFactoryERC1155.sol";
 import "./ERC1155Tradable.sol";
