@@ -2,8 +2,7 @@
     constructor(
         address _proxyRegistryAddress,
         address _nftAddress,
-        address _lootBoxAddress
-    ) {
+    
         proxyRegistryAddress = _proxyRegistryAddress;
         nftAddress = _nftAddress;
         lootBoxAddress = _lootBoxAddress;
