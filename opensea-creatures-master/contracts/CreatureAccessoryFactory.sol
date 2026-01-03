@@ -1,7 +1,4 @@
-
-    constructor(
-    stryAddress = _proxyRegistryAddress;
-        nftAddress = _nftAddress;
+= _nftAddress;
         lootBoxAddress = _lootBoxAddress;
     }
 
