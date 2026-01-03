@@ -1,5 +1,3 @@
-ONS = NUM_ITEM_OPTIONS +
-        NUM_LOOTBOX_OPTIONS;
 
     constructor(
         address _proxyRegistryAddress,
