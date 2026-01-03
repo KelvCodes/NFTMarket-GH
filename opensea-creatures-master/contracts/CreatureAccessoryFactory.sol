@@ -4,12 +4,6 @@
         return NUM_LOOTBOX_OPTIONS + NUM_ITEM_OPTIONS;
     }
 
-    function uri(uint256 _optionId) override external pure returns (string memory) {
-        return
-            string(
-                abi.encodePacked(
-                    baseMetadataURI,
-                    "factory/",
                     Strings.toString(_optionId)
                     )
                 );
