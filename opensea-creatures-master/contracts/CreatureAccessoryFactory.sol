@@ -1,7 +1,5 @@
 
-
-/**
- * @title CreatureAccessoryFactory
+le CreatureAccessoryFactory
  * CreatureAccessory - a factory contract for Creature Accessory semi-fungible
  * tokens.
  */
