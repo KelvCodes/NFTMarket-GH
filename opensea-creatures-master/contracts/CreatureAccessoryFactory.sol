@@ -1,17 +1,7 @@
 
 
     function numOptions() override external pure returns (uint256) {
-        return NUM_LOOTBOX_OPTIONS + NUM_ITEM_OPTIONS;
-    }
-
-                    Strings.toString(_optionId)
-                    )
-                );
-    }
-
-    function canMint(uint256 _optionId, uint256 _amount)
-        override
-        external
+  
         view
         returns (bool)
     {
