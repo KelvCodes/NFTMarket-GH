@@ -1,5 +1,4 @@
 
-    address public lootBoxAddress;
     string
         internal constant baseMetadataURI = "https://creatures-api.opensea.io/api/";
     uint256 constant UINT256_MAX = ~uint256(0);
