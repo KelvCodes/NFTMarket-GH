@@ -1,5 +1,4 @@
-
-contract CreatureAccessoryFactory is FactoryERC1155, Ownable, ReentrancyGuard {
+cessoryFactory is FactoryERC1155, Ownable, ReentrancyGuard {
     using Strings for string;
     using SafeMath for uint256;
 
