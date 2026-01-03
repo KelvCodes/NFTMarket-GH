@@ -2,22 +2,7 @@
             _canMint(_msgSender(), _option, _amount),
             "CreatureAccessoryFactory#_mint: CANNOT_MINT_MORE"
         );
-        if (_option < NUM_ITEM_OPTIONS) {
-            require(
-                _isOwnerOrProxy(_msgSender()) || _msgSender() == lootBoxAddress,
-                "Caller cannot mint accessories"
-            );
-            // Items are pre-mined (by the owner), so transfer them (We are an
-            // operator for the owner).
-            ERC1155Tradable items = ERC1155Tradable(nftAddress);
-            // Option is used as a token ID here
-            items.safeTransferFrom(
-                owner(),
-                _toAddress,
-                _option,
-                _amount,
-                _data
-            );
+        if 
         } else if (_option < NUM_OPTIONS) {
             require(_isOwnerOrProxy(_msgSender()), "Caller cannot mint boxes");
             uint256 lootBoxOption = _option - NUM_ITEM_OPTIONS;
