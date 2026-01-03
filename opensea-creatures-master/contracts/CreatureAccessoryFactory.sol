@@ -1,17 +1,4 @@
 
-
-    function numOptions() override 
-
-    /**
-     * @dev Main minting logic implemented here!
-     */
-    function _mint(
-        uint256 _option,
-        address _toAddress,
-        uint256 _amount,
-        bytes memory _data
-    ) internal {
-        require(
             _canMint(_msgSender(), _option, _amount),
             "CreatureAccessoryFactory#_mint: CANNOT_MINT_MORE"
         );
