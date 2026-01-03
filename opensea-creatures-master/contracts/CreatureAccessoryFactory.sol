@@ -1,6 +1,6 @@
 
 
-import "@openzeppelin/contracts/access/Ownable.sol";
+"@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/security/ReentrancyGuard.sol";
 import "@openzeppelin/contracts/utils/Strings.sol";
 import "./IFactoryERC1155.sol";
