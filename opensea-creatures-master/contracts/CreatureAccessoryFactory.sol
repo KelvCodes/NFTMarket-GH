@@ -1,6 +1,5 @@
 
- * CreatureAccessory - a factory contract for Creature Accessory semi-fungible
- * tokens.
+ * CreatureAccessory -
  */
 contract CreatureAccessoryFactory is FactoryERC1155, Ownable, ReentrancyGuard {
     using Strings for string;
