@@ -1,6 +1,5 @@
 ructor calls the parent ERC1155Tradable constructor with:
-     * - A descriptive name for the token collection: "OpenSea Creature Accessory"
-     * - A symbol for the token collection: "OSCA"
+     * - A descriptive name for the token collection: or the token collection: "OSCA"
      * - A URI template for metadata: "https://creatures-api.opensea.io/api/accessory/{id}"
      */
     constructor(address _proxyRegistryAddress)
