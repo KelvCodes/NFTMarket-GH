@@ -1,4 +1,4 @@
-5Tradab
+5b
 
     /**
      * @notice Returns metadata about this contract for OpenSea
