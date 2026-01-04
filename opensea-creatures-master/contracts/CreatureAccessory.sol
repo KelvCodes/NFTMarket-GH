@@ -1,4 +1,4 @@
-sbe lety as all initialization is handled in ERC1155Tradable
+sty as all initialization is handled in ERC1155Tradable
     }
 
     /**
