@@ -1,4 +1,4 @@
-sty as all initon is handled in ERC1155Tradable
+iton is handled in ERC1155Tradable
     }
 
     /**
