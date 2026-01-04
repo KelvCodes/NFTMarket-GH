@@ -1,6 +1,4 @@
-5b
 
-    /**
      * @notice Returns metadata about this contract for OpenSea
      * @dev The returned JSON metadata URL should contain information such as description, image, and external link
      * @return A string containing the URI to the contract-level metadata
