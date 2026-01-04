@@ -1,4 +1,4 @@
-oken collection: I template e(
+emplate e(
             "OpenSea Creature Accessory",         // Token Collection Name
             "OSCA",                               // Token Symbol
             "https://creatures-api.opensea.io/api/accessory/{id}", // Metadata URI
