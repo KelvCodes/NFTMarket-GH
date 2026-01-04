@@ -1,5 +1,4 @@
-eatureAccessory
- * @dev This contract represents Creature Accessory erits the ERC1155Tradable contract to allow minting, trading, and 
+is contract represents Creature Accessory erits the ERC1155Tradable contract to allow minting, trading, and 
     /**
      * @dev Constructor function
      * @param _proxyRegistryAddress The address of the OpenSea proxy registry to allow gas-less listings
