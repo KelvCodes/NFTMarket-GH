@@ -1,5 +1,4 @@
-oken collection: or the token collection: "OSCA"
-     * - A URI template for metadata: "https://creatures-api.opensea.io/api/accessory/{id}"
+oken collection: I template for metadata: "https://creatures-api.opensea.io/api/accessory/{id}"
      */
     constructor(address _proxyRegistryAddress)
         ERC1155Tradable(
