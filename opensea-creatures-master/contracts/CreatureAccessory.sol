@@ -1,6 +1,5 @@
 
-// Importing the ERC1155Tradable 155Tradable.sol";
-
+// 
 /**
  * @title CreatureAccessory
  * @dev This contract represents Creature Accessory tokens, which are semi-fungible ERC1155 tokens.
