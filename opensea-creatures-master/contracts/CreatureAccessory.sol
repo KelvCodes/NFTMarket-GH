@@ -1,4 +1,4 @@
-isdata URI
+i
             _proxyRegistryAddress                 // OpenSea Proxy Registry Address
         )
     {
