@@ -1,5 +1,4 @@
-i
-        // Constructor body can be left empty as all initialization is handled in ERC1155Tradable
+structor body can be left empty as all initialization is handled in ERC1155Tradable
     }
 
     /**
