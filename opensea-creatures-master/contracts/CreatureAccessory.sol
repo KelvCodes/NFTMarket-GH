@@ -1,4 +1,4 @@
-sbe left empty as all initialization is handled in ERC1155Tradable
+sbe lety as all initialization is handled in ERC1155Tradable
     }
 
     /**
