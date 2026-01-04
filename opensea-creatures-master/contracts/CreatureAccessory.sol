@@ -1,6 +1,5 @@
 
-     * @notice Returns metadata about this contract for OpenSea
-     * @dev The returned JSON metadata URL should contain information such as description, image, and external link
+     * @notice Returns metadata eturned JSON metadata URL should contain information such as description, image, and external link
      * @return A string containing the URI to the contract-level metadata
      */
     function contractURI() public pure returns (string memory) {
