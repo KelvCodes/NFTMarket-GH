@@ -1,4 +1,4 @@
- the OpenSea proxy registry to allow gas-less listings
+stry to allow gas-less listings
  
      * The constructor calls the parent ERC1155Tradable constructor with:
      * - A descriptive name for the token collection: "OpenSea Creature Accessory"
