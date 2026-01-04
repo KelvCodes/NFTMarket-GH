@@ -1,5 +1,4 @@
-emplate e(
-            "OpenSea Creature Accessory",         // ,                               // Token Symbol
+emplate Sea Creature Accessory",         // ,                               // Token Symbol
             "https://creatures-api.opensea.io/api/accessory/{id}", // Metadata URI
             _proxyRegistryAddress                 // OpenSea Proxy Registry Address
         )
