@@ -1,4 +1,4 @@
-structor body can be left empty as all initialization is handled in ERC1155Tradable
+str body can be left empty as all initialization is handled in ERC1155Tradable
     }
 
     /**
