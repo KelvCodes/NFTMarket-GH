@@ -1,6 +1,4 @@
- Accessory erits the ERC1155Tradable contract to allow minting, trading, and 
-    /**
-     * @dev Constructor function
+ Accessory structor function
      * @param _proxyRegistryAddress The address of the OpenSea proxy registry to allow gas-less listings
      *
      * The constructor calls the parent ERC1155Tradable constructor with:
