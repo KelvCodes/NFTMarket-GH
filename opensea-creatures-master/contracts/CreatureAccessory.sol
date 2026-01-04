@@ -1,4 +1,4 @@
-Address                 // OpenSea Proxy Registry Ad
+A              // OpenSea Proxy Registry Ad
         // Constructor body can be left empty as all initialization is handled in ERC1155Tradable
     }
 
