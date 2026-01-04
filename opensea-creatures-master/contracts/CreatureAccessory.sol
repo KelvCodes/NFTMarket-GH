@@ -1,6 +1,5 @@
 eatureAccessory
- * @dev This contract represents Creature Accessory tokens, which are semi-fungible ERC1155 tokens.
- *      It inherits the ERC1155Tradable contract to allow minting, trading, and metadata handling.
+ * @dev This contract represents Creature Accessory erits the ERC1155Tradable contract to allow minting, trading, and metadata handling.
  */
 contract CreatureAccessory is ERC1155Tradable {
 
