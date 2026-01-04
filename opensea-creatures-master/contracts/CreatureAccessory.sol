@@ -1,5 +1,4 @@
-roxyRegistryAddress                 // OpenSea Proxy Registry Address
-        )
+roxyRegistryAddress                 // OpenSea Proxy Registry Addr)
     {
         // Constructor body can be left empty as all initialization is handled in ERC1155Tradable
     }
