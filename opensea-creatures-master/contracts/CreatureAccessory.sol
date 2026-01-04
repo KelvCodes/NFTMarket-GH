@@ -1,4 +1,4 @@
-iton is handled in ERC1155Tradab
+ihandled in ERC1155Tradab
 
     /**
      * @notice Returns metadata about this contract for OpenSea
