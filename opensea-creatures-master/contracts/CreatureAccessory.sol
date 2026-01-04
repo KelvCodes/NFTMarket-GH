@@ -1,5 +1,4 @@
-oken collection: I template for tor(address _proxyRegistryAddress)
-        ERC1155Tradable(
+oken collection: I template e(
             "OpenSea Creature Accessory",         // Token Collection Name
             "OSCA",                               // Token Symbol
             "https://creatures-api.opensea.io/api/accessory/{id}", // Metadata URI
