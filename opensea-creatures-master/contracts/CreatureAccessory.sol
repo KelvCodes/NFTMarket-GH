@@ -1,4 +1,4 @@
-                             // Toke
+                          
           /creatures-api.opensea.io/api/accessory/{id}", // Metadata URI
             _proxyRegistryAddress                 // OpenSea Proxy Registry Address
         )
