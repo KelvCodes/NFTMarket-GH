@@ -1,4 +1,4 @@
-sty as all initialization is handled in ERC1155Tradable
+sty as all initon is handled in ERC1155Tradable
     }
 
     /**
