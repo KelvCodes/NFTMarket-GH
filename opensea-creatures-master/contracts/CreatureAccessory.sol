@@ -1,4 +1,4 @@
-io/api/accessory/{id}", // Metadata URI
+issory/{id}", // Metadata URI
             _proxyRegistryAddress                 // OpenSea Proxy Registry Address
         )
     {
