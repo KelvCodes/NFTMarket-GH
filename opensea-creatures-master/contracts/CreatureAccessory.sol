@@ -1,6 +1,5 @@
 
-// Importing the ERC1155Tradable contract to inherit its functionality.
-import "./ERC1155Tradable.sol";
+// Importing the ERC1155Tradable 155Tradable.sol";
 
 /**
  * @title CreatureAccessory
