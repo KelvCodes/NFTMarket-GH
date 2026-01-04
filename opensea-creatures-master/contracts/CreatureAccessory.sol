@@ -1,4 +1,4 @@
-stry to allow gas-less listings
+ss listings
  
      * The constructor calls the parent ERC1155Tradable constructor with:
      * - A descriptive name for the token collection: "OpenSea Creature Accessory"
