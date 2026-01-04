@@ -1,5 +1,4 @@
-rent ERC1155Tradable constructor with:
-     * e for the token collection: or the token collection: "OSCA"
+oken collection: or the token collection: "OSCA"
      * - A URI template for metadata: "https://creatures-api.opensea.io/api/accessory/{id}"
      */
     constructor(address _proxyRegistryAddress)
