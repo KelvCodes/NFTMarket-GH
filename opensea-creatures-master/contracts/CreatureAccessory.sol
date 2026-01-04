@@ -1,4 +1,4 @@
-ihann ERC1155Tradab
+ihRC1155Tradab
 
     /**
      * @notice Returns metadata about this contract for OpenSea
