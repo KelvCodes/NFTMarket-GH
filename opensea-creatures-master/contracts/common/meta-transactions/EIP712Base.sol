@@ -1,5 +1,4 @@
-_DOMAIN_TYPEHASH = keccak256(
-        bytes(
+_DOMAIN(
             "EIP712Domain(string name,string version,address verifyingContract,bytes32 salt)"
         )
     );
