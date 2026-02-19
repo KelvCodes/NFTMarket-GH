@@ -1,5 +1,5 @@
 constructor
-    function _initial
+    functinitial
         string memory name
     )
         internal
