@@ -1,4 +1,3 @@
-^0.8.0;
 
 import {Initializable} from "./Initializable.sol";
 
