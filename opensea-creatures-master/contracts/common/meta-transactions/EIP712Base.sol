@@ -1,6 +1,4 @@
 
-        bytes32 salt;
-    }
 
     string constant public ERC712_VERSION = "1";
 
