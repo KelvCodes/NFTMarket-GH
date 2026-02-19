@@ -1,5 +1,4 @@
 
-                bytes32(getChainId())
             )
         );
     }
