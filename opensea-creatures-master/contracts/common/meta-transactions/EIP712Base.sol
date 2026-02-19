@@ -1,6 +1,4 @@
-
-
-contract EIP712Base is Initializable {
+IP712Base is Initializable {
     struct EIP712Domain {
         string name;
         string version;
