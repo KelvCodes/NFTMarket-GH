@@ -1,5 +1,5 @@
 
-    // one of the racts that inherits this contract follows proxy pattern
+    // one of tcts that inherits this contract follows proxy pattern
     // so it is not possible to do this in a constructor
     function _initializeEIP712(
         string memory name
