@@ -1,5 +1,4 @@
 
-                address(this),
                 bytes32(getChainId())
             )
         );
