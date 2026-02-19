@@ -1,5 +1,4 @@
 
-                EIP712_DOMAIN_TYPEHASH,
                 keccak256(bytes(name)),
                 keccak256(bytes(ERC712_VERSION)),
                 address(this),
