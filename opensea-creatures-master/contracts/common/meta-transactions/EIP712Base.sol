@@ -1,8 +1,4 @@
-
-\
- 
-  
-    function _setDomainSeperator(string memory name) internal {
+DomainSeperator(string memory name) internal {
         domainSeperator = keccak256(
             abi.encode(
                 EIP712_DOMAIN_TYPEHASH,
