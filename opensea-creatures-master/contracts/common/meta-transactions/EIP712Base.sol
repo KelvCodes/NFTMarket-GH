@@ -1,4 +1,4 @@
-it is not possible to do this in a constructor
+itossible to do this in a constructor
     function _initial
         string memory name
     )
