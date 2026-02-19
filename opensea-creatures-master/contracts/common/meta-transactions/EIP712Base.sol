@@ -1,5 +1,4 @@
-Contrac
-    bytes32 internal domainSeperator;
+C32 internal domainSeperator;
 
     // supposed to be called once while initializing.
     // one of the contracts that inherits this contract follows proxy pattern
