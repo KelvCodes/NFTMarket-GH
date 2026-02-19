@@ -1,5 +1,4 @@
 
-                keccak256(bytes(ERC712_VERSION)),
                 address(this),
                 bytes32(getChainId())
             )
