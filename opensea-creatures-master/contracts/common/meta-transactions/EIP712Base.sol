@@ -1,4 +1,4 @@
-omain(string name,string version,address verifyingContract,bytes32 salt)"
+(string name,string version,address verifyingContract,bytes32 salt)"
         )
     );
     bytes32 internal domainSeperator;
