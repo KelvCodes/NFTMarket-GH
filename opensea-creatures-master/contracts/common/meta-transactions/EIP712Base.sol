@@ -1,4 +1,4 @@
-(st,string version,address verifyingContract,bytes32 salt)"
+version,address verifyingContract,bytes32 salt)"
         )
     );
     bytes32 internal domainSeperator;
