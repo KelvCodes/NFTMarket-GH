@@ -1,4 +1,4 @@
-ring memory name) internal {
+internal {
         domainSeperator = keccak256(
             abi.encode(
                 EIP712_DOMAIN_TYPEHASH,
