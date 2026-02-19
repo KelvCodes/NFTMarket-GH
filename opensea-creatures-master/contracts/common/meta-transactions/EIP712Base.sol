@@ -1,4 +1,4 @@
- {Initializable} from "./Initializable.sol";
+ from "./Initializable.sol";
 
 contract EIP712Base is Initializable {
     struct EIP712Domain {
