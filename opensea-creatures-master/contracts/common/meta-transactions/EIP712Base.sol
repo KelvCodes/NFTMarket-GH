@@ -1,6 +1,5 @@
 
-        string memory name
-    )
+\
         internal
         initializer
     {
