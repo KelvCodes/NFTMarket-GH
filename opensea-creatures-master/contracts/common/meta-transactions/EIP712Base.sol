@@ -1,9 +1,7 @@
 
 \
  
-        _setDomainSeperator(name);
-    }
-
+  
     function _setDomainSeperator(string memory name) internal {
         domainSeperator = keccak256(
             abi.encode(
