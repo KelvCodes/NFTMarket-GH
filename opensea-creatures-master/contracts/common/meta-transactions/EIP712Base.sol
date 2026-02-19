@@ -1,4 +1,4 @@
- public ERC712_VERSION = "1";
+712_VERSION = "1";
 
     bytes32 internal constant EIP712_DOMAIN_TYPEHASH = keccak256(
         bytes(
