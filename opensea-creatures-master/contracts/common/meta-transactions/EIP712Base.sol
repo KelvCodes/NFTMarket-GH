@@ -1,4 +1,4 @@
-s ows proxy pattern
+xy pattern
     // so it is not possible to do this in a constructor
     function _initializeEIP712(
         string memory name
