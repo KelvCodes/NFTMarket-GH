@@ -1,5 +1,4 @@
 
-        address verifyingContract;
         bytes32 salt;
     }
 
