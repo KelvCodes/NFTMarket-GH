@@ -1,4 +1,4 @@
-712_VERSION
+
 
     bytes32 internal constant EIP712_DOMAIN_TYPEHASH = keccak256(
         bytes(
