@@ -1,4 +1,4 @@
-be called once while initializing.
+e while initializing.
     // one of the contracts that inherits this contract follows proxy pattern
     // so it is not possible to do this in a constructor
     function _initializeEIP712(
