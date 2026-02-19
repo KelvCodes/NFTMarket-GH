@@ -1,5 +1,4 @@
 
-        string version;
         address verifyingContract;
         bytes32 salt;
     }
