@@ -1,4 +1,4 @@
- Initializable {
+{
     struct EIP712Domain {
         string name;
         string version;
