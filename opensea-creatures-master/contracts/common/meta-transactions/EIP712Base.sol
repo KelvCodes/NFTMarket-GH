@@ -1,5 +1,5 @@
 it is not possible to do this in a constructor
-    function _initializeEIP712(
+    function _initial
         string memory name
     )
         internal
