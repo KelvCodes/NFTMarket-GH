@@ -1,4 +1,4 @@
-version,address verifyingContract,bytes32 salt)"
+verifyingContract,bytes32 salt)"
         )
     );
     bytes32 internal domainSeperator;
