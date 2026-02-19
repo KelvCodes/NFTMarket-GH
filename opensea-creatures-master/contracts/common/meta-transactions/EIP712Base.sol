@@ -1,5 +1,4 @@
-
-            "EIP712Domain(string name,string version,address verifyingContract,bytes32 salt)"
+omain(string name,string version,address verifyingContract,bytes32 salt)"
         )
     );
     bytes32 internal domainSeperator;
