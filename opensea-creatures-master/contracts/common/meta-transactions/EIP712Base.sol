@@ -1,6 +1,4 @@
-
-
-    string constant public ERC712_VERSION = "1";
+tant public ERC712_VERSION = "1";
 
     bytes32 internal constant EIP712_DOMAIN_TYPEHASH = keccak256(
         bytes(
