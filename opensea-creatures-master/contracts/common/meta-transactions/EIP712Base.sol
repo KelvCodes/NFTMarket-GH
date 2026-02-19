@@ -1,5 +1,4 @@
-constructor
-    functinitial
+
         string memory name
     )
         internal
