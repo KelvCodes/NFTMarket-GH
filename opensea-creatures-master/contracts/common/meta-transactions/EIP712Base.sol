@@ -1,6 +1,4 @@
-internal {
-        domainSeperator = keccak256(
-            abi.encode(
+internai.encode(
                 EIP712_DOMAIN_TYPEHASH,
                 keccak256(bytes(name)),
                 keccak256(bytes(ERC712_VERSION)),
