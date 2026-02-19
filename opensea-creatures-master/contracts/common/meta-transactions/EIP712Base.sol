@@ -1,4 +1,4 @@
-nal domainSeperator;
+inSeperator;
 
     // supposed to be called once while initializing.
     // one of the contracts that inherits this contract follows proxy pattern
