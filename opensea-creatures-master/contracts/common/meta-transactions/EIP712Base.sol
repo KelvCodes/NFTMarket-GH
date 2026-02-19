@@ -1,6 +1,4 @@
-Contract,bytes32 salt)"
-        )
-    );
+Contrac
     bytes32 internal domainSeperator;
 
     // supposed to be called once while initializing.
