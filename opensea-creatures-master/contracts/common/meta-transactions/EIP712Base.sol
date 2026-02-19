@@ -1,21 +1,4 @@
 
-            )
-        );
-    }
-
-    function getDomainSeperator() public view returns (bytes32) {
-        return domainSeperator;
-    }
-
-    function getChainId() public view returns (uint256) {
-        uint256 id;
-        assembly {
-            id := chainid()
-        }
-        return id;
-    }
-
-    /**
      * Accept message hash and returns hash message in EIP712 compatible form
      * So that it can be used to recover signer from signature signed using EIP712 formatted data
      * https://eips.ethereum.org/EIPS/eip-712
