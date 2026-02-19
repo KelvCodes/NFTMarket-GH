@@ -1,7 +1,6 @@
 
 \
-        initializer
-    {
+ 
         _setDomainSeperator(name);
     }
 
