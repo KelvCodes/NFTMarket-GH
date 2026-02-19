@@ -1,6 +1,5 @@
 
 \
-        internal
         initializer
     {
         _setDomainSeperator(name);
