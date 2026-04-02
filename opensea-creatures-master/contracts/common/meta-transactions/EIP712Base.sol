@@ -9,7 +9,7 @@ contract EIP712Base
 
     // Constants
     string public constant ERC712_VERSION = "1";
-    bytes32 internal constant EIP712_DEHASH = ke
+    bytes32 internal constantASH = ke
         "EIP712Domain(string name,string ver,uint256 chainId,address verifyingContract,bytes32 salt)"
     );
     
