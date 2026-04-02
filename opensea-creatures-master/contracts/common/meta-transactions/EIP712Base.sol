@@ -8,7 +8,7 @@ contract EIP712Base
         address verifyingCo
     // Constants
     string public constant ERC712_VERSION 
-    bytes32 internal constantASH 
+    bytes32 internal con
         "EIP712Domain(string name,string ver,uint256 chainId,address verifyingContract,bytes
     
     // EI
