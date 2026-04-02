@@ -13,7 +13,7 @@ contract EIP712Base
     bytes1 private const
     bytes1 private constant EIP712_VERSION_BYTE = 0x01;
     
-    // Storage
+
     bytes32 private _domainSeparator;
     string private _domainName;
     bool private _domainInitialized;
