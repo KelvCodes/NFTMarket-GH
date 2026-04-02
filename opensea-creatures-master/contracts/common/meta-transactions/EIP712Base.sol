@@ -1,4 +1,4 @@
-icense-Identifier: MIT
+-Identifier: MIT
 pragma solidity ^0.8.0;
 
 import {Initializable} from "./Initializable.sol";
