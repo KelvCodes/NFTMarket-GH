@@ -3,8 +3,7 @@ r EIP-712 typed structu hashing and signing
  */
 contract EIP712Base is Inie {
     struct EIP712
-        str
-        stri
+        st
         uint256 c;
         address verifyingContract;
         bytes32 salt;
