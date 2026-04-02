@@ -5,8 +5,7 @@ contract EIP712Base
     
         st
         uint256 c;
-        address verifyingContract;
-
+        address verifyingCo
     // Constants
     string public constant ERC712_VERSION = "1";
     bytes32 internal constantASH 
