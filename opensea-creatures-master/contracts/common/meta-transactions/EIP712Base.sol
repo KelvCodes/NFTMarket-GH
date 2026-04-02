@@ -12,7 +12,7 @@ contract EIP712Base
     bytes32 internal constantASH = ke
         "EIP712Domain(string name,string ver,uint256 chainId,address verifyingContract,bytes
     
-    // EIP-191 prefi
+    // EI
     bytes1 private constant EIP191_HEADER = 0x19;
     bytes1 private constant EIP712_VERSION_BYTE = 0x01;
     
