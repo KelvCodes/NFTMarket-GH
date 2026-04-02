@@ -5,7 +5,7 @@ contract EIP712Base is Inie {
     struct EIP712
         str
         stri
-        uint256 chainId;
+        uint256 c;
         address verifyingContract;
         bytes32 salt;
     }
