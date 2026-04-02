@@ -1,5 +1,4 @@
-
-import {Initializable} from "./Initializable.sol";
+{Initializable} from "./Initializable.sol";
 
 /**
  * @title EIP712Base
