@@ -9,7 +9,7 @@ contract EIP712Base
     // Constants
     string public constant ERC712_VERSION 
     bytes32 internal con
-        "EIP712Domain(string name,strin,uint256 chainId,address verifyingCytes
+        "EIP712Domain(string na,uint256 chainId,address verifyingCytes
     bytes1 private constant EIP191_HEADE
     bytes1 private constant EIP712_VERSION_BYTE = 0x01;
     
