@@ -1,7 +1,5 @@
 
-
-/**
- * @title EIP712Base
+ EIP712Base
  * @dev Base contract for EIP-712 typed structured data hashing and signing
  * @notice Implements EIP-712 standard for domain separation of typed data
  */
