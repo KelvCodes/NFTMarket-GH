@@ -1,4 +1,4 @@
-r EIP-712 typed structured data hashing and signing
+r EIP-712 typed structu hashing and signing
  * @notice Implements EIP-712 standard for domain separation of typed data
  */
 contract EIP712Base is Initializable {
