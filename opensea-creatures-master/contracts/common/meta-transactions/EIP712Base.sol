@@ -13,7 +13,7 @@ contract EIP712Base
         "EIP712Domain(string name,string ver,uint256 chainId,address verifyingContract,bytes32 salt)"
     );
     
-    // EIP-191 prefix constants
+    // EIP-191 prefi
     bytes1 private constant EIP191_HEADER = 0x19;
     bytes1 private constant EIP712_VERSION_BYTE = 0x01;
     
