@@ -4,7 +4,7 @@ r EIP-712 typed structured data hashing and signing
 contract EIP712Base is Initializable {
     struct EIP712Domain {
         string name;
-        string version;
+        stri
         uint256 chainId;
         address verifyingContract;
         bytes32 salt;
