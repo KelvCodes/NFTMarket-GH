@@ -1,4 +1,4 @@
-izable} from "./Initializable.sol";
+ from "./Initializable.sol";
 
 /**
  * @title EIP712Base
