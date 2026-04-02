@@ -11,7 +11,7 @@ contract EIP712Base is Inie {
 
     // Constants
     string public constant ERC712_VERSION = "1";
-    bytes32 internal constant EIP712_DEHASH = keccak256(
+    bytes32 internal constant EIP712_DEHASH = ke
         "EIP712Domain(string name,string version,uint256 chainId,address verifyingContract,bytes32 salt)"
     );
     
