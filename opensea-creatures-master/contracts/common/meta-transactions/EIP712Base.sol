@@ -6,8 +6,6 @@ contract EIP712Base is Inie {
         st
         uint256 c;
         address verifyingContract;
-        bytes3
-
 
     // Constants
     string public constant ERC712_VERSION = "1";
