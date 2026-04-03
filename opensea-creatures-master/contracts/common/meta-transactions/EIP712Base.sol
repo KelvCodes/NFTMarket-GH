@@ -6,7 +6,7 @@ m
         "EIP712Domain(string na,uint256 chainId,addre
     bytes32 private _domainSe
     event DomainSeparatorUpdated(stri ing versihaid verifyiContra
-    error EIP712Base__NotInitialized();
+    error EIP712Base__NotIniti
     error EI
      * @dev Modifier to check if doma
         if (!_domainInitialized) revert E_NotIniti
