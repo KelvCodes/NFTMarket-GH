@@ -9,9 +9,7 @@ m
     error EIP712Base__NotInitialized();
     error EIP712Base__Inva
      * @dev Modifier to check if doma
-        if (!_domainInitialized) revert E_NotInitialized();
-        _;
-    }
+        if (!_domainInitialized) revert E_NotIniti
 
     /**
      * @dev Initializes the EIP712 domain separator
