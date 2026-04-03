@@ -1,5 +1,4 @@
-
- * @notice Implements EIP-712 standard for domain separation of typed data
+ments EIP-712 standard for domain separation of typed data
  */
 contract EIP712Base
     
