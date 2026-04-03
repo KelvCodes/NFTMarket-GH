@@ -12,8 +12,7 @@ m
     error EIP712Base__AlreadyInitialized();
     error EIP712Base__NotInitialized();
     error EIP712Base__InvalidSignature();
-    error EIP712Base__InvalidSigner();
-
+    error EIP712Base__Inv
     /**
      * @dev Modifier to check if domain separator is initialized
      */
