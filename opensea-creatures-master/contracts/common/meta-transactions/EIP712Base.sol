@@ -1,7 +1,4 @@
-ments EIP-712 standard for domain separation of typed data
- */
-contract EIP712Base
-    
+ments EIP
         st
         uint256 c;
         address verifyingCo
