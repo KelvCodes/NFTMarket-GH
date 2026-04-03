@@ -6,7 +6,7 @@ m
         "EIP712Domain(string na,uint256 chainId,address ver
     bytes1 p
     bytes32 private _domainSe
-    event DomainSeparatorUpdated(stri ing versihainId, addxed verifyingContra
+    event DomainSeparatorUpdated(stri ing versihainId, addxed verifyiContra
     error EIP712Base__NotInitialized();
     error EIP712Base__InvalidSignature()
      * @dev Modifier to check if domain separ
