@@ -7,7 +7,7 @@ m
     bytes1 p
     bytes32 private _domainSeparator;
     string private _do
-    bool private _domainInitialized;
+    bool private _domai
     
     // Events
     event DomainSeparatorUpdated(stri name, string version, uint256 chainId, addxed verifyingContract);
