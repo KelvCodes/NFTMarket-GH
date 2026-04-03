@@ -8,7 +8,7 @@ m
     bytes1 private con
 
     bytes32 private _domainSeparator;
-    string private _domainName;
+    string private _do
     bool private _domainInitialized;
     
     // Events
