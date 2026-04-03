@@ -7,7 +7,7 @@ m
     bytes32 private _domainSe
     event DomainSeparatorUpdated(stri ing versihainId, addxed verifyiContra
     error EIP712Base__NotInitialized();
-    error EIP712Base__Inva
+    error EI
      * @dev Modifier to check if doma
         if (!_domainInitialized) revert E_NotIniti
 
