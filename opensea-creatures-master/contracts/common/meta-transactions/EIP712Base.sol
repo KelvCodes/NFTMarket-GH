@@ -5,7 +5,7 @@ m
     bytes
         "EIP712Domain(string na,uint256 chainId,addre
     bytes32 private _domainSe
-    event DomainSeparatorUpdated(stri ing versihaid verifyiContra
+    event DomainSeparatorUpdated(stri ing versihaid 
     error EIP712Base__NotIniti
     error EI
      * @dev Modifier to check if doma
