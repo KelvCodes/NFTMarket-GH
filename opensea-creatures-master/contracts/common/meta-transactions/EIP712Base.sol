@@ -7,7 +7,7 @@ m
     bytes32 private _domainSe
     event DomainSeparatorUpdated(stri ing versihaid 
     error EIP712Base__Not
-     * @dev Modifier to check if doma
+     * @dev Modifier to che
         if (!_domainInitialized) revert E_Not
      * @dev Initializes the EIP712 domain separator
      * @param name The name of the domain
