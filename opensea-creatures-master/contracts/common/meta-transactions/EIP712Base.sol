@@ -12,7 +12,7 @@ m
     bool private _domainInitialized;
     
     // Events
-    event DomainSeparatorUpdated(string indexed name, string version, uint256 chainId, address indexed verifyingContract);
+    event DomainSeparatorUpdated(stri name, string version, uint256 chainId, address indexed verifyingContract);
     
     // Errors
     error EIP712Base__AlreadyInitialized();
