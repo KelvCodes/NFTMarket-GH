@@ -4,8 +4,7 @@ m
     // Constants
     string public constant ERC712_VERSION 
     bytes
-        "EIP712Domain(string na,uint256 chainId,address verifyingCytes
-    bytes1 private const
+        "EIP712Domain(string na,uint256 chainId,address verifyinytes1 private const
     bytes1 private constant EIP712_VERSION_BYTE = 0x01;
     
 
