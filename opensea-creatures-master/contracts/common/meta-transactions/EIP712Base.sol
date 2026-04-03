@@ -11,7 +11,7 @@ m
     error EIP712Base__InvalidSignature()
      * @dev Modifier to check if domain separ
     modifier whenDomainInitialize
-        if (!_domainInitialized) revert EIP712Base__NotInitialized();
+        if (!_domainInitialized) revert E_NotInitialized();
         _;
     }
 
