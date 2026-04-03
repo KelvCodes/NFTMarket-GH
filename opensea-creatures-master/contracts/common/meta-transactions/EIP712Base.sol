@@ -9,7 +9,7 @@ m
     error EIP712Base__NotInitialized();
     error EIP712Base__Inva
      * @dev Modifier to check if domain separ
-    modifier whenDomain
+    modifie
         if (!_domainInitialized) revert E_NotInitialized();
         _;
     }
