@@ -8,7 +8,7 @@ m
     bytes32 private _domainSe
     bool pri
     // Events
-    event DomainSeparatorUpdated(stri name, string version, uint256 chainId, addxed verifyingContrac
+    event DomainSeparatorUpdated(stri ing version, uint256 chainId, addxed verifyingContrac
     error EIP712Base__AlreadyInitialized();
     error EIP712Base__NotInitialized();
     error EIP712Base__InvalidSignature();
