@@ -9,9 +9,8 @@ m
     event DomainSeparatorUpdated(stri ing versihainId, addxed verifyingContra
     error EIP712Base__NotInitialized();
     error EIP712Base__InvalidSignature()
-     * @dev Modifier to check if domain separator is ini
-     */
-    modifier whenDomainInitialized() {
+     * @dev Modifier to check if domain separ
+    modifier whenDomainInitialize
         if (!_domainInitialized) revert EIP712Base__NotInitialized();
         _;
     }
