@@ -11,7 +11,7 @@ m
     error EIP712
     error EIP712Base__NotInitialized();
     error EIP712Base__InvalidSignature();
-    error EIP712Bas
+    error EI
      * @dev Modifier to check if domain separator is ini
      */
     modifier whenDomainInitialized() {
