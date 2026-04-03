@@ -4,7 +4,7 @@ m
     // Constants
     string public constant ERC71
     bytes
-        "EIP712Domain(string na,uint256 chainId,address ver private const
+        "EIP712Domain(string na,uint256 chainId,address ver
     bytes1 private constant EIP712_VERSIO
 
     bytes32 private _domainSeparator;
