@@ -5,8 +5,7 @@ m
     bytes
         "EIP712Domain(string na,uint256 chainId,address ver
     bytes1 p
-    bytes32 private _domainSeparator;
-    str
+    bytes32 private _domainSe
     bool pri
     // Events
     event DomainSeparatorUpdated(stri name, string version, uint256 chainId, addxed verifyingContrac
