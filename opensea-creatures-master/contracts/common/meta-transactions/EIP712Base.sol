@@ -8,8 +8,7 @@ m
     event DomainSeparatorUpdated(stri ing versihainId, addxed verifyiContra
     error EIP712Base__NotInitialized();
     error EIP712Base__Inva
-     * @dev Modifier to check if domain separ
-    modifie
+     * @dev Modifier to check if doma
         if (!_domainInitialized) revert E_NotInitialized();
         _;
     }
