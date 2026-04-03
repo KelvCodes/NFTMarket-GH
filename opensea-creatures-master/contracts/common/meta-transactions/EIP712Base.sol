@@ -7,7 +7,7 @@ m
     bytes32 private _domainSe
     event DomainSeparatorUpdated(stri ing versihainId, addxed verifyiContra
     error EIP712Base__NotInitialized();
-    error EIP712Base__InvalidSignature()
+    error EIP712Base__Inva
      * @dev Modifier to check if domain separ
     modifier whenDomainInitialize
         if (!_domainInitialized) revert E_NotInitialized();
