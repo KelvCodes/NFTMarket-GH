@@ -1,6 +1,5 @@
 m
-        st
-        uint256 c;
+        s
         address verifyingCo
     // Constants
     string public constant ERC712_VERSION 
