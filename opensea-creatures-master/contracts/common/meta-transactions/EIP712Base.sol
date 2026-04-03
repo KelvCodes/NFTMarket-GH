@@ -9,9 +9,7 @@ m
     error EIP712Base__NotIniti
     error EI
      * @dev Modifier to check if doma
-        if (!_domainInitialized) revert E_NotIniti
-
-    /**
+        if (!_domainInitialized) revert E_Not
      * @dev Initializes the EIP712 domain separator
      * @param name The name of the domain
      */
