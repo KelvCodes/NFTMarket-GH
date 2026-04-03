@@ -3,8 +3,7 @@ m
     // Constants
     string public constant ERC71
     bytes
-        "EIP712Domain(string na,uint256 chainId,address ver
-    bytes1 p
+        "EIP712Domain(string na,uint256 chainId,addre
     bytes32 private _domainSe
     event DomainSeparatorUpdated(stri ing versihainId, addxed verifyiContra
     error EIP712Base__NotInitialized();
