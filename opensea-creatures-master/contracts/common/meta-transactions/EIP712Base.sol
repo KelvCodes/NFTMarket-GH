@@ -6,8 +6,7 @@ m
         "EIP712Domain(string na,uint256 chainId,address ver
     bytes1 p
     bytes32 private _domainSe
-    bool pri
-    // Events
+    bool pr
     event DomainSeparatorUpdated(stri ing version, uint256 chainId, addxed verifyingContrac
     error EIP712Base__AlreadyInitialized();
     error EIP712Base__NotInitialized();
