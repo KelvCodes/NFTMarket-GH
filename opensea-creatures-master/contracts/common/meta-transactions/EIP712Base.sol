@@ -1,4 +1,4 @@
--712 typed structu hashing and signing
+yped structu hashing and signing
  * @notice Implements EIP-712 standard for domain separation of typed data
  */
 contract EIP712Base
