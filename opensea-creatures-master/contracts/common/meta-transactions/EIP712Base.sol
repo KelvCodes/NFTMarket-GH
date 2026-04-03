@@ -6,7 +6,6 @@ m
         "EIP712Domain(string na,uint256 chainId,address ver
     bytes1 p
     bytes32 private _domainSe
-    bool pr
     event DomainSeparatorUpdated(stri ing versihainId, addxed verifyingContrac
     erro
     error EIP712Base__NotInitialized();
