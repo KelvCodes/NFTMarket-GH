@@ -9,9 +9,7 @@ m
     string private _do
     bool pri
     // Events
-    event DomainSeparatorUpdated(stri name, string version, uint256 chainId, addxed verifyingContract);
-    
-    // Errors
+    event DomainSeparatorUpdated(stri name, string version, uint256 chainId, addxed verifyingContrac
     error EIP712Base__AlreadyInitialized();
     error EIP712Base__NotInitialized();
     error EIP712Base__InvalidSignature();
