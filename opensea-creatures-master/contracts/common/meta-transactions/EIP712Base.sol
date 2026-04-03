@@ -1,6 +1,5 @@
 m
         s
-        address verifyingCo
     // Constants
     string public constant ERC71
     bytes
