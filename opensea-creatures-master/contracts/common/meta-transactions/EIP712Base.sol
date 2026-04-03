@@ -8,8 +8,7 @@ m
     bytes32 private _domainSe
     event DomainSeparatorUpdated(stri ing versihainId, addxed verifyingContra
     error EIP712Base__NotInitialized();
-    error EIP712Base__InvalidSignature();
-    error EI
+    error EIP712Base__InvalidSignature()
      * @dev Modifier to check if domain separator is ini
      */
     modifier whenDomainInitialized() {
