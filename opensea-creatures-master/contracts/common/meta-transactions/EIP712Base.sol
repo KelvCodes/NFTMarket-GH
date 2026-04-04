@@ -9,7 +9,7 @@
         _setDomainSeparatorWithVe
      * @dev Sets the domain separator with c
      * @param name The name of
-     * @param version The versi
+     * @param version Th
      */
     function _setDomainSeparatorWithVersion(string memory name, string memory version) internal {
         if (_domainInitialized) revert EIP712Base__AlreadyIni
