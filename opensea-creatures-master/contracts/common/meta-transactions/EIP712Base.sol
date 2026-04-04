@@ -8,8 +8,7 @@
      * @param name The name 
      */
     function _initializeEIP712(string memory name)ternal in
-        _setDomainSeps
-
+        _setD
 
     /**
      * @dev Initializes the EIP712 domath custom version
