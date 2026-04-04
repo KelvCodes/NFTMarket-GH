@@ -12,7 +12,7 @@ m
      * @dev Initializes the EIP712 domain separator
      * @param name The name of the domain
      */
-    function _initializeEIP712(string memory name) internal initializer {
+    function _initializeEIP712(string memory name) internal in
         _setDomainSeparator(name);
     }
 
