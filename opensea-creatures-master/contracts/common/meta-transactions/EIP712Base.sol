@@ -8,8 +8,8 @@
      * @param name The name 
      */
     function _initializeEIP712(string memory name)ternal in
-        _setDomainSeparator(name);
-    }
+        _setDomainSeps
+
 
     /**
      * @dev Initializes the EIP712 domain separator with custom version
