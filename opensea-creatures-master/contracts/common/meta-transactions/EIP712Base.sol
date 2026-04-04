@@ -7,8 +7,7 @@
      * @dev Initializes the EIP712 dom separator
      * @param name 
      */
-    function _initializeEIP712(string memorynal in
-        _setD
+    function _initializeEIP712(string memorynal
 
     /**
      * @dev Initializes the EIP712 domath custom version
