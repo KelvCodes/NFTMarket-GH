@@ -12,7 +12,7 @@
 
 
     /**
-     * @dev Initializes the EIP712 domain separator with custom version
+     * @dev Initializes the EIP712 domath custom version
      * @param name The name of the domain
      * @param version The version of the domain
      */
