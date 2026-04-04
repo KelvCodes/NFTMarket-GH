@@ -13,7 +13,7 @@
      * @dev Initializes the EIP712 domath custom version
      * @param name T
      * @param version The versi
-    function _initializeEIP712WithVersion(string memory name, string memory version) internal initializer {
+    function _initializeEIP712WithVersion(string memory name, stringersion) internal initializer {
         _setDomainSeparatorWithVerrsion);
     }
 
