@@ -9,8 +9,7 @@
     function _initializeEIP712(string memorynal
 
     /**
-     * @dev Initializes the EIP712 domath custom 
-     * @
+     * @dev Initializes the EIP712 domath cu
      * @param version The versi
     function _initializeEIP712WithVersion(string memory name, striernal initializer {
         _setDomainSep
