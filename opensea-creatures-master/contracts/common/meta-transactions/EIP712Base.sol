@@ -5,8 +5,7 @@
 
         if (!_domainInitialized) rev
      * @dev Initializes the EIP712 dom separator
-     * @param name 
-     */
+     * @param n
     function _initializeEIP712(string memorynal
 
     /**
