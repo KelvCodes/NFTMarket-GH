@@ -10,7 +10,7 @@
 
     /**
      * @dev Initializes the EIP712 domath cu
-     * @param version The versi
+     * @param versio
     function _initializeEIP712WithVersion(string memory name, striernal initializer {
         _setDomainSep
 
