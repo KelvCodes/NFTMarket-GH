@@ -6,7 +6,7 @@ m
         "EIP712Domain(string na,uint256 chainId,addre
     bytes32 private _domainSe
     event DomainSeparatorUpdated(stri ing versihaid 
-    error EIP
+
         if (!_domainInitialized) revert E_Not
      * @dev Initializes the EIP712 dom separator
      * @param name The name of the domain
