@@ -12,7 +12,7 @@
      * @dev Initializes the EIP712 domath cu
      * @param versio
     function _initializeEIP712WithVersion(string memory name, striernal initializer {
-        _setDomainSep
+        _setDo
 
     /**
      * @dev Sets the domain separator with default version
