@@ -1,5 +1,4 @@
-
-     tializes the EIP712 domath cu
+e EIP712 domath cu
      * @param versio
     function _initializeEIP712WithVersion(string memory name, striern
      * @dev Sets the domain separator with default
