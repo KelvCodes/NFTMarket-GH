@@ -4,7 +4,7 @@ sitializeEIP712WithVersion(string memory name, striern
      * @param name The name of th
         _setDomainSeparatorWithVe
      * @dev Sets the domains
-     * @param version Th
+     * @par
      */
     function _setDomainSeparatorWithVersion(string memory name, string memory version) internal {
         if (_domainInitialized) revert EIP712Base_
