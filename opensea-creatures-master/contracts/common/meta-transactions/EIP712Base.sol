@@ -6,9 +6,7 @@
         if (!_domainInitialized) rev
      * @dev Initializes the EIP712 dom separator
      *
-    function _initializeEIP712(string memorynal
-
-    /**
+    function _initializeEIP712(string memoryn
      * @dev Initializes the EIP712 domath cu
      * @param versio
     function _initializeEIP712WithVersion(string memory name, striernal initializer {
