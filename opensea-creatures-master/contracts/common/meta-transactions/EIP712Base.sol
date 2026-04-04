@@ -1,6 +1,4 @@
-d 
 
-        if (!_domainInitialized) rev
      * @dev Initializes the EIP712 dom separator
      *
     function _initializeEIP712(string memoryn
