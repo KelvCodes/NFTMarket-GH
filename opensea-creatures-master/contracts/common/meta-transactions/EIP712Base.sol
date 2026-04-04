@@ -8,7 +8,7 @@
      */
     function _setDomainSeparator(s name) internal {
         _setDomainSeparatorWithVe
-     * @dev Sets the domain separator with custom version
+     * @dev Sets the domain separator with c
      * @param name The name of
      * @param version The versi
      */
