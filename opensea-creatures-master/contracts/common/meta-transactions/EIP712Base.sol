@@ -1,5 +1,5 @@
 
-     * @dev Initializes the EIP712 dom separator
+     * @tializes the EIP712 dom separator
      *
     function _initializeEIP712(string memoryn
      * @dev Initializes the EIP712 domath cu
