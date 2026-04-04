@@ -1,5 +1,4 @@
-re
-    bytes32 private _domainSe
+private _domainSe
     event DomainSeparatorUing versihaid 
 
         if (!_domainInitialized) rev
