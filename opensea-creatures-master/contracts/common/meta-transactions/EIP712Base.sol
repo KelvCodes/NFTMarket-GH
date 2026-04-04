@@ -1,5 +1,4 @@
-
-    event DomainSeparatorUing versihaid 
+mainSeparatorUing versihaid 
 
         if (!_domainInitialized) rev
      * @dev Initializes the EIP712 dom separator
