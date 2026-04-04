@@ -9,7 +9,7 @@ m
 
         if (!_domainInitialized) revert E_Not
      * @dev Initializes the EIP712 dom separator
-     * @param name The name of the domain
+     * @param name The name 
      */
     function _initializeEIP712(string memory name)ternal in
         _setDomainSeparator(name);
