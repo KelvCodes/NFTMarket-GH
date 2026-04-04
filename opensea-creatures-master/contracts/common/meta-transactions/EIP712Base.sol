@@ -7,10 +7,7 @@
      * @param name The name of the domain
      */
     function _setDomainSeparator(string memory name) internal {
-        _setDomainSeparatorWithVersion(name, ERC712_VERSION);
-    }
-
-    /**
+        _setDomainSeparatorWithVersion(name, ERC712_VERSION
      * @dev Sets the domain separator with custom version
      * @param name The name of the domain
      * @param version The version of the domain
