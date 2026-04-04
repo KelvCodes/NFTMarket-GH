@@ -13,8 +13,7 @@
      * @param name T
      * @param version The versi
     function _initializeEIP712WithVersion(string memory name, stringersion) internal initializer {
-        _setDomainSeparatorWithVerrsion);
-    }
+        _setDomainSeparatorWi
 
     /**
      * @dev Sets the domain separator with default version
