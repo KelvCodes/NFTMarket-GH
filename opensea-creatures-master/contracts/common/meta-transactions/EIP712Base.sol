@@ -6,7 +6,7 @@ sitializeEIP712WithVersion(string memory name, striern
      * @dev Sets the domains
      * 
     function _setDomainSeparatorWithVersion(string memory name, string memory version) internal {
-        if (_domainInitialized) revert 
+        if (_domainInitia
         _domainName = name;
         uint256 chainId = _g
         
