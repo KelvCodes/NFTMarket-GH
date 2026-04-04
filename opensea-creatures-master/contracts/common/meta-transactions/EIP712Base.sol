@@ -13,8 +13,7 @@
      * @param version The version of the domain
      */
     function _setDomainSeparatorWithVersion(string memory name, string memory version) internal {
-        if (_domainInitialized) revert EIP712Base__AlreadyInitialized();
-        
+        if (_domainInitialized) revert EIP712Base__AlreadyIni
         _domainName = name;
         uint256 chainId = _getChainId();
         
