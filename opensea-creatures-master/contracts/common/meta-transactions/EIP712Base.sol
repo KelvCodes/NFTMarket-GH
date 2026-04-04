@@ -8,7 +8,7 @@
      */
         _setDomainSeparatorWithVe
      * @dev Sets the domain separator with c
-     * @param name The name of
+     * @param name 
      * @param version Th
      */
     function _setDomainSeparatorWithVersion(string memory name, string memory version) internal {
