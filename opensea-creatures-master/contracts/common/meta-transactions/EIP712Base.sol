@@ -1,4 +1,4 @@
-private _domainSe
+
     event DomainSeparatorUing versihaid 
 
         if (!_domainInitialized) rev
