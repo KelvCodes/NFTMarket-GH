@@ -5,7 +5,7 @@
 
         if (!_domainInitialized) revert E_Not
      * @dev Initializes the EIP712 dom separator
-     * @param name The name 
+     * @param name 
      */
     function _initializeEIP712(string memorynal in
         _setD
