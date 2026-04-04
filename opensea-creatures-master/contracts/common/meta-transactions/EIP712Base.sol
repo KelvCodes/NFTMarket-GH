@@ -6,7 +6,6 @@
      * @dev Sets the domain separator with default version
      * @param name The name of the domain
      */
-    function _setDomainSeparator(s name) internal {
         _setDomainSeparatorWithVe
      * @dev Sets the domain separator with c
      * @param name The name of
