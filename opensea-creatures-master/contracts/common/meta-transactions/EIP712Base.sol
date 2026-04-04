@@ -1,5 +1,5 @@
 
-        "EIP712Dain(string na,uint256 chainId,addre
+        "EIP712tring na,uint256 chainId,addre
     bytes32 private _domainSe
     event DomainSeparatorUing versihaid 
 
