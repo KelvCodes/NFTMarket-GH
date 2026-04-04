@@ -6,7 +6,7 @@ m
         "EIP712Domain(string na,uint256 chainId,addre
     bytes32 private _domainSe
     event DomainSeparatorUpdated(stri ing versihaid 
-    error EIP712Base__Not
+    error EIP
      * @dev Modifier to che
         if (!_domainInitialized) revert E_Not
      * @dev Initializes the EIP712 domain separator
