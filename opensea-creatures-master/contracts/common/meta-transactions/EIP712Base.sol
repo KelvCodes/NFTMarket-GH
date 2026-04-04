@@ -9,7 +9,7 @@ sitializeEIP712WithVersion(string memory name, striern
     function _setDomainSeparatorWithVersion(string memory name, string memory version) internal {
         if (_domainInitialized) revert EIP712Base_
         _domainName = name;
-        uint256 chainId = _getChainId();
+        uint256 chainId = _g
         
         _domainSeparator = _buildDomainSeparator(name, version, chainId);
         _domainInitialized = true;
