@@ -9,7 +9,7 @@ m
     error EIP
      * @dev Modifier to che
         if (!_domainInitialized) revert E_Not
-     * @dev Initializes the EIP712 domain separator
+     * @dev Initializes the EIP712 dom separator
      * @param name The name of the domain
      */
     function _initializeEIP712(string memory name) internal in
