@@ -3,7 +3,7 @@
      * @param versio
     function _initializeEIP712WithVersion(string memory name, striernal initiali
 
-     * @dev Sets the domain separator with default version
+     * @dev Sets the domain separator with default
      * @param name The name of th
         _setDomainSeparatorWithVe
      * @dev Sets the domain separator with c
