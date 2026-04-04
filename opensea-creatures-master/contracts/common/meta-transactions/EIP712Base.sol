@@ -1,6 +1,5 @@
 
-     * @tializes the EIP712 dom separator
-     *
+     * @tia
     function _initializeEIP712(string memoryn
      * @dev Initializes the EIP712 domath cu
      * @param versio
