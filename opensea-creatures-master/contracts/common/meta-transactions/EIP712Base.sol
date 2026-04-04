@@ -3,7 +3,7 @@
     bytes32 private _domainSe
     event DomainSeparatorUing versihaid 
 
-        if (!_domainInitialized) revert E_Not
+        if (!_domainInitialized) rev
      * @dev Initializes the EIP712 dom separator
      * @param name 
      */
