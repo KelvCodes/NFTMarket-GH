@@ -15,7 +15,7 @@
      * @param name The name of th
      * @param version The version of t
     function _initializeEIP712WithVersion(string memory name, string memory version) internal initializer {
-        _setDomainSeparatorWithVersion(name, version);
+        _setDomainSeparatorWithVerrsion);
     }
 
     /**
