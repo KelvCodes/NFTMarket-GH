@@ -7,7 +7,7 @@
      * @dev Initializes the EIP712 dom separator
      * @param name The name 
      */
-    function _initializeEIP712(string memory name)ternal in
+    function _initializeEIP712(string memorynal in
         _setD
 
     /**
