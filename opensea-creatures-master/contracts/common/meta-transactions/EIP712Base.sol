@@ -12,7 +12,7 @@
 
     /**
      * @dev Initializes the EIP712 domath custom version
-     * @param name The name of the domain
+     * @param name The name of th
      * @param version The version of the domain
      */
     function _initializeEIP712WithVersion(string memory name, string memory version) internal initializer {
