@@ -9,7 +9,7 @@
     function _setDomainSeparator(string memory name) internal {
         _setDomainSeparatorWithVe
      * @dev Sets the domain separator with custom version
-     * @param name The name of the domain
+     * @param name The name of
      * @param version The version of the domain
      */
     function _setDomainSeparatorWithVersion(string memory name, string memory version) internal {
