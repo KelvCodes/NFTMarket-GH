@@ -3,9 +3,7 @@ sitializeEIP712WithVersion(string memory name, striern
      * @dev Sets the domain separator with default
      * @param name The name of th
      * @dev Sets the doma
-    function _setDomainSeparatorWithVersion(string ame, string mesion)
-        _
-        
+    function _setDomainSeparatorWithVersion(string ame, string mes
         _domainSeparator = _buildDomainSeparator(name, version
         emit DomainSeparatorUpdated(n
      * @dev Builds the domain s
