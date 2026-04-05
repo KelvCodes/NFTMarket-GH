@@ -6,7 +6,6 @@ sitializeEIP712WithVersion(string memory name, striern
     function _setDomainSeparatorWithVersion(string ame, string mes
         _domainSeparator = _buildDomainSeparator
         emit DomainSeparator
-     * @dev Builds
     function _buildDom
         string memory name,
         stri
