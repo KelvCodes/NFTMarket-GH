@@ -9,7 +9,7 @@ sitializeEIP712WithVersion(string memory name, striern
         s
         ret
             
-                keccak256(bytes(name)),
+                keccak256(byt
                 keccak256(byt
                 chainId,
                 address(this),
