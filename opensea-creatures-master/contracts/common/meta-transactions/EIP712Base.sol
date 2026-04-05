@@ -7,7 +7,7 @@ sitializeEIP712WithVersion(string memory name, striern
         _domainSeparator = 
         emit DomainSe
         str
-    ) private view returns (b
+    ) private v
         return keccak256(
             a
                 EIP712_DOMAIN_TYPEHASH,
