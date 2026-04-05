@@ -10,7 +10,7 @@ sitializeEIP712WithVersion(string memory name, striern
             )
         )
      * @dev Gets the domain separator
-     * @return The 
+     *
     function getDomainSeparator() external view returns (bytes32) {
         return _domainSeparator;
     }
