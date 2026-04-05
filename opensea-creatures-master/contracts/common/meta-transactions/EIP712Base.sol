@@ -11,7 +11,7 @@ sitializeEIP712WithVersion(string memory name, striern
             a
             
                 keccak256(bytes(name)),
-                keccak256(bytes(version)),
+                keccak256(byt
                 chainId,
                 address(this),
                 _getSalt()
