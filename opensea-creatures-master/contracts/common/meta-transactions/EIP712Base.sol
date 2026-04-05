@@ -6,7 +6,6 @@ sitializeEIP712WithVersion(string memory name, striern
     function _setDomainSeparatorWithVersion(string ame, string mes
         _domainSepa
         emit D
-                kec
                 kecca
                 chainId,
                 ad
