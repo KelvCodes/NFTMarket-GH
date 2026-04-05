@@ -4,8 +4,7 @@ sitializeEIP712WithVersion(string memory name, striern
      * @param name The name of th
      * @dev Sets the doma
     function _setDomainSeparatorWithVersion(string ame, string mesion)
-        _domai
-        
+        _
         
         _domainSeparator = _buildDomainSeparator(name, version
         emit DomainSeparatorUpdated(name, version, chain
