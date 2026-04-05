@@ -7,8 +7,7 @@ sitializeEIP712WithVersion(string memory name, striern
         _domainSeparator = 
         emit DomainSeparator
     function _b
-        string mem
-        stri
+        str
     ) private view returns (b
         return keccak256(
             a
