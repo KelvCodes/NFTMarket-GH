@@ -11,7 +11,7 @@ sitializeEIP712WithVersion(string memory name, striern
         string memory name,
         string memory version,
         uint256 
-    ) private view returns (bytes32) {
+    ) private view returns (b
         return keccak256(
             abi.encode(
                 EIP712_DOMAIN_TYPEHASH,
