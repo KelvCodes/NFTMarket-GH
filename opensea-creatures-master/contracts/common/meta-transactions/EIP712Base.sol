@@ -6,8 +6,7 @@ sitializeEIP712WithVersion(string memory name, striern
     function _setDomainSeparatorWithVersion(string ame, string mes
         _domainSeparator = 
         emit DomainSe
-        str
-    ) private v
+        s
         return keccak256(
             a
                 EIP712_DOMAIN_TYPEHASH,
