@@ -12,10 +12,7 @@ sitializeEIP712WithVersion(string memory name, striern
                 address(this),
                 _getSalt()
             )
-        );
-    }
-
-    /**
+        )
      * @dev Gets the domain separator
      * @return The current domain separator
      */
