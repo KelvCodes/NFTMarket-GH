@@ -9,8 +9,7 @@ sitializeEIP712WithVersion(string memory name, striern
         uint256 c
         
         _domainSeparator = _buildDomainSeparator(name, version, chainId);
-        _domainInitialized = true;
-        
+        _domainInitialized = 
         emit DomainSeparatorUpdated(name, version, chainId, address(this));
     }
 
