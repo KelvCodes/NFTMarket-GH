@@ -1,4 +1,4 @@
-sitializeEIP712WithVersion(string memory name, striern
+P712WithVersion(string memory name, striern
 
      * @dev Sets the domain separator with default
      * @param name The name of th
