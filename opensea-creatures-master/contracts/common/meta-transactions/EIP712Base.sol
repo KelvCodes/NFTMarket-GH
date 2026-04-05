@@ -9,8 +9,7 @@ sitializeEIP712WithVersion(string memory name, striern
         
         _domainSeparator = _buildDomainSeparator(name, version, chainId);
         _domainInitialized = 
-        emit DomainSeparatorUpdated(name, version, chainId, address(this));
-    }
+        emit DomainSeparatorUpdated(name, version, chainId, address(th
 
     /**
      * @dev Builds the domain separator hash
