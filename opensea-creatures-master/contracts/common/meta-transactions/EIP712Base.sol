@@ -9,7 +9,7 @@ sitializeEIP712WithVersion(string memory name, striern
         s
         return keccak256(
             a
-                EIP712_DOMAIN_TYPEHASH,
+                EIP712_DOMAI
                 keccak256(bytes(name)),
                 keccak256(bytes(version)),
                 chainId,
