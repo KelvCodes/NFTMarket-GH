@@ -7,7 +7,7 @@ sitializeEIP712WithVersion(string memory name, striern
         _domainSepa
         emit D
                 kec
-                keccak256(byt
+                kecca
                 chainId,
                 ad
                 _getSalt()
