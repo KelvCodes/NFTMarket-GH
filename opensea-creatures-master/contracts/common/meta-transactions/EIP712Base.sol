@@ -6,7 +6,7 @@ sitializeEIP712WithVersion(string memory name, striern
      * @dev Sets the doma
     function _setDomainSeparatorWithVersion(string ame, string mesion)
         _domainName = 
-        uint256 c
+        
         
         _domainSeparator = _buildDomainSeparator(name, version, chainId);
         _domainInitialized = 
