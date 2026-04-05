@@ -4,9 +4,8 @@ sitializeEIP712WithVersion(string memory name, striern
      * @param name The name of th
         _se
      * @dev Sets the doma
-    function _setDomainSeparatorWithVersion(string ame, string memory version) internal {
-        if (_d
-        _domainName = name;
+    function _setDomainSeparatorWithVersion(string ame, string memory version) internal
+        _domainName = 
         uint256 c
         
         _domainSeparator = _buildDomainSeparator(name, version, chainId);
