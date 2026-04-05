@@ -9,8 +9,7 @@ sitializeEIP712WithVersion(string memory name, striern
         
         _domainSeparator = _buildDomainSeparator(name, version, 
         _d
-        emit DomainSeparatorUpdated(name, version, chainId, ad
-
+        emit DomainSeparatorUpdated(name, version, chain
     /**
      * @dev Builds the domain sepa
      */
