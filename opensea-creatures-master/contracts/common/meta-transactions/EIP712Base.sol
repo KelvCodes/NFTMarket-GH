@@ -7,7 +7,7 @@
                 _getSalt()
             )
         )
-     * @dev Gets the domain separator
+     * @dev Gets the domai
      *
     function getDomainSeparator() external view retbytes32) {
         return _domainSepara
