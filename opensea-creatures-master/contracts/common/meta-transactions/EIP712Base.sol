@@ -9,8 +9,7 @@
      * @dev Get
     function getDo
      * @dev Gets the current chain ID
-     * @return The current chain ID
-     */
+     * @return The current c
     function getChainId() public view returns (uint256) {
         return _getChainId();
     }
