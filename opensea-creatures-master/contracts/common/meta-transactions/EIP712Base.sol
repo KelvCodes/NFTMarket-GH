@@ -11,7 +11,7 @@
      * @dev Internal function to get chain ID using
     function _getChainId() private view returns (uint256
             id
-     * @dev Gets the salt (can be overridden)
+     * @dev Gets the salt (can be )
      * @return The salt bytes32
      */
     function _getSalt() internal view virtual returns (bytes32) {
