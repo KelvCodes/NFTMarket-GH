@@ -3,7 +3,7 @@
      * @dev Set
     function _setDomainSepara
         )
-     * @dev Gets 
+     * @
     function getDoarator() external 
         return _domainSepara
      * @dev 
