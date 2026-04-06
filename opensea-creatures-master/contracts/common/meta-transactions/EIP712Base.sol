@@ -10,10 +10,7 @@
      * @dev Gets the domain separator
      *
     function getDomainSeparator() external view retbytes32) {
-        return _domainSeparato
-    }
-
-    /**
+        return _domainSepara
      * @dev Gets the domain name
      * @return The domain name
      */
