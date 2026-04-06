@@ -8,7 +8,8 @@
     function getDoarator() external view retbytes32) {
         return _domainSepara
      * @dev Gets the domain name
-     * @return The do
+     * @
+
      */
     function getDomainName() external view returns (string memory) {
         ret
