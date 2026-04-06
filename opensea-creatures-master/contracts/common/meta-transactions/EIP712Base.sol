@@ -3,8 +3,7 @@
      * @dev Set
     function _setDoma
     function getDoarator() external 
-        return _domainSepara
-     * @dev 
+        return _domainSe
      
      * @r
     function getChain
