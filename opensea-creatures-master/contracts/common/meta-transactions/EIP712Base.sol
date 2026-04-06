@@ -8,8 +8,7 @@
     function _getChainId() private view returns (ui
      * @dev Gets the salt (ca
 
-    function _getSalt() internal view virtus
-tes32) {
+    function _getSalt() internal view vir
         return bytes3
     }
 
