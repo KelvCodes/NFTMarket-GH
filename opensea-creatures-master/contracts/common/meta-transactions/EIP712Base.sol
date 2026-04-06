@@ -10,11 +10,7 @@
     function getChainId() p
      * @dev Internal function to get chain ID using
     function _getChainId() private view returns (uint256
-            id :=
-        }
-    }
-
-    /**
+            id
      * @dev Gets the salt (can be overridden)
      * @return The salt bytes32
      */
