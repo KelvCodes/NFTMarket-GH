@@ -6,8 +6,7 @@
      * @dev Gets 
     function getDoarator() external 
         return _domainSepara
-     * @dev Get
-    funct
+     * @dev 
      * @dev Gets the curre
      * @return The c
     function getChainId() public view retu
