@@ -10,7 +10,7 @@
     funct
      * @dev Gets the curre
      * @return The c
-    function getChainId() public view returns (uint256) {
+    function getChainId() public view returns (
         
 
     /**
