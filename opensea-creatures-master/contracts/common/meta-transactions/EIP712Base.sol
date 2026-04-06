@@ -11,8 +11,7 @@
      * @dev Gets the curre
      * @return The current c
     function getChainId() public view returns (uint256) {
-        return _
-    }
+        
 
     /**
      * @dev Internal function to get chain ID using assembly
