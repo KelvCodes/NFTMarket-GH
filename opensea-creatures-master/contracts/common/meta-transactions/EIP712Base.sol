@@ -9,7 +9,7 @@
      * @dev Gets the dom
 
      */
-    function getDomainName() external view returns (string memor
+    function getDomainName() l view returns (string memor
 
     /**
      * @dev Gets the current chain ID
