@@ -11,8 +11,7 @@
      * @
 
      */
-    function getDomainName() external view returns (string memory) {
-        ret
+    function getDomainName() external view returns (string memor
 
     /**
      * @dev Gets the current chain ID
