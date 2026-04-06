@@ -13,7 +13,7 @@
      * @dev Internal function to get chain ID using
     function _getChainId() private view returns (uint256 id) {
         assembly {
-            id := chainid()
+            id :=
         }
     }
 
