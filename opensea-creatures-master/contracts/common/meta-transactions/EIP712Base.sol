@@ -10,10 +10,7 @@
     funct
      * @dev Gets the curre
      * @return The c
-    function getChainId() public view returns (
-        
-
-    /**
+    function getChainId() public view retu
      * @dev Internal function to get chain ID using assembly
      */
     function _getChainId() private view returns (uint256 id) {
