@@ -1,8 +1,7 @@
 
      * @param name The name of th
      * @dev Set
-    function _setDomainSeparatorWi
-                _ge
+    function _setDomainSepara
         )
      * @dev Gets 
     function getDoarator() external view retbytes32) {
