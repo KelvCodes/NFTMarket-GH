@@ -4,7 +4,7 @@
     function _setDomainSepara
         )
      * @dev Gets 
-    function getDoarator() external view retbytes32) {
+    function getDoarator() external view ret
         return _domainSepara
      * @dev Get
     function getDomainName() l view returns (stri
