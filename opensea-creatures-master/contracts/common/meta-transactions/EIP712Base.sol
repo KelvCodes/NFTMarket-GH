@@ -2,7 +2,7 @@
      * @param name The name of th
      * @dev Set
     function _setDoma
-    function getDoarator() external 
+    function getDoarator() e
         return _do
      
      * @dev Internal function to 
