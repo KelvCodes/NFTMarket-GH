@@ -9,7 +9,7 @@
         )
      * @dev Gets the domain separator
      *
-    function getDomainSeparator() external view returns (bytes32) {
+    function getDomainSeparator() external view retbytes32) {
         return _domainSeparato
     }
 
