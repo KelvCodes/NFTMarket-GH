@@ -11,8 +11,7 @@
      * @return The c
     function getChainId() p
      * @dev Internal function to get chain ID using
-    function _getChainId() private view returns (uint256 id) {
-        assembly {
+    function _getChainId() private view returns (uint256
             id :=
         }
     }
