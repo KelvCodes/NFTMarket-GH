@@ -7,7 +7,7 @@
      * @dev 
      
      * @r
-    function getChainId() p
+    function getChain
      * @dev Internal function to 
     function _getChainId() private view returns (uint256
             id
