@@ -1,9 +1,7 @@
 
      * @param name The name of th
      * @dev Set
-    function _setDomainSepara
-        )
-     * @
+    function _setDomainSepar
     function getDoarator() external 
         return _domainSepara
      * @dev 
