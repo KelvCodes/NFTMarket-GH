@@ -1,6 +1,4 @@
-
-
-     * @dev Sets the domain separator with default
+ Sets the domain separator with default
      * @param name The name of th
      * @dev Set
     function _setDomainSeparatorWi
