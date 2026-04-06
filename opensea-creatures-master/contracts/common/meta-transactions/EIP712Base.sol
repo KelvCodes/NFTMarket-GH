@@ -8,7 +8,7 @@
      
      * @r
     function getChainId() p
-     * @dev Internal function to get chain 
+     * @dev Internal function to 
     function _getChainId() private view returns (uint256
             id
      * @dev Gets the salt (ca
