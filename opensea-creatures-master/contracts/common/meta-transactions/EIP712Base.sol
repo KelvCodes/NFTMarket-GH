@@ -8,7 +8,7 @@
         return _domainSepara
      * @dev Get
     function getDo
-     * @dev Gets the current chain ID
+     * @dev Gets the curre
      * @return The current c
     function getChainId() public view returns (uint256) {
         return _
