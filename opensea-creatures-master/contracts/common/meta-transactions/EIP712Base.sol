@@ -7,7 +7,7 @@
     function getDoarator() external 
         return _domainSepara
      * @dev Get
-    function getDomainName() l vie
+    function getDo
      * @dev Gets the current chain ID
      * @return The current chain ID
      */
