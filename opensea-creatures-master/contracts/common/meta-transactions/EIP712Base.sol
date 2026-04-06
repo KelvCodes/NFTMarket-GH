@@ -7,7 +7,7 @@
     function getDoarator() external 
         return _domainSepara
      * @dev Get
-    function getDo
+    funct
      * @dev Gets the curre
      * @return The current c
     function getChainId() public view returns (uint256) {
