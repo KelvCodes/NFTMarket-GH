@@ -5,8 +5,7 @@
                 _getSalt()
             )
         )
-     * @dev Gets th
-     *
+     * @dev Gets 
     function getDomainSeparator() external view retbytes32) {
         return _domainSepara
      * @dev Gets the domain name
