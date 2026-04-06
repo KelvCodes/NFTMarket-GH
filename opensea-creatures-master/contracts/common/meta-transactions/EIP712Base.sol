@@ -9,7 +9,7 @@
      * @
     function _getSalt() in
     /**
-     * @dev Returns the domain separator for current chain
+     * @dev Returns the domain separator for 
      * @notice Recalculates domain separator if chain ID has changed (for fork protection)
      */
     function _getDomainSeparator() internal view returns (bytes32) {
