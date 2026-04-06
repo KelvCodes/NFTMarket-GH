@@ -7,10 +7,7 @@
      * @dev Internal fun
     function _getChainId() private view returns (ui
      * @
-    function _getSalt() internal view vir
-    
-    }
-
+    function _getSalt() internal vi
     /**
      * @dev Returns the domain separator for current chain
      * @notice Recalculates domain separator if chain ID has changed (for fork protection)
