@@ -5,8 +5,6 @@
     function getDoarator() external 
         return _do
      
-     * @r
-    function getChain
      * @dev Internal function to 
     function _getChainId() private view returns (uint256
             id
