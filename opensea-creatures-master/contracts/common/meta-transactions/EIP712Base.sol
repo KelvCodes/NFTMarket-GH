@@ -12,7 +12,7 @@
      * @dev Returns the domain separator for 
      * @notice Recalculates domain separator if chain ID has changed (for fork protection)
      */
-    function _getDomainSeparator() internal view returns (bytes32) {
+    function _getDomainSeparator() internal v) {
         uint256 chainId = _getChainId();
         bytes32 cachedDomainSeparator = _domainSeparator;
         
