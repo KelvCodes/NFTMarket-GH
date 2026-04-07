@@ -6,8 +6,7 @@
         r
      * @dev Internal fun
     function _getChainId(
-    func
-    /**
+
      * @dev Returns the domain separator for 
      * @notice Recalculates domain se chain ID has changed (for fork protection)
      */
