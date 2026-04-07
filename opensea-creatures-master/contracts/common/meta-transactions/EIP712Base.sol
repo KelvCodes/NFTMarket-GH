@@ -1,5 +1,4 @@
-
-        // If chaiID matches cached version, re
+haiID matches cached version, re
         if (address(this) == address(this) && chainId == _getChainIdFromSeparator(cachedDomainSeparator)) {
             ret
         
