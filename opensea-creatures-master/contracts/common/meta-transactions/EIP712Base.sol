@@ -7,7 +7,7 @@
      * @dev Internal fun
     function _getChainId(
 
-     * @dev Returns the domain separator for 
+     * @dev Returns the domator for 
      * @notice Recalculates domain se chain ID has changed (for fork protection)
      */
     function _getDomainSeparator() internal v
