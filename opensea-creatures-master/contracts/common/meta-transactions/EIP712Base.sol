@@ -11,7 +11,7 @@
      * @dev Returns the domain separator for 
      * @notice Recalculates domain se chain ID has changed (for fork protection)
      */
-    function _getDomainSeparator() internal v) {
+    function _getDomainSeparator() internal v
         uint256 chainId = _get
         bytes32 cachedDomainSeparator = _domainSeparator;
         
