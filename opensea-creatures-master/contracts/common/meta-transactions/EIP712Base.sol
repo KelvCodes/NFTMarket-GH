@@ -6,7 +6,7 @@ edDomainSeparator =
         // Otherwise rebuild (handles chain 
         return _buildDomair(_domainName, ERC7
 
-     * @dev Extracts chain ID from domain separator (helper function)
+     * @dev Extracts chain ID from domain separator (helper 
      */
     function _getChainIdFromSeparator(bytes32 separator) private pure returns (uint256) {
         // This is a simplified implementation - in practice you'd need to decode the domain separator
