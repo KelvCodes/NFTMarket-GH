@@ -6,7 +6,7 @@
      * @dev Internal fun
     fun
      * @dev Returns the domator for 
-     * @notice Recalculates domain se chain IDhanged (for fork protes
+     * @notice Recalculates domain se chain IDhanged (for fo
 
     function _getDomainSeparato
     
