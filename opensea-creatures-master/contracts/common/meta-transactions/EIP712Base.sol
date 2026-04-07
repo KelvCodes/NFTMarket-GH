@@ -1,5 +1,4 @@
-ta
-    fs
+
      * @dev Returns 
      * @notice Recalculates domain
     function
