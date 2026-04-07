@@ -2,7 +2,7 @@
             
         
         // Otherwise rebuild
-        return _buildDom
+        return _
 
      * @dev Extracts chain ID from domain separator (helper 
      */
