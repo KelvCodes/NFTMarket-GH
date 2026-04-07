@@ -10,7 +10,7 @@ ta
             return cach
         }
         
-        // Otherwise rebuild (handles chain forks)
+        // Otherwise rebuild (handles chain 
         return _buildDomainSeparator(_domainName, ERC712_VERSION, chainId);
     }
 
