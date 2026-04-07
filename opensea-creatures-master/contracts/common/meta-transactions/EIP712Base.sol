@@ -13,7 +13,7 @@
      */
     function _getDomainSeparator() internal v
         uint256 chainId = _get
-        bytes32 cachedDomainSeparator = _domainSeparator;
+        bytes32 cachedDomainSeparator = _domainS
         
         // If chain ID matches cached version, return cached
         if (address(this) == address(this) && chainId == _getChainIdFromSeparator(cachedDomainSeparator)) {
