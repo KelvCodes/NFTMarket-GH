@@ -1,5 +1,4 @@
-
-        if (addresthis) == address(this) && chainId == _getChainIdFromSeparator(cachedDomainSeparator)) {
+resthis) == address(this) && chainId == _getChainIdFromSeparator(cachedDomainSeparator)) {
             
         
         // Otherwise rebuild (handle
