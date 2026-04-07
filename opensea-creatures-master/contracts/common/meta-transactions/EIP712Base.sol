@@ -6,8 +6,7 @@ ta
         bytes32 cachedDomainSeparator = 
         // If chain ID matches cached version, re
         if (address(this) == address(this) && chainId == _getChainIdFromSeparator(cachedDomainSeparator)) {
-            return cach
-        }
+            ret
         
         // Otherwise rebuild (handles chain 
         return _buildDomainSeparator(_domainName, ERC712_VERSION, chainId);
