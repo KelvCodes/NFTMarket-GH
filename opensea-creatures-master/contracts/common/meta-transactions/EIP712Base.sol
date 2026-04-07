@@ -2,7 +2,7 @@
      * @param name The name of th
      * @dev Set
     function _setDoma
-    function getDoarator() e
+    function getDo
         r
      * @dev Internal fun
     function _getChainId() private view r
