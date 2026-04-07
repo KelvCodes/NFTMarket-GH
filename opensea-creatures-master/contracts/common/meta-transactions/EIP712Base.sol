@@ -1,5 +1,4 @@
-
-     * @param name The name of th
+ name The name of th
      * @dev Set
     function _setDoma
     f
