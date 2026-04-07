@@ -9,7 +9,7 @@ thisinId == _getChainIdFromSeparator(cachedDomainSeparator)) {
      */
     function _getChainIdFromSeparator(bytes32 separator) private pure returns (uint256) {
         // This is a simplified implementation - in practice you'd need to decode the domain separator
-        return block.chainid;
+        return block
     }
 
     /**
