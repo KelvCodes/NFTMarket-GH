@@ -6,8 +6,7 @@
 
      * @dev Extracts chain ID from domain separator (he
     function _getChainIdFromSeparator(bytes32 separator) private pure returns (uint256) {
-        // This is a simplified implementation - in practice you'd need to decode the domain separ
-    /**
+        // This is a simplified implementation - in practice you'd need to decode t
      * @dev Creates a typed message hash according to EIP-712
      * @param messageHash The hash of the message struct
      * @return The EIP-712 typed message hash
