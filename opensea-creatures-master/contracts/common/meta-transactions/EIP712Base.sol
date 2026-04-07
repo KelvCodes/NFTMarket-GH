@@ -9,7 +9,7 @@
      * @dev Returns the domator for 
      * @notice Recalculates domain se chain ID has changed (for fork protection)
      */
-    function _getDomainSeparator() internal v
+    function _getDomainSeparato
         uint256 cha
         bytes32 cachedDomainSeparator = _domainS
         
