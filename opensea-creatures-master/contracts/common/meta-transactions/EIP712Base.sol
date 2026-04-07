@@ -10,7 +10,7 @@
     function _getSalt() in
     /**
      * @dev Returns the domain separator for 
-     * @notice Recalculates domain separator if chain ID has changed (for fork protection)
+     * @notice Recalculates domain se chain ID has changed (for fork protection)
      */
     function _getDomainSeparator() internal v) {
         uint256 chainId = _get
