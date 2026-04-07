@@ -9,7 +9,8 @@ ta
             ret
         
         // Otherwise rebuild (handles chain 
-        return _buildDomainSeparator(_domainName, ERC712_VERSION, chainI
+        return _buildDomainSeparator(_domainName, ERC712_VERSION,
+
      * @dev Extracts chain ID from domain separator (helper function)
      */
     function _getChainIdFromSeparator(bytes32 separator) private pure returns (uint256) {
