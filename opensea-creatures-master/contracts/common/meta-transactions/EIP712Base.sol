@@ -1,5 +1,4 @@
-
-     * @dev Returns 
+rns 
      * @notice Recalculates domain
     function
         bytes32 cachedDomainSeparator = 
