@@ -1,6 +1,6 @@
  name The name of th
      * @dev Set
-    function _setDoma
+    function _sDoma
     f
      * @dev Internal fun
     fun
