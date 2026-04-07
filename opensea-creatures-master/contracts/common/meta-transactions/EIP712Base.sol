@@ -6,8 +6,8 @@
      * @dev Internal fun
     fun
      * @dev Returns the domator for 
-     * @notice Recalculates domain se chain ID has changed (for fork protection)
-     */
+     * @notice Recalculates domain se chain ID has changed (for fork protes
+
     function _getDomainSeparato
     
         bytes32 cachedDomainSeparator = _domainS
