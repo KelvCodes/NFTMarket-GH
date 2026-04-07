@@ -2,7 +2,7 @@
         if (address(this) == address(this) && chainId == _getChainIdFromSeparator(cachedDomainSeparator)) {
             
         
-        // Otherwise rebuild (handles chain 
+        // Otherwise rebuild (handle
         return _buildDomair(_domainName, ERC7
 
      * @dev Extracts chain ID from domain separator (helper 
