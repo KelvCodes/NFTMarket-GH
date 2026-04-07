@@ -4,8 +4,7 @@ ta
      * @dev Returns the domato
      * @notice Recalculates domain sDhanged (for fo
 
-    function _g
-    
+    function
         bytes32 cachedDomainSeparator = 
         // If chain ID matches cached version, return cached
         if (address(this) == address(this) && chainId == _getChainIdFromSeparator(cachedDomainSeparator)) {
