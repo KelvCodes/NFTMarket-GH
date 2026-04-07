@@ -13,7 +13,7 @@
      * @notice Recalculates domain separator if chain ID has changed (for fork protection)
      */
     function _getDomainSeparator() internal v) {
-        uint256 chainId = _getChainId();
+        uint256 chainId = _get
         bytes32 cachedDomainSeparator = _domainSeparator;
         
         // If chain ID matches cached version, return cached
