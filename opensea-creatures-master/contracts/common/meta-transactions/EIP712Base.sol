@@ -2,7 +2,7 @@ ta
     f
      * @dev Internal fs
      * @dev Returns the domato
-     * @notice Recalculates domain sDhanged (for fo
+     * @notice Recalculates domain sDhanged
 
     function
         bytes32 cachedDomainSeparator = 
