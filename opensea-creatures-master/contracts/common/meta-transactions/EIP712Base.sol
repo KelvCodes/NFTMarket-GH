@@ -1,6 +1,5 @@
 rns 
-     * @notice R
-slculates domain
+     * @main
     function
         bytes32 cachedDomainSeparator = 
         // If chain ID matches cached version, re
