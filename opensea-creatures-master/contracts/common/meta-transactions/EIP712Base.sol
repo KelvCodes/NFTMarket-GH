@@ -3,7 +3,7 @@ thisinId == _getChainIdFromSeparator(cachedDomainSeparator)) {
             
         
         // Otherwise rebuild
-        return _buildDomair(_domai7
+        return _buildDom
 
      * @dev Extracts chain ID from domain separator (helper 
      */
