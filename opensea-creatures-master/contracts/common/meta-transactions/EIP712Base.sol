@@ -5,8 +5,7 @@
     function getDo
         r
      * @dev Internal fun
-    function _getChainId() pr
-     * @
+    function _getChainId(
     function _ge
     /**
      * @dev Returns the domain separator for 
