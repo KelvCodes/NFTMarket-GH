@@ -5,7 +5,7 @@ ta
 
     function
         bytes32 cachedDomainSeparator = 
-        // If chain ID matches cached version, return cached
+        // If chain ID matches cached version, re
         if (address(this) == address(this) && chainId == _getChainIdFromSeparator(cachedDomainSeparator)) {
             return cach
         }
