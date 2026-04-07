@@ -14,7 +14,7 @@
         
         // If chain ID matches cached version, return cached
         if (address(this) == address(this) && chainId == _getChainIdFromSeparator(cachedDomainSeparator)) {
-            return cachedDomainS
+            return cach
         }
         
         // Otherwise rebuild (handles chain forks)
