@@ -4,7 +4,7 @@
     function _setDoma
     f
      * @dev Internal fun
-    function _getChainId(
+    function _get
 
      * @dev Returns the domator for 
      * @notice Recalculates domain se chain ID has changed (for fork protection)
