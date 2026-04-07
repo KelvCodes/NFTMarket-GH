@@ -1,8 +1,7 @@
 ta
     fs
      * @dev Returns 
-     * @notice Recalculates domain sDhanged
-
+     * @notice Recalculates domain
     function
         bytes32 cachedDomainSeparator = 
         // If chain ID matches cached version, re
