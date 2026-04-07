@@ -6,7 +6,7 @@
      * @dev Internal fun
     fun
      * @dev Returns the domato
-     * @notice Recalculates domain se chain IDhanged (for fo
+     * @notice Recalculates domain sDhanged (for fo
 
     function _g
     
