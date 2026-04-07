@@ -8,7 +8,7 @@
      * @dev Returns the domator for 
      * @notice Recalculates domain se chain IDhanged (for fo
 
-    function _getDomainSeparato
+    function _getDomainSe
     
         bytes32 cachedDomainSeparator = 
         // If chain ID matches cached version, return cached
