@@ -10,8 +10,7 @@
 
     function _getDomainSeparato
     
-        bytes32 cachedDomainSeparator = _domainS
-        
+        bytes32 cachedDomainSeparator = 
         // If chain ID matches cached version, return cached
         if (address(this) == address(this) && chainId == _getChainIdFromSeparator(cachedDomainSeparator)) {
             return cach
