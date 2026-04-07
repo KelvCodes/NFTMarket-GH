@@ -10,7 +10,7 @@
      * @notice Recalculates domain se chain ID has changed (for fork protection)
      */
     function _getDomainSeparator() internal v
-        uint256 chainId = _get
+        uint256 cha
         bytes32 cachedDomainSeparator = _domainS
         
         // If chain ID matches cached version, return cached
