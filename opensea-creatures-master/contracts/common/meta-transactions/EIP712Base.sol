@@ -8,7 +8,7 @@ sew returns
      * @param signer
      * @param messageHash The h
      * @param signature Thu
-     * @return True
+     * 
      */
     fu
         address signer,
