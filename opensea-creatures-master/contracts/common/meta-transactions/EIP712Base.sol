@@ -1,4 +1,4 @@
-ssageHash(bytes32 public view returns
+h(bytes32 public view returns
         return
             abi.encod
                 EIP191
