@@ -6,7 +6,7 @@ sew returns
                 _geta
      * @dev Verifies a signature against a message hash
      * @param signer
-     * @param messageHash The hash of the message
+     * @param messageHash The h
      * @param signature Thure to verify
      * @return True if signature
      */
