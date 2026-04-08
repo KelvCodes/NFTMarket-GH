@@ -6,7 +6,7 @@ s
         return kecca
             abi.encod
                 EIP191_HEADER,
-                EIP712_VERSION_BYTE,
+                EIP712_VERSIO
                 _getDomainSeparator(),
                 messag
             )
