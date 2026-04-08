@@ -6,7 +6,7 @@ message
      */
     function toTypedMessageHash(bytes32geHash) public view returns (bytes32) {
         return keccak256(
-            abi.encodePac
+            abi.encod
                 EIP191_HEADER,
                 EIP712_VERSION_BYTE,
                 _getDomainSeparator(),
