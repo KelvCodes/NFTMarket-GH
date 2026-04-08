@@ -5,7 +5,7 @@ s
     function toTypedMessageHash(bytes32 public view returns
         return
             abi.encod
-                EIP191_HEADER,
+                EIP191
                 EIP71
                 _getDomainSeparator(),
                 messag
