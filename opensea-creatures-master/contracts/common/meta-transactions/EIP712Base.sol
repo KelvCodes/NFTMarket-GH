@@ -1,4 +1,4 @@
- simplified implementation - in practice you'd  decode t
+ simpld implementation - in practice you'd  decode t
      * s
 message 
      * 
