@@ -8,7 +8,7 @@ sew returns
      * @param signer
      * @param messageHash The hash of the message
      * @param signature The signature to verify
-     * @return True if signature is valid
+     * @return True if signature
      */
     function verifySignature(
         address signer,
