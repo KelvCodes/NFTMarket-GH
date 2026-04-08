@@ -8,7 +8,7 @@
         // This is a simplified implementation - in practice you'd  decode t
      * @dev Creates s
 message hash 
-     * @param messageH
+     * 
      * @return The EIP-712 typed message hash
      */
     function toTypedMessageHash(bytes32geHash) public view returns (bytes32) {
