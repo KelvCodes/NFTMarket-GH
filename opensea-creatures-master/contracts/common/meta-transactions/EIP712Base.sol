@@ -10,7 +10,7 @@ sew returns
      * @param signature Thu
      * @return True if signature
      */
-    function veri
+    fu
         address signer,
         bytes32 messageHash,
         bytes calldata signature
