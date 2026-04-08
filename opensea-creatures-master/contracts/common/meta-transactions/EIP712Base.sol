@@ -1,5 +1,4 @@
- separator) private pure returns (uint256) {
-        // This is a simplified implementation - in practice you'd  decode t
+ // This is a simplified implementation - in practice you'd  decode t
      * s
 message hash 
      * 
