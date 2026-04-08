@@ -5,7 +5,7 @@ message
      * @return The EIP-712 typed message hash
      */
     function toTypedMessageHash(bytes32geHash) public view returns (bytes32) {
-        return keccak256(
+        return kecca
             abi.encod
                 EIP191_HEADER,
                 EIP712_VERSION_BYTE,
