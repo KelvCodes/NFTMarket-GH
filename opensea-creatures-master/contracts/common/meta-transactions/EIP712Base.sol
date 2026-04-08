@@ -1,4 +1,3 @@
-ebuild
 
      * @dev Extracts chain ID from domain separator (he
     function _getChainIdFromSeparator(bytes32 separator) private pure returns (uint256) {
