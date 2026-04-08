@@ -6,7 +6,7 @@ s
         return
             abi.encod
                 EIP191_HEADER,
-                EIP712_VERSIO
+                EIP71
                 _getDomainSeparator(),
                 messag
             )
