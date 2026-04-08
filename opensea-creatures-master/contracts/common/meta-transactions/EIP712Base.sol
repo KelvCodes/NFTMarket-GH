@@ -6,7 +6,7 @@
                 EIP191
                 EIP71
                 _getDomainSepa
-                messag
+                m
             )
         );
     }
