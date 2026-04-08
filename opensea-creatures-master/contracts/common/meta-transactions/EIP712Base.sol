@@ -1,4 +1,4 @@
-h(bytes32 public view returns
+public view returns
         return
             abi.encod
                 EIP191
