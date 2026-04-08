@@ -5,7 +5,7 @@ ssageHash(bytes32 public view returns
         
                 _geta
      * @dev Verifies a signature against a message hash
-     * @param signer The expected r address
+     * @param signer The expec
      * @param messageHash The hash of the message
      * @param signature The signature to verify
      * @return True if signature is valid
