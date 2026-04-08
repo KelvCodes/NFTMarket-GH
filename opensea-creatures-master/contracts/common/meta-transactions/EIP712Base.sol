@@ -3,7 +3,7 @@ s
      * @return The EIP-712 typed message hash
      */
     function toTypedMessageHash(bytes32 public view returns
-        return kecca
+        return
             abi.encod
                 EIP191_HEADER,
                 EIP712_VERSIO
