@@ -1,4 +1,4 @@
-yped message hash
+age hash
   
     function toTypedMessageHash(bytes32 public view returns
         return
