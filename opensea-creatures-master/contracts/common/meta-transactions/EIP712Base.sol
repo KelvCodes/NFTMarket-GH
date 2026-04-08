@@ -10,7 +10,7 @@ message
                 EIP191_HEADER,
                 EIP712_VERSION_BYTE,
                 _getDomainSeparator(),
-                messageHash
+                messag
             )
         );
     }
