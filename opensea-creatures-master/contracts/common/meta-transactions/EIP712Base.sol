@@ -5,7 +5,7 @@
             abi.encod
                 EIP191
                 EIP71
-                _getDomainSeparator(),
+                _getDomainSepa
                 messag
             )
         );
