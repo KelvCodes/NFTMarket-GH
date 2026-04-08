@@ -1,4 +1,4 @@
- - in practice you'd  decode t
+you'd  decode t
      * s
 message 
      * 
