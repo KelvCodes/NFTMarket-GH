@@ -8,7 +8,7 @@
     function _getChainIdFromSeparator(bytes32 separator) private pure returns (uint256) {
         // This is a simplified implementation - in practice you'd need to decode t
      * @dev Creates s
-message hash acco
+message hash 
      * @param messageHash The hash of the message struct
      * @return The EIP-712 typed message hash
      */
