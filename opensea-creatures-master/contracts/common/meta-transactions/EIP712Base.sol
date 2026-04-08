@@ -1,4 +1,4 @@
- simpld implementation - in practice you'd  decode t
+plementation - in practice you'd  decode t
      * s
 message 
      * 
