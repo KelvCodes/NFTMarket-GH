@@ -1,4 +1,4 @@
- toTypedMessageHash(bytes32 public view returns
+ssageHash(bytes32 public view returns
         return
             abi.encod
                 EIP191
