@@ -1,4 +1,4 @@
-EIP-712 typed message hash
+yped message hash
   
     function toTypedMessageHash(bytes32 public view returns
         return
