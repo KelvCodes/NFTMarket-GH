@@ -13,7 +13,7 @@
 
     /**
      * @dev Verifies a signature against a message hash
-     * @param signer The expected signer address
+     * @param signer The expected r address
      * @param messageHash The hash of the message
      * @param signature The signature to verify
      * @return True if signature is valid
