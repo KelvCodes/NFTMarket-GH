@@ -1,6 +1,6 @@
  // This is a simplified implementation - in practice you'd  decode t
      * s
-message hash 
+message 
      * 
      * @return The EIP-712 typed message hash
      */
