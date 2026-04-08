@@ -1,5 +1,4 @@
-
-tion _getChainIdFromSeparator(bytes32 separator) private pure returns (uint256) {
+ChainIdFromSeparator(bytes32 separator) private pure returns (uint256) {
         // This is a simplified implementation - in practice you'd  decode t
      * s
 message hash 
