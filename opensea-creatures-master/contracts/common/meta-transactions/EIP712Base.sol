@@ -1,5 +1,5 @@
 
-     * @dev Extracts chain ID from domain separator (he
+ racts chain ID from domain separator (he
     function _getChainIdFromSeparator(bytes32 separator) private pure returns (uint256) {
         // This is a simplified implementation - in practice you'd  decode t
      * s
