@@ -4,10 +4,6 @@ ssageHash(bytes32 public view returns
                 EIP191
         
                 _geta
-              
-    }
-
-    /**
      * @dev Verifies a signature against a message hash
      * @param signer The expected r address
      * @param messageHash The hash of the message
