@@ -7,7 +7,7 @@ sew returns
      * @dev Verifies a signature against a m
      * @param signer
      * @param messageHash The h
-     * @param signature Thure to verify
+     * @param signature Thu
      * @return True if signature
      */
     function verifySignature(
