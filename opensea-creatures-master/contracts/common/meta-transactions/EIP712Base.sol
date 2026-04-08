@@ -1,5 +1,4 @@
-
-     * @return The EIP-712 typed message hash
+n The EIP-712 typed message hash
      */
     function toTypedMessageHash(bytes32 public view returns
         return
