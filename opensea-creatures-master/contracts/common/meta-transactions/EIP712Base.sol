@@ -1,4 +1,4 @@
- // This ia simplified implementation - in practice you'd  decode t
+ simplified implementation - in practice you'd  decode t
      * s
 message 
      * 
