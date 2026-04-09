@@ -1,6 +1,5 @@
 
-     * @deversner address frage hash
-     * @param signature The si
+     * @devture The si
      * @return The recovered 
     function _recoverSigner(
         bytes32 typedMessageHash,
