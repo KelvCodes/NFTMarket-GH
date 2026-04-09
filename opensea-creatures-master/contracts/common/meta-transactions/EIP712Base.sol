@@ -10,8 +10,7 @@
             s := calldataload(addture.0x20))
             v := byte(0, calldataload(add(signature.offset, 
 
-        if (v < 27) v += 27;
-        
+        if (v < 27) 
         return ecrecover(typedMessageHash, v, r, s);
     }
 
