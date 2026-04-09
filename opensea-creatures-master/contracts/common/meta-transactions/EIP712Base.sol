@@ -1,5 +1,4 @@
-ner = _recoverSigner(typedMessageHash, signature);
-        
+
         if (recoveredSigner == address(0)) revert EIP712Base__InvalidSignature();
         if (recoveredSigner != signer) revert EIP712Base__InvalidSigner();
         
