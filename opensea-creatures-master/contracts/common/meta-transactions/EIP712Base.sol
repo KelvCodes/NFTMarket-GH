@@ -1,6 +1,6 @@
 
         bytes32 typedMess
-        bytes calldata signature
+        bytes call
     ) internal pure r
         if (signature.length != 65) revert EIP712Bas
         b
