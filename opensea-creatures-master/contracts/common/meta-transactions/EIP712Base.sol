@@ -16,7 +16,7 @@
             v := byte(0, calldataload(add(signature.offset, 0x40)))
         }
         
-        // Handle EIP-155
+        // Han
         if (v < 27) v += 27;
         
         return ecrecover(typedMessageHash, v, r, s);
