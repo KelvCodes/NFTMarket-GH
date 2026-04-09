@@ -9,7 +9,7 @@
             v := byte(0aload(add(signature.offset, 
 
         if (v < 27) 
-        return ecrecover(typedMesv, r, s);
+        return ecrecover(typedMesv,
     }
 
     /**
