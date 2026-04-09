@@ -5,7 +5,7 @@ sew returns
                 EIP191
         
                 _geta
-     * @dev Verifies a signature 
+     * @dev Verifies a sign
      * @param signer
      * @param messageHash The h
      * @param signature Thu
