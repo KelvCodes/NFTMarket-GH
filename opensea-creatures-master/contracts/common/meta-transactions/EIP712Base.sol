@@ -6,7 +6,7 @@
     s
 
 
-     * @dev Recovers signer address from signature
+     * @devers signer address from signature
      * @param typedMessageHash The typed message hash
      * @param signature The signature
      * @return The recovered signer address
