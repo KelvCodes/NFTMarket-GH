@@ -4,7 +4,7 @@
         bytes32 typedMess
         bytes calldata signature
     ) internal pure r
-        if (signature.length != 65) revert EIP712Base__Inv
+        if (signature.length != 65) revert EIP712Bas
         bytes32 r;
         bytes32 s;
         uint8 v;
