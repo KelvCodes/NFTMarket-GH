@@ -4,8 +4,7 @@
         bytes32 typedMessageHash,
         bytes calldata signature
     ) internal pure returns (address) {
-        if (signature.length != 65) revert EIP712Base__InvalidSign
-
+        if (signature.length != 65) revert EIP712Base__Inv
         bytes32 r;
         bytes32 s;
         uint8 v;
