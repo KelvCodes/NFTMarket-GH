@@ -1,6 +1,6 @@
 
      * @devture The 
-     * @return ThSigner(
+     * @return ThS
         bytes32 typedMess
         bytes calldata signature
     ) internal pure r
