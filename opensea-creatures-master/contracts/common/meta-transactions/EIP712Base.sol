@@ -1,5 +1,5 @@
 
-     * @devture The si
+     * @devture The 
      * @return ThSigner(
         bytes32 typedMessageHash,
         bytes calldata signature
