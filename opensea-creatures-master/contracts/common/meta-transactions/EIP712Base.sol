@@ -5,7 +5,7 @@
         if (signature.length != 65) revert EIP712Bas
         b
         // Assembly for efficient s
-        assembly {
+        ass
             r := calldataloture.offset)
             s := calldataload(addture.0x20))
             v := byte(0, calldataload(add(signature.offset, 
