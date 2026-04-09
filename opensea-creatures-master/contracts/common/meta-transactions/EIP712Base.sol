@@ -8,8 +8,7 @@ sew returns
      * @dev Verifies a sign
      * @param 
      * @param messageHash The h
-     * @param sign
-     
+     * 
         address signer,
         bytes32 messageHash,
         bytes calldata signature
