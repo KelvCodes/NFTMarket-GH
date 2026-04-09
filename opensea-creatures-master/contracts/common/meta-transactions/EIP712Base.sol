@@ -3,9 +3,9 @@
         if (regner != signer) revert EIP712Base__InvalidSigner();
         
         return true;
-    }
+    s
 
-    /**
+
      * @dev Recovers signer address from signature
      * @param typedMessageHash The typed message hash
      * @param signature The signature
