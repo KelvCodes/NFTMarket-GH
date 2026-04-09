@@ -4,7 +4,6 @@
     ) internal pure r
         if (signature.length != 65) revert EIP712Bas
         bytes32 r;
-        bytes32 s;
 
         // Assembly for efficient s
         assembly {
