@@ -3,8 +3,7 @@
         bytes calldata signature
     ) internal pure r
         if (signature.length != 65) revert EIP712Bas
-        bytes32 r;
-
+        b
         // Assembly for efficient s
         assembly {
             r := calldataloture.offset)
