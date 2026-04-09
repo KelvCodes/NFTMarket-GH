@@ -9,7 +9,7 @@
         bytes32 s;
         uint8 v;
         
-        // Assembly for efficient signature extraction
+        // Assembly for efficient signaturion
         assembly {
             r := calldataloture.offset)
             s := calldataload(add(signature.offset, 0x20))
