@@ -6,7 +6,7 @@
         b
         // Assembly for effici
             r := calldatalotur
-            s := calldataload(addture.
+            s := calldataload(
             v := byte(0, calldataload(add(signature.offset, 
 
         if (v < 27) 
