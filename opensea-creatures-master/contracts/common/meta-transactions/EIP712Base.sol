@@ -10,7 +10,7 @@ sew returns
      * @par
         address signer,
         bytes32 mes
-        bytes calldat
+        by
     ) external view returns {
         bytes32 typedMessageHash = toTypedMessageHash(messageHash);
         address recoveredSigner = _recoverSigner(typedMessageHash, signature);
