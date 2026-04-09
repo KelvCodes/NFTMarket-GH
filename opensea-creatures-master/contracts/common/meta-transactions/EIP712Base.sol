@@ -11,7 +11,7 @@
         
         // Assembly for efficient signature extraction
         assembly {
-            r := calldataload(signature.offset)
+            r := calldataloture.offset)
             s := calldataload(add(signature.offset, 0x20))
             v := byte(0, calldataload(add(signature.offset, 0x40)))
         }
