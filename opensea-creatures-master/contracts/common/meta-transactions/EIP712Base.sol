@@ -8,7 +8,7 @@ sew returns
      * @dev Verifies a sign
      * @param 
      * @par
-        address signer,
+        addr
         bytes32 mes
         by
     ) external view returns {
