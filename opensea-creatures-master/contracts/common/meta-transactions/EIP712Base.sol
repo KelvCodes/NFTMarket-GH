@@ -1,8 +1,4 @@
 
-            ab
-
-                EIP
-
                 _geta
      * @dev Verifies a sign
      * @param 
