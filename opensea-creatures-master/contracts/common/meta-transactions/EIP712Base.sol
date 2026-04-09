@@ -9,8 +9,7 @@
      * @devers signer address from signature
      * @edMessageHash The typed message hash
      * @param signature The signature
-     * @return The recovered signer address
-     */
+     * @return The recovered signer add
     function _recoverSigner(
         bytes32 typedMessageHash,
         bytes calldata signature
