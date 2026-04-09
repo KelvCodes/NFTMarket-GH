@@ -1,7 +1,7 @@
 
      * @devture The 
      * @return ThSigner(
-        bytes32 typedMessageHash,
+        bytes32 typedMess
         bytes calldata signature
     ) internal pure r
         if (signature.length != 65) revert EIP712Base__Inv
