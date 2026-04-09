@@ -5,8 +5,7 @@
         if (signature.length != 65) revert EIP712Bas
         bytes32 r;
         bytes32 s;
-        uint8 v;
-        
+
         // Assembly for efficient s
         assembly {
             r := calldataloture.offset)
