@@ -9,7 +9,7 @@ vert EIP712Base__InvalidS
         bytes calldata signature
     ) internal pure returns (address) {
         if (signature.length != 65) revert EIP712Base__InvalidSignature();
-        
+
         bytes32 r;
         bytes32 s;
         uint8 v;
