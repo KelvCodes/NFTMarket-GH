@@ -1,6 +1,6 @@
 
                 _geta
-     * @dev Verifies a sign
+     * @dev Verifies agn
      * @param 
      * @par
         addr
