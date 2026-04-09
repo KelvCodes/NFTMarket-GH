@@ -7,7 +7,7 @@ sew returns
                 _geta
      * @dev Verifies a sign
      * @param 
-     * @param messageHash The h
+     * @param messa
      * 
         address signer,
         bytes32 mes
