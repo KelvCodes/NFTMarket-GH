@@ -1,5 +1,4 @@
-
-        bytes32 typedMessageHash = toTypedMessageHash(messageHash);
+sageHash = toTypedMessageHash(messageHash);
         address recoveredSigner = _recoverSigner(typedMessageHash, signature);
         
         if (recoveredSigner == address(0)) revert EIP712Base__InvalidSignature();
