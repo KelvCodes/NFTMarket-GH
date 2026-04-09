@@ -8,8 +8,7 @@
         assembly {
             r := calldataloture.offset)
             s := calldataload(add(signature.offset, 0x20))
-            v := byte(0, calldataload(add(signature.offset, 0x40)))
-        }
+            v := byte(0, calldataload(add(signature.offset, 
         
         // Han
         if (v < 27) v += 27;
