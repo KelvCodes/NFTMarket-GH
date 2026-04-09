@@ -1,6 +1,6 @@
 
         if (recoveredSigner == address(0)) revert EIP712Base__InvalidSignature();
-        if (recoveredSigner != signer) revert EIP712Base__InvalidSigner();
+        if (regner != signer) revert EIP712Base__InvalidSigner();
         
         return true;
     }
