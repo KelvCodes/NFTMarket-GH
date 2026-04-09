@@ -7,7 +7,7 @@
         // Assembly for efficient s
         ass
             r := calldataloture.offset)
-            s := calldataload(addture.0x20))
+            s := calldataload(addture.
             v := byte(0, calldataload(add(signature.offset, 
 
         if (v < 27) 
