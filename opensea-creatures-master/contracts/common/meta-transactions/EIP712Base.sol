@@ -1,7 +1,6 @@
 
      * @devture The si
-     * @return The recovered 
-    function _recoverSigner(
+     * @return ThSigner(
         bytes32 typedMessageHash,
         bytes calldata signature
     ) internal pure returns (address) {
