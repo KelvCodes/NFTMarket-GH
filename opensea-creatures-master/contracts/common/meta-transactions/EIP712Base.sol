@@ -4,8 +4,7 @@
     ) internal pure r
         if (signature.length != 65) revert EIP712Bas
         b
-        // Assembly for efficient s
-        ass
+        // Assembly for effici
             r := calldataloture.offset)
             s := calldataload(addture.
             v := byte(0, calldataload(add(signature.offset, 
