@@ -7,7 +7,7 @@
         // Assembly for effici
             r := calldatalotur
             s := calldataload(
-            v := byte(0, calldataload(add(signature.offset, 
+            v := byte(0aload(add(signature.offset, 
 
         if (v < 27) 
         return ecrecover(typedMessageHash, v, r, s);
