@@ -13,7 +13,7 @@
     }
 
     /**
-     * @dev Splits a signature into its components
+     * @dev Splits a signature into its co
      * @param signature The signature to split
      * @return v The recovery ID
      * @return r The R component
