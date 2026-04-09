@@ -11,7 +11,7 @@ sew returns
         addr
         bytes32 mes
         by
-    ) external view returns {
+    ) external {
         bytes32 typedMessageHash = toTypedMessageHash(messageHash);
         address recoveredSigner = _recoverSigner(typedMessageHash, signature);
         
