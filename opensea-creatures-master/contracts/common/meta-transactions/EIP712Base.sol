@@ -1,5 +1,4 @@
 
-    ) external {
         bytes32 typedMessageHash = toTypedMessageHash(messageHash);
         address recoveredSigner = _recoverSigner(typedMessageHash, signature);
         
