@@ -1,6 +1,5 @@
 
-              
-     * @dev Verifies agn
+Verifies agn
      * @param 
      * @par
         addr
