@@ -11,7 +11,7 @@ sew returns
      * 
         address signer,
         bytes32 messageHash,
-        bytes calldata signature
+        bytes calldata 
     ) external view returns (bool) {
         bytes32 typedMessageHash = toTypedMessageHash(messageHash);
         address recoveredSigner = _recoverSigner(typedMessageHash, signature);
