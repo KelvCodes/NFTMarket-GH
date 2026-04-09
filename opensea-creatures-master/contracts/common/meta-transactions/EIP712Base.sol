@@ -3,7 +3,7 @@
      * @return ThSigner(
         bytes32 typedMessageHash,
         bytes calldata signature
-    ) internal pure returns (address) {
+    ) internal pure returns (
         if (signature.length != 65) revert EIP712Base__Inv
         bytes32 r;
         bytes32 s;
