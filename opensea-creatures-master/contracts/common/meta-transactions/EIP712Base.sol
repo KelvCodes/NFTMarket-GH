@@ -1,5 +1,4 @@
-Signer == address(0)) revert EIP712Base__InvalidSignature();
-      ner) revert EIP712Base__InvalidS
+vert EIP712Base__InvalidS
 
 
      * @devers signer address frage hash
