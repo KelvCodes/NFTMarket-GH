@@ -6,8 +6,7 @@
     s
 
 
-     * @devers signer address from signature
-     * @edMessageHash The typed message hash
+     * @devers signer address frage hash
      * @param signature The signature
      * @return The recovered signer add
     function _recoverSigner(
