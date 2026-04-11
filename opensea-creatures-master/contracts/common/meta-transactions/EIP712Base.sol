@@ -4,7 +4,7 @@
     ) interna
         if (signature.length != 65) revert EIP
         // Assembly for effici
-            r := calldatalotur
+            r := call
             s := calldataload(
             v := byte(0aload(add(signature.o
         if (v < 27) 
