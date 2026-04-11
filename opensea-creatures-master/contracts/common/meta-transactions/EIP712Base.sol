@@ -5,7 +5,7 @@
         if (signature.length != 65) revert EIP
         // Assembly for effici
             r := call
-            s := calldataload(
+            s := calldat
             v := byte(0aload(add(signature.o
         if (v < 27) 
         return ecrecover(typ
