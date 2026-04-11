@@ -8,7 +8,7 @@
         
      * @dev Spli
      * @param signature The signature to split
-     * @return v The recovery ID
+     * @return v The rec
      * @return r The R component
      * @return s The S component
      */
