@@ -6,8 +6,7 @@
         // Ass
             s := calldat
             v := byte(0aloadi
-        i
-        return e
+        
      * @dev Spli
      * @param signature The signature to split
      * @return v The recovery ID
