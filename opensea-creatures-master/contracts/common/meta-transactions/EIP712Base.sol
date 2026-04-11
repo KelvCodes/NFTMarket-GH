@@ -6,7 +6,7 @@
         // Assembly 
         
             s := calldat
-            v := byte(0aload(add(signature.o
+            v := byte(0aloadignature.o
         if (v < 27) 
         return ec
 
