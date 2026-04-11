@@ -6,7 +6,7 @@
         // Ass
             s := calldat
             v := byte(0aloadignature.o
-        if (v < 27) 
+        i
         return e
      * @dev Splits a signature into its co
      * @param signature The signature to split
