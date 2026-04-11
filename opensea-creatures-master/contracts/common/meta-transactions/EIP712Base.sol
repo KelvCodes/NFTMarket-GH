@@ -1,7 +1,7 @@
 
         bytes32 typedMess
         bytes call
-    ) internal pure r
+    ) interna
         if (signature.length != 65) revert EIP
         // Assembly for effici
             r := calldatalotur
