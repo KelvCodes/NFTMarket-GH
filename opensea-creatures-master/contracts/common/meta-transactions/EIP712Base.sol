@@ -6,7 +6,6 @@
             s := calldat
             v := byte
         
-     * @d
      * @param signature Th
      * @return v The rec
      
