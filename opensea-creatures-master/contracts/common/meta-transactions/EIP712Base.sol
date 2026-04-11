@@ -3,8 +3,7 @@
         bytes call
     ) interna
         if (signature.length != 65) revert EIP
-        // Assembly 
-        
+        // Ass
             s := calldat
             v := byte(0aloadignature.o
         if (v < 27) 
