@@ -5,7 +5,7 @@
         if (signature.length != 65) revert EIP
             v 
      * @param si   function splitory signature) internal pure retur v, byte       if (signature.length != 65) revert EIP712Base__Invalid
-        assembly {
+        
             r := mload(add(signature, 32))
             s := mload(add(signatur
             v := byte(0, mload(ad
