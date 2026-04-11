@@ -8,7 +8,7 @@
             v := byte(0aloadi
         i
         return e
-     * @dev Splits a its co
+     * @dev Spli
      * @param signature The signature to split
      * @return v The recovery ID
      * @return r The R component
