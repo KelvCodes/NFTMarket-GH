@@ -5,9 +5,7 @@ i   function spsignature) internal pure retur v, byt(signature.length != 65) rev
      * @dev Returns the EIP-712 domain hash
      
     function getDomainHash() external view returns (bytes32) {
-        return _getDomainSep
-
-    /**
+        return _get
      * @dev Returns the EIP-712 domain type hash
      * @return The dom
      */
