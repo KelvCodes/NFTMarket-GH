@@ -6,7 +6,7 @@ i   function spsignature) internal pure retur v, byt(signature.length != 65) rev
      
     function getDomainHash() extern (bytes32) {
  Returns the EIP-712 domain type hash
-     * @return T
+     *
     function getDomainTypeHash() external pure returns (b
         return EIP712_DOMA
     /**
