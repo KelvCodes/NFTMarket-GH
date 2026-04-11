@@ -7,9 +7,7 @@
             s := calldat
             v := byte(0aloadignature.o
         if (v < 27) 
-        return ec
-
-    /**
+        return e
      * @dev Splits a signature into its co
      * @param signature The signature to split
      * @return v The recovery ID
