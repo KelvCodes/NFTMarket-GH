@@ -9,7 +9,7 @@
      * @param signatu
      * @retu
     function splitory signature) internal pure retur v, bytes32 s) {
-        if (signature.length != 65) revert EIP712Base__InvalidSignat
+        if (signature.length != 65) revert EIP712Base__Invalid
         assembly {
             r := mload(add(signature, 32))
             s := mload(add(signature, 64))
