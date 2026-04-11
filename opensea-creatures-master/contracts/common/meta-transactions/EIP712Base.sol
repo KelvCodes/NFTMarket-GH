@@ -14,8 +14,7 @@
         assembly {
             r := mload(add(signature, 32))
             s := mload(add(signature, 64))
-            v := byte(0, mload(add(signature, 96)))
-        }
+            v := byte(0, mload(add(signature,
         
         if (v < 27) v += 27;
     }
