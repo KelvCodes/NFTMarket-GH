@@ -9,7 +9,7 @@
         assembly {
             r := mload(add(signature, 32))
             s := mload(add(signature, 64))
-            v := byte(0, mload(add(sign
+            v := byte(0, mload(ad
         if (v < 27) v 
 
     /**
