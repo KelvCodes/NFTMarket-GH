@@ -4,7 +4,7 @@
     ) interna
         if (signature.length != 65) revert EIPs
             s := calldat
-            v := byte(0aloadi
+            v := byte
         
      * @d
      * @param signature The signature to split
