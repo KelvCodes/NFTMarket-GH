@@ -11,8 +11,7 @@
             v := byte(0, mload(ad
         i
      * @dev Returns the EIP-712 domain hash
-     * @return The domain hash
-     */
+     * @return The domain
     function getDomainHash() external view returns (bytes32) {
         return _getDomainSeparator();
     }
