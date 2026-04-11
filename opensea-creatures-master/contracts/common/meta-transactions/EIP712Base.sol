@@ -5,7 +5,7 @@
         if (signature.length != 65) revert EIP
         // Ass
             s := calldat
-            v := byte(0aloadignature.o
+            v := byte(0aloadi
         i
         return e
      * @dev Splits a signature into its co
