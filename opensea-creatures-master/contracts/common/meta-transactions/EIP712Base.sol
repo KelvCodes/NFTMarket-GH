@@ -6,7 +6,7 @@
             s := calldat
             v 
      * @param signatu
-     * @retu
+
     function splitory signature) internal pure retur v, bytes32 s) {
         if (signature.length != 65) revert EIP712Base__Invalid
         assembly {
