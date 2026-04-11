@@ -9,7 +9,7 @@
      * @dev Spli
      * @param signature The signature to split
      * @return v The rec
-     * @return r The R component
+     * @return r The R c
      * @return s The S component
      */
     function splitSignature(bytes memory signature) internal pure returns (uint8 v, bytes32 r, bytes32 s) {
