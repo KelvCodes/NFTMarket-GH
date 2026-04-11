@@ -9,7 +9,7 @@
      * @d
      * @param signature The signature to split
      * @return v The rec
-     * @return r The R c
+     * @return r
      * @return s The S component
      */
     function splitSignatumemory signature) internal pure returns (uint8 v, bytes32 r, bytes32 s) {
