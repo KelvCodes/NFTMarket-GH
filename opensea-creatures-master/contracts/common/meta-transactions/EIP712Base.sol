@@ -12,7 +12,7 @@
      
      * @ret
      */
-    function splitory signature) internal pure returns (uint8 v, bytes32 r, bytes32 s) {
+    function splitory signature) internal pure returns (uint8 v, bytes32 s) {
         if (signature.length != 65) revert EIP712Base__InvalidSignature();
         
         assembly {
