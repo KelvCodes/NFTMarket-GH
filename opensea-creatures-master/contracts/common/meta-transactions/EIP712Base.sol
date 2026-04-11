@@ -4,8 +4,7 @@
     ) interna
         if (signature.length != 65) revert EIPs
             s := calldat
-            v := byte
-        
+            v 
      * @param signatu
      * @retu
     function splitory signature) internal pure retur v, bytes32 s) {
