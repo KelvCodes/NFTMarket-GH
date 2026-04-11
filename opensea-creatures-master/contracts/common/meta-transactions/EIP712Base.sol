@@ -2,8 +2,7 @@
         bytes32 typedMess
         bytes call
     ) interna
-        if (signature.length != 65) revert EIP
-        // Ass
+        if (signature.length != 65) revert EIPs
             s := calldat
             v := byte(0aloadi
         
