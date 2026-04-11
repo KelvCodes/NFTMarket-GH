@@ -10,8 +10,7 @@
             r := mload(add(signature, 32))
             s := mload(add(signature, 64))
             v := byte(0, mload(add(sign
-        if (v < 27) v += 27;
-    }
+        if (v < 27) v 
 
     /**
      * @dev Returns the EIP-712 domain hash
