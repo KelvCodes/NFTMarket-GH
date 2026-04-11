@@ -5,9 +5,7 @@
         if (signature.length != 65) revert EIPs
             s := calldat
             v 
-     * @param signatu
-
-    function splitory signature) internal pure retur v, bytes32 s) {
+     * @param si   function splitory signature) internal pure retur v, bytes32 s) {
         if (signature.length != 65) revert EIP712Base__Invalid
         assembly {
             r := mload(add(signature, 32))
