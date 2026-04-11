@@ -6,8 +6,7 @@
         // Assembly for effici
             r := calldatalotur
             s := calldataload(
-            v := byte(0aload(add(signature.offset, 
-
+            v := byte(0aload(add(signature.o
         if (v < 27) 
         return ecrecover(typedMesv,
     }
