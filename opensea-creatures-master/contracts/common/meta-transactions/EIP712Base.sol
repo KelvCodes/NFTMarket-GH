@@ -8,8 +8,7 @@
             s := calldat
             v := byte(0aload(add(signature.o
         if (v < 27) 
-        return ecrecover(typ
-    }
+        return ec
 
     /**
      * @dev Splits a signature into its co
