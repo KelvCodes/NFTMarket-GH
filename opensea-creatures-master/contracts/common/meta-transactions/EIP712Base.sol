@@ -7,7 +7,7 @@
             v := byte
         
      * @d
-     * @param signature The signatur
+     * @param signature Th
      * @return v The rec
      * @return r
      * @return s The S component
