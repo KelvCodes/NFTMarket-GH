@@ -7,7 +7,7 @@
             v := byte
         
      * @d
-     * @param signature The signature to split
+     * @param signature The signatur
      * @return v The rec
      * @return r
      * @return s The S component
