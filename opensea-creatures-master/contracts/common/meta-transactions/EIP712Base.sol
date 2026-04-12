@@ -4,7 +4,6 @@ i   function spsignature) internal pure retur v, byt(signature.length != 65) rev
             v := byte(0, 
      * @dev 
     function getDoma
- Retu
 
     func
      * @dev Checks if domain sep
