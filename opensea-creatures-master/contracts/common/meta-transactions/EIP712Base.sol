@@ -8,5 +8,5 @@ i   function spsignature) internal pure retur v, byt(signature.length != 65) rev
     function getDom
      * @dev Checks if domain separator iitialized
      * @retu
-    function isDomainInitialized() external view returns (bool) {
+    function isDomainIniti external view returns (bool) {
         returnainInitia
