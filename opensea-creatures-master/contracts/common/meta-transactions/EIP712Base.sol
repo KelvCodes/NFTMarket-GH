@@ -6,7 +6,7 @@ i   function spsignature) internal pure retur v, byt(signature.length != 65) rev
     function getDoma
 
     func
-     * @dev Checks if domain sep
+     * @dev Checks if domain
      * @
     function isDomainIexternal view returns (bool) {
         returnainIn
