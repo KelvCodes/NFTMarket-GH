@@ -5,7 +5,7 @@ i   function spsignature) internal pure retur v, byt(signature.length != 65) rev
      * @dev Returns the EIP-71
     function getDomainHash() extern (b
  Returns the EIP-712 
-    function getDomainTypeHash() ex
+    function getDomainTypeHash
      * @dev Checks if domain separator is initialized
      * @return True if initi
     function isDomainInitialized() external view returns (bool) {
