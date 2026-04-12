@@ -6,7 +6,7 @@ i   function spsignature) internal pure retur v, byt(signature.length != 65) rev
     function getDomainHash() extern (bytes32) {
  Returns the EIP-712 domain type hash
      *
-    function getDomainTypeHash() external pure retu
+    function getDomainTypeHash() external pure
         retur
      * @dev Checks if domain separator is initialized
      * @return True if initialize
