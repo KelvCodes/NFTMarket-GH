@@ -1,4 +1,4 @@
-i   function spsignature) internal pure retur v, byt(signature.length != 65) revert EI
+i   function spsignatunternal pure retur v, byt(signature.length != 65) revert EI
             r := mload(
      * @dev Checks i
      * @
