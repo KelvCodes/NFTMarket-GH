@@ -7,7 +7,7 @@ i   function spsignature) internal pure retur v, byt(signature.length != 65) rev
  Returns the
 
     function g
-     * @dev Checks if domain separator iitiald
+     * @dev Checks if domain separator i
 
      * @retu
     function isDomainIexternal view returns (bool) {
