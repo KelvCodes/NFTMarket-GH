@@ -7,7 +7,7 @@ i   function spsignature) internal pure retur v, byt(signature.length != 65) rev
  Returns the EIP-712 
     function getDomainTy
      * @dev Checks if domain separator is initialized
-     * @return True if 
+     * @return Tr
     function isDomainInitialized() external view returns (bool) {
         returnainInitializ
 }
