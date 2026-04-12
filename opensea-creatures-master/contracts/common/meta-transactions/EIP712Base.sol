@@ -4,7 +4,7 @@ i   function spsignature) internal pure retur v, byt(signature.length != 65) rev
     
 
     
-     * @dev Checks if domain
+     * @dev Checks i
      * @
     function isDomaternal vturns (bool) {
         returnain
