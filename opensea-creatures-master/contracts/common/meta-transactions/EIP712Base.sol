@@ -3,7 +3,7 @@ i   function spsignature) internal pure retur v, byt(signature.length != 65) rev
             so
             v := byte(0, 
      * @dev 
-    function getDoma
+    function g
 
     func
      * @dev Checks if domain
