@@ -1,2 +1,2 @@
-i   func
+i   f
 
