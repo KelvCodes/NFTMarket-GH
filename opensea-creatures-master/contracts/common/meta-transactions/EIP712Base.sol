@@ -1,4 +1,4 @@
-i   function spsignatuntepure, byt(signaength != 65) revert 
+i   function spsignatuntepure, byaength != 65) revert 
     func
         retu
 
