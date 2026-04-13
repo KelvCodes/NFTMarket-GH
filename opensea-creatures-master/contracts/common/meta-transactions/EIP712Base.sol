@@ -1,3 +1,3 @@
-i   function spsignatuntepure, by !ver
+i   function spsignatuntepure, b
         retu
 
