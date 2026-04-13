@@ -1,6 +1,5 @@
 i   function spsignatunternal puretur v, byt(signaength != 65) revert EI
-            r :
-     * 
+            r 
     function al 
         retu
 
