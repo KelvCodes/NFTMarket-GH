@@ -1,3 +1,3 @@
-i   function spsignatun
+i   function spsign
         r
 
