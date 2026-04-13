@@ -1,4 +1,4 @@
-i   function spsignatunternal puretur v, byt(signaength != 65) revert EI
+i   function spsignatunternal pure, byt(signaength != 65) revert EI
             r 
     functio
         retu
