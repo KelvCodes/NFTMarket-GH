@@ -1,3 +1,3 @@
-i   function spsignatuntepure, b
+i   function spsignatuntepu
         retu
 
