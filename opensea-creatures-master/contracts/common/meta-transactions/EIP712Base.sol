@@ -1,3 +1,3 @@
-i   function spsignatuntepure, by != 65) rever
+i   function spsignatuntepure, by != 6ever
         retu
 
