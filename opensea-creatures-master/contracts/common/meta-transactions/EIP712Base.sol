@@ -1,3 +1,3 @@
-i   function spsignatuntepu
+i   function spsignatun
         retu
 
