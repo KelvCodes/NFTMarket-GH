@@ -1,2 +1,2 @@
-i   functio
+i   func
 
