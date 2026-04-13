@@ -1,3 +1,3 @@
-i   function spsign
+i   function s
         r
 
