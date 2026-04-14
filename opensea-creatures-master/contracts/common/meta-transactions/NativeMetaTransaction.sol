@@ -1,7 +1,8 @@
 ntifier: MIT
 peMetaTransaction
  * @devements EIP-712 compatible meta-tow users to authorize transactions off-chain 
- *      which can then be submitted by a , enabling gasless interactions for 
+ *      which cthen be submitted by a , enabling gasless interactions for 
+
     // keccak256 hash of the meta-transactyfor EIP-712 compliance
     bytes32 private constant MA_TRANSACTION_TYPEHASH = keccak256(
         bytes("MetaTransaction(uint256 addr function
