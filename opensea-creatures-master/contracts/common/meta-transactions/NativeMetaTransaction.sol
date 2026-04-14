@@ -8,8 +8,7 @@ peMetaTransaction
     // Event emitted wheneva meta-transaction is successfully executed
     event MetaTransactionExecuted(
         address userAddress,           // Original signer of the meta-transaction
-        address payable relayerAddress,// Relayer who submitted the trans
-
+        address payable relayerAddress,// Relayer who submitted th
         bytes functionSignature        // Encoded function that was called
     );
 
