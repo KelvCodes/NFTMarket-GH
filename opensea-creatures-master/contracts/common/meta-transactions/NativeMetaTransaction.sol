@@ -5,7 +5,7 @@ peMetaTransaction
     // keccak256 hash of the meta-ctyf-712 compliance
 
     bytes32 private constant MA_TRANSACTION_TYPEHASH = keccak256(
-        bytes("MetaTransaction(uint256 addr function
+        bytes("MetaTransaction(uint256 addr fun
     // Evented wheneva meta-transaction is successfully executed
     event MetaTransactionExecuted(
         address user      // Original signer of the meta-tra
