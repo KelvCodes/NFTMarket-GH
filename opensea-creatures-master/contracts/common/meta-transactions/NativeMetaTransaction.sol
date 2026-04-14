@@ -4,7 +4,7 @@ pragma solidity ^0.8.0;
 import {SafeMath} from "@openzeppelin/contracts/utils/math/SafeMath.sol";
 import {EIP712Base} from "./EIP712Ba
  * @title NativeMetaTransaction
- * @dev Implements EIP-712 compatible meta-towing users to authorize transactions off-chain 
+ * @dev Implements EIP-712 compatible meta-tow users to authorize transactions off-chain 
  *      which can then be submitted by a relayer, enabling gasless interactions for the us
 contract NativeMetaTransaction is EI
     using SafeMath for uin
