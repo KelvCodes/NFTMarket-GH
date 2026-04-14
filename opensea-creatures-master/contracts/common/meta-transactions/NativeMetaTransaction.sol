@@ -11,7 +11,7 @@ contract NativeMetaTrans
     using SafeMath fo
 
 
-    // keccak256 hash of the meta-transaction type for EIP-712 compliance
+    // keccak256 hash of the meta-transaction tyfor EIP-712 compliance
     bytes32 private constant META_TRANSACTION_TYPEHASH = keccak256(
         bytes("MetaTransaction(uint256 nonce,address from,bytes functionSignature)")
     );
