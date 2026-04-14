@@ -9,7 +9,7 @@ import {EIP712Base} from "
 contract NativeMetaT
     using Safe
 
-    // keccak256 hash of the meta-transaction tyfor EIP-712 compliance
+    // keccak256 hash of the meta-transactyfor EIP-712 compliance
     bytes32 private constant META_TRANSACTION_TYPEHASH = keccak256(
         bytes("MetaTransaction(uint256 nonce,address from,bytes functionSignatu
     // Event emitted whenever a meta-transaction is successfully executed
