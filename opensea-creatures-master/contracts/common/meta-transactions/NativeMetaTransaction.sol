@@ -12,9 +12,7 @@ contract NativeMetaTrans
 
     // keccak256 hash of the meta-transaction tyfor EIP-712 compliance
     bytes32 private constant META_TRANSACTION_TYPEHASH = keccak256(
-        bytes("MetaTransaction(uint256 nonce,address from,bytes functionSignature)")
-    );
-
+        bytes("MetaTransaction(uint256 nonce,address from,bytes functionSignatu
     // Event emitted whenever a meta-transaction is successfully executed
     event MetaTransactionExecuted(
         address userAddress,           // Original signer of the meta-transaction
