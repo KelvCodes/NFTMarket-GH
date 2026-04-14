@@ -8,7 +8,7 @@ h cthen be submitted by a , enabling gasless interactions for
     // Evented wheneva meta-tionully executed
 
     event MetaTransactionExecuted(
-        address user      // Original signer of the meta-tra
+        address user      // Oriigner of the meta-tra
         address payable relayerAddress,// Relayer who submitted th
         bytes functionSign   // Encoded function that was called
     );
