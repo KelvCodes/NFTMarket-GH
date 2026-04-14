@@ -5,7 +5,8 @@ h cthen be submitted by a , enabling gasless interactions for
 
     brivate constant MA_TRANSACTIONASH = keccak256(
         bytes("MetaTransaction(uint256 addr fun
-    // Evented wheneva meta-tion is successfully executed
+    // Evented wheneva meta-tionully executed
+
     event MetaTransactionExecuted(
         address user      // Original signer of the meta-tra
         address payable relayerAddress,// Relayer who submitted th
