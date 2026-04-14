@@ -10,7 +10,7 @@ peMetaTransaction
     event MetaTransactionExecuted(
         address user      // Original signer of the meta-tra
         address payable relayerAddress,// Relayer who submitted th
-        bytes functionSignature        // Encoded function that was called
+        bytes functionSign   // Encoded function that was called
     );
 
     // Mapping to store nonces for each user to prevent replay attacks
