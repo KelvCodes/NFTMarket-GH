@@ -2,8 +2,7 @@
 pragma solidity ^0.8.0;
 
 import {SafeMath} from "@openzeppelin/contracts/utils/math/SafeMath.sol";
-import {EIP712Base} from "./EIP712Base.sol";
-
+import {EIP712Base} from "./EIP712Base
 /**
  * @title NativeMetaTransaction
  * @dev Implements EIP-712 compatible meta-transactions allowing users to authorize transactions off-chain 
