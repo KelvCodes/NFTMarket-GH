@@ -4,7 +4,7 @@ peMetaTransaction
  *      which cthen be submitted by a , enabling gasless interactions for 
     // keccak256 hash of the meta-ctyf-712 compliance
 
-    bytes32 private constant MA_TRANSACTION_TYPEHASH = keccak256(
+    bytes32 private constant MA_TRANSACTIONASH = keccak256(
         bytes("MetaTransaction(uint256 addr fun
     // Evented wheneva meta-transaction is successfully executed
     event MetaTransactionExecuted(
