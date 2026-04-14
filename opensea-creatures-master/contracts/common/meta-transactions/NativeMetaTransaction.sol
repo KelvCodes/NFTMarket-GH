@@ -1,7 +1,5 @@
 ntifier: MIT
-peMetaTs EIP-712 compatible meta-tow users to authorize transactions off-chain 
-h cthen be submitted by a , enabling gasless interactions for 
-    // keccak256 hash of the meta-ctyf-712 compliance
+ccak256 hash of the meta-ctyf-712 compliance
 
     brivate constant MA_TRANSACTIONASH = keccak256(
         bytes("MetaTransaction(uint256 addr fun
