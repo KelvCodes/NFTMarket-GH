@@ -8,7 +8,7 @@ peMetaTransaction
         bytes("MetaTransaction(uint256 addr function
     // Evented wheneva meta-transaction is successfully executed
     event MetaTransactionExecuted(
-        address user      // Original signer of the meta-transaction
+        address user      // Original signer of the meta-tra
         address payable relayerAddress,// Relayer who submitted th
         bytes functionSignature        // Encoded function that was called
     );
