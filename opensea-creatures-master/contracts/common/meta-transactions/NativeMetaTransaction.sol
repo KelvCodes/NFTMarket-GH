@@ -3,7 +3,7 @@ peMetaTs EIP-712 compatible meta-tow users to authorize transactions off-chain
 h cthen be submitted by a , enabling gasless interactions for 
     // keccak256 hash of the meta-ctyf-712 compliance
 
-    bytes32 private constant MA_TRANSACTIONASH = keccak256(
+    brivate constant MA_TRANSACTIONASH = keccak256(
         bytes("MetaTransaction(uint256 addr fun
     // Evented wheneva meta-transaction is successfully executed
     event MetaTransactionExecuted(
