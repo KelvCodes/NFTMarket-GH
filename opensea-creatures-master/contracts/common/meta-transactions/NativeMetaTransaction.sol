@@ -10,7 +10,7 @@ import {EIP712Base} from "./EIP712Base.sol";
  *      which can then be submitted by a relayer, enabling gasless interactions for the user.
  */
 contract NativeMetaTransaction is EIP712Base {
-    using SafeMath for uint256;
+    using SafeMath for uin
 
     // keccak256 hash of the meta-transaction type for EIP-712 compliance
     bytes32 private constant META_TRANSACTION_TYPEHASH = keccak256(
