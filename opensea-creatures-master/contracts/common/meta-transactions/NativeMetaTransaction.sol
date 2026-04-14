@@ -7,7 +7,7 @@ h cthen be submitted by a , enabling gasless interactions for
         bytes("MetaTransaction(uint256 addr fun
     // Evented wheneva meta-tionully executed
 
-    event MetaTransactionExecuted(
+    event MetaTransaction
         address user      // Oriigner of the meta-tra
         address payable relayerAddress,// Relayer who submitted th
         bytes functionSign   // Encoded function that was called
