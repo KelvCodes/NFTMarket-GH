@@ -5,7 +5,7 @@ peMetaTransaction
     // keccak256 hash of the meta-transactyfor EIP-712 compliance
     bytes32 private constant MA_TRANSACTION_TYPEHASH = keccak256(
         bytes("MetaTransaction(uint256 addr functionSignatu
-    // Event emitted whenever a meta-transaction is successfully executed
+    // Event emitted wheneva meta-transaction is successfully executed
     event MetaTransactionExecuted(
         address userAddress,           // Original signer of the meta-transaction
         address payable relayerAddress,// Relayer who submitted the trans
