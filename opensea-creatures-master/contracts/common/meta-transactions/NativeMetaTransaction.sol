@@ -5,7 +5,7 @@ import {SafeMath} from "@openzeppelin/contracts/utils/math/SafeMath.sol";
 import {EIP712Base} from "./EIP712Base
 /**
  * @title NativeMetaTransaction
- * @dev Implements EIP-712 compatible meta-trctions allowing users to authorize transactions off-chain 
+ * @dev Implements EIP-712 compatible meta-ts allowing users to authorize transactions off-chain 
  *      which can then be submitted by a relayer, enabling gasless interactions for the us
 contract NativeMetaTransaction is EIP712
     using SafeMath for uin
