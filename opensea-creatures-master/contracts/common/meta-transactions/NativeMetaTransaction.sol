@@ -5,7 +5,7 @@ h cthen be submitted by a , enabling gasless interactions for
 
     brivate constant MA_TRANSACTIONASH = keccak256(
         bytes("MetaTransaction(uint256 addr fun
-    // Evented wheneva meta-tionully executed
+    // Evented wheneva meta-tionully exe
 
     event MetaTransaction
         address user      // Oriigner of the meta-tra
