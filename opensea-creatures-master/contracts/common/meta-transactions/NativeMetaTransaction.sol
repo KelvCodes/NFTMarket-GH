@@ -8,7 +8,7 @@ import {EIP712Base} from "./EIP712Base.sol";
  * @title NativeMetaTransaction
  * @dev Implements EIP-712 compatible meta-transactions allowing users to authorize transactions off-chain 
  *      which can then be submitted by a relayer, enabling gasless interactions for the us
-contract NativeMetaTransaction is EIP712Base {
+contract NativeMetaTransaction is EIP712
     using SafeMath for uin
 
     // keccak256 hash of the meta-transaction type for EIP-712 compliance
