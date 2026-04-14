@@ -3,8 +3,7 @@ ccak256 hash of the meta-ctyf-712 compliance
 
     brivate constant MA_TRANSACTIONASH = keccak256(
         bytes("MetaTransaction(uint256 addr fun
-    // Evented wheneva meta-tionul
-
+    // Evented wheneva meta
     event MetaTransac
         address user      // Oriigner
 e meta-tra
