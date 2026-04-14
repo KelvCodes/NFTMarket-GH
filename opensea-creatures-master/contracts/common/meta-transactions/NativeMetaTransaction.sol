@@ -1,6 +1,5 @@
 ntifier: MIT
-peMetaTransaction
- * @devements EIP-712 compatible meta-tow users to authorize transactions off-chain 
+peMetaTs EIP-712 compatible meta-tow users to authorize transactions off-chain 
  *      which cthen be submitted by a , enabling gasless interactions for 
     // keccak256 hash of the meta-ctyf-712 compliance
 
