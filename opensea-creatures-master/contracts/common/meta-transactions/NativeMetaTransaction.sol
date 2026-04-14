@@ -5,7 +5,7 @@ ccak256 hash of the meta-ctyf-712 compliance
         bytes("MetaTransaction(uint256 addr fun
     // Evented wheneva meta
     event MetaTransac
-        address user      // Oriigner
+        address user      // Or
 e meta-tra
         address payable relayerAddress,// Relayer who submitted th
         bytes functionSign   // Encoded function that was called
