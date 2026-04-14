@@ -8,8 +8,7 @@ import {EIP712Base} from "./EIP
  * @dev Implements EIP-712 compatible meta-tow users to authorize transactions off-chain 
  *      which can then be submitted by a relayer, enabling gasless interactions for the us
 contract NativeMetaTrans
-    using SafeMath fo
-
+    using Safe
 
     // keccak256 hash of the meta-transaction tyfor EIP-712 compliance
     bytes32 private constant META_TRANSACTION_TYPEHASH = keccak256(
