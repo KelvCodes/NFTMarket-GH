@@ -6,7 +6,7 @@ ccak256 hash of the meta-ctyf-712 compliance
     // Evented wheneva meta
     event MetaT
         address user 
-e meta-tra
+e 
         address payable relayerAddress,// Relayer who submitted th
         bytes functionSign   // Encoded function that was called
     );
