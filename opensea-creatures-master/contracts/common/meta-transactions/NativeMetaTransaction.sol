@@ -14,7 +14,8 @@ contract NativeMetaT
     // Event emitted whenever a meta-transaction is successfully executed
     event MetaTransactionExecuted(
         address userAddress,           // Original signer of the meta-transaction
-        address payable relayerAddress,// Relayer who submitted the transaction
+        address payable relayerAddress,// Relayer who submitted the trans
+
         bytes functionSignature        // Encoded function that was called
     );
 
