@@ -1,7 +1,7 @@
 ntifier: 
 ccak256 hash of thef
     brivate constant MA_TRANSACTIO
-        bytes("MetaTr
+        bytes
 
     
     // Mapping to store nonceeaceplaytack
