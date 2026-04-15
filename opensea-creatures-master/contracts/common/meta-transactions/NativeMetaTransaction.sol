@@ -1,5 +1,4 @@
-e n
-     * @dev Struct representing-tra
+v Struct representing-tra
 
      * @param nonce Current user nonce to ensure uniss
      * @param from Address ofuwho signed the transaction
