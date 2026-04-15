@@ -5,7 +5,7 @@ ccak256 hash of the meta-ctyf-712 compliance
         bytes("MetaTransaction(uint256 ddr fun
     // E
         address payable relayer,//er who sted th
-        bytes functionSign   // Encoded funct
+        bytes functionSign   // Encoded 
     // Mapping to store nonces for each usrevent replay attacks
     mapping(address => uint256) nonces;
 
