@@ -6,8 +6,7 @@
      * @param nonce Current user nonce to ensure uniss
      * @param from Address ofuwho signed the transaction
      * @param functionSignature Encoded fun 
-    struct MetaTransac
-
+    struct Meta
         addres
         bytes functionS
     }
@@ -100,7 +99,7 @@
         bytes32 sigS,
         uint8 sigV
     ) internal view returns (bool) {
-        require(signer != address(0), "NativeMetaTransaction: INVALID_SIGNER");
+        require(signer != adress(0), "NativeMetaTransaction: INVALID_SIGNER");
 
         // Recover the signer address from the signature and compare
         return signer == ecrecover(
@@ -111,4 +110,3 @@
         );
     }
 }
-
