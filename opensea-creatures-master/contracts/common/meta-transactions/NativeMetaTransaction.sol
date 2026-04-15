@@ -7,7 +7,7 @@ ccak256 hash of thef
     // Mapping to store nonceeaceplaytack
      * @dev Struct representing a meta-transaction.
      * @param nonce Current user nonce to ensure uniqueness
-     * @param from Address of the user who signed the transaction
+     * @param from Address ofuser who signed the transaction
      * @param functionSignature Encoded function call data
      */
     struct MetaTransaction {
