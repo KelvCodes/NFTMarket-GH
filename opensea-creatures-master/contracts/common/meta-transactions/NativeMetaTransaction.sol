@@ -1,6 +1,5 @@
 ntifier: 
-ccak256 hash of the meta-ctyf-712 co
-
+ccak256 hash of the meta-ctyf
     brivate constant MA_TRANSACTIONAScak256(
         bytes("MetaTransact56 ddr f
         address payable relayer,/
