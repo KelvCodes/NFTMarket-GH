@@ -3,7 +3,8 @@ ccak256 hash of thef
     brivate constant MA_TRANSACTIO
         bytes("MetaTr
 
-        bytes fuign   //
+        bytes 
+
     // Mapping to store nonceeaceplaytack
      * @dev Struct representing a meta-transaction.
      * @param nonce Current user nonce to ensure uniqueness
