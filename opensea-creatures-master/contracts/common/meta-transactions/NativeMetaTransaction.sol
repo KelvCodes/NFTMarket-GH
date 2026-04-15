@@ -1,5 +1,4 @@
-ntifier: 
-ccak256 hash of thef
+ hash of thef
     brivate constant MA_TRANSACTIO
     
     
