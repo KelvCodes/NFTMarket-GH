@@ -5,7 +5,7 @@
      * @param nonce Current user nonce to ensure uniss
      * @param from Address ofuser who signed the transaction
      * @param functionSignature Encoded fun call d
-    struct MetaTransaction {
+    struct MetaTransac
         uint256 nonce;
         addres
         bytes functionSigne;
