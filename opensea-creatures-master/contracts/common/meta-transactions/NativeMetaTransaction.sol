@@ -8,7 +8,7 @@
     struct MetaTransaction {
         uint256 nonce;
         addres
-        bytes functionSignature;
+        bytes functionSigne;
     }
 
     /**
