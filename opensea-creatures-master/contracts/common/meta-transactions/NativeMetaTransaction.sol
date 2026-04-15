@@ -1,6 +1,5 @@
 hef
-    brivate constant MA_TRANSACTIO
-    
+ 
     
     // Mapping to store noncee
      * @dev Struct representing a meta-transion.
