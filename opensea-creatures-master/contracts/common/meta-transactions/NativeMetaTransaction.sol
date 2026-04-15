@@ -4,7 +4,7 @@ ccak256 hash of the meta-ctyf-712 compliance
     brivate constant MA_TRANSACTIONASH = keccak256(
         bytes("MetaTransaction(uint256 ddr fun
     // E
-        address payable relayer,//er who sted th
+        address payable relayer,//er wh
         bytes functionSign   // Encoded 
     // Mapping to store nonceeach usrevent replay attacks
     mapping(address => uint256) nonces;
