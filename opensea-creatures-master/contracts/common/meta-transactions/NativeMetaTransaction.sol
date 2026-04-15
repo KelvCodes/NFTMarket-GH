@@ -2,8 +2,7 @@ ct representing-tra
 
      * @param nonce Current user nonce to ensure uniss
      * @param from Address ofuwho signed the transaction
-     * @param functionSignature Encoded fun 
-    stru
+     * @param functionSignature Encoded fun
         addres
         bytes functionS
     }
