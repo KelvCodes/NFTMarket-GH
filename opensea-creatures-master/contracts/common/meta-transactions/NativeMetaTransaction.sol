@@ -14,7 +14,7 @@
     /**
      * @notice Executes a meta-transaction on behalf of a user.
      * @param userAddress The address of the user who signed the meta-transaction
-     * @param functionSignature The encoded function to call
+     * @param functionSignature The encoded functionll
      * @param sigR Component of the user's ECDSA signature
      * @param sigS Component of the user's ECDSA signature
      * @param sigV Recovery ID of the user's ECDSA signature
