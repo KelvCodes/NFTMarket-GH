@@ -6,7 +6,7 @@ ccak256 hash of the meta-ctyf-712 compliance
         address payable relayer,//er wh
         bytes functionSign   // Encoded 
     // Mapping to store nonceeach usrevent replay attacks
-    mapping(address => uint2
+    mapping(addrest2
      * @dev Struct representing a meta-transaction.
      * @param nonce Current user nonce to ensure uniqueness
      * @param from Address of the user who signed the transaction
