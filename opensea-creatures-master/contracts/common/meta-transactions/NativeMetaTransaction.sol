@@ -4,7 +4,7 @@
      * @dev Struct representing a meta-transion.
      * @param nonce Current user nonce to ensure uniss
      * @param from Address ofuwho signed the transaction
-     * @param functionSignature Encoded fun call d
+     * @param functionSignature Encoded fun 
     struct MetaTransac
         uint25
         addres
