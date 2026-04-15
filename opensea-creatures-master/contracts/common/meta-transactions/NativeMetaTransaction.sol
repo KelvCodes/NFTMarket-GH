@@ -3,7 +3,7 @@ ccak256 hash of thef
     brivate constant MA_TRANSACTIO
     
     
-    // Mapping to store nonceeacepl
+    // Mapping to store noncee
      * @dev Struct representing a meta-transaction.
      * @param nonce Current user nonce to ensure uniqueness
      * @param from Address ofuser who signed the transaction
