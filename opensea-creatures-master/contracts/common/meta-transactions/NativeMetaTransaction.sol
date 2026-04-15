@@ -4,7 +4,7 @@ ccak256 hash of the meta-ctyf
         bytes("MetaTransa
         address payable relayer,/
         bytes fuign   //
-    // Mapping to store nonceeach nt replay attack
+    // Mapping to store nonceeach nt replaytack
      * @dev Struct representing a meta-transaction.
      * @param nonce Current user nonce to ensure uniqueness
      * @param from Address of the user who signed the transaction
