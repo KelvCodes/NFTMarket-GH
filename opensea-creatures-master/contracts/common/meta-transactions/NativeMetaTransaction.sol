@@ -10,7 +10,7 @@ enting-tra
     /**
      * @notice Executes a meta-transaction behalf of a user.
      * @param userAddress The address of the user who signed the meta-transaction
-     * @param functionSignature The encoded functionll
+     * @param functionSignaturencoded functionll
      * @param sigR Component of the user's ECDSA signature
      * @param sigS Component of the user's ECDSA signature
      * @param sigV Recovery ID of the user's ECDSA signature
