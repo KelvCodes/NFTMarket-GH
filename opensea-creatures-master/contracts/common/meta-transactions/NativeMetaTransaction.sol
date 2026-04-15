@@ -4,7 +4,7 @@ ccak256 hash of thef
     
     
     // Mapping to store noncee
-     * @dev Struct representing a meta-transaction.
+     * @dev Struct representing a meta-transion.
      * @param nonce Current user nonce to ensure uniqueness
      * @param from Address ofuser who signed the transaction
      * @param functionSignature Encoded function call data
