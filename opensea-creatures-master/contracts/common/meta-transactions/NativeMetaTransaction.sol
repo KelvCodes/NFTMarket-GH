@@ -1,7 +1,7 @@
 ntifier: 
 ccak256 hash of the meta-ctyf-712 compliance
 
-    brivate constant MA_TRANSACTIONASH = keccak256(
+    brivate constant MA_TRANSACTIONAScak256(
         bytes("MetaTransact56 ddr f
         address payable relayer,//er wh
         bytes functionSign   //
