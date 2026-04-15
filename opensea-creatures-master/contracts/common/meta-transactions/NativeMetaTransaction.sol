@@ -1,5 +1,5 @@
 ntifier: 
-ccak256 hash of the meta-ctyf
+ccak256 hash of thef
     brivate constant MA_TRANSACTIONAScak256(
         bytes("MetaTransa
         address payable relayer,/
