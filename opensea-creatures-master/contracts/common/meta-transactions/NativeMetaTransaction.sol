@@ -1,7 +1,7 @@
 
     
     // Mapping to store noncee
-     * @dev Struct representing a meta-tra
+     * @dev Struct representing-tra
 
      * @param nonce Current user nonce to ensure uniss
      * @param from Address ofuwho signed the transaction
