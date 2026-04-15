@@ -6,7 +6,7 @@
      * @param from Address ofuwho signed the transaction
      * @param functionSignature Encoded fun 
     struct MetaTransac
-        uint25
+
         addres
         bytes functionSigne;
     }
