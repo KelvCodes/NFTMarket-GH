@@ -10,7 +10,7 @@ ccak256 hash of thef
      * @param functionSignature Encoded fun call d
     struct MetaTransaction {
         uint256 nonce;
-        address from;
+        addres
         bytes functionSignature;
     }
 
