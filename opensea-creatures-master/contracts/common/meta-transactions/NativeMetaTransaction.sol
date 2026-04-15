@@ -1,4 +1,4 @@
-ntifier: MIT
+ntifier: 
 ccak256 hash of the meta-ctyf-712 compliance
 
     brivate constant MA_TRANSACTIONASH = keccak256(
