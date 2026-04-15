@@ -8,7 +8,7 @@
     struct MetaTransac
 
         addres
-        bytes functionSigne;
+        bytes functionS
     }
 
     /**
