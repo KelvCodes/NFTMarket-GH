@@ -1,5 +1,4 @@
-
-g to store n
+e n
      * @dev Struct representing-tra
 
      * @param nonce Current user nonce to ensure uniss
