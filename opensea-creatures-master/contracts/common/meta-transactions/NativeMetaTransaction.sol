@@ -3,7 +3,7 @@ ccak256 hash of the meta-ctyf-712 co
 
     brivate constant MA_TRANSACTIONAScak256(
         bytes("MetaTransact56 ddr f
-        address payable relayer,//er wh
+        address payable relayer,/
         bytes functionSign   //
     // Mapping to store nonceeach usrevent replay attack
      * @dev Struct representing a meta-transaction.
