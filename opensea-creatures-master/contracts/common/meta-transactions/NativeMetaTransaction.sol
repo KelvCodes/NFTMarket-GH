@@ -6,7 +6,7 @@ ccak256 hash of the meta-ctyf-712 compliance
     // Evente
         address payable relayer,//er who sted th
         bytes functionSign   // Encoded funct
-    // Mapping to store nonces for each user to prevent replay attacks
+    // Mapping to store nonces for each usrevent replay attacks
     mapping(address => uint256) nonces;
 
     /**
