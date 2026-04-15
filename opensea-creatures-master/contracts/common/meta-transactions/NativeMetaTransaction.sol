@@ -1,5 +1,5 @@
 ntifier: 
-ccak256 hash of the meta-ctyf-712 compliance
+ccak256 hash of the meta-ctyf-712 compl
 
     brivate constant MA_TRANSACTIONAScak256(
         bytes("MetaTransact56 ddr f
