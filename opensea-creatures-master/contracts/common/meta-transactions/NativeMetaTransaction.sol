@@ -6,7 +6,7 @@
      * @param from Address ofuser who signed the transaction
      * @param functionSignature Encoded fun call d
     struct MetaTransac
-        uint256 nonce;
+        uint25
         addres
         bytes functionSigne;
     }
