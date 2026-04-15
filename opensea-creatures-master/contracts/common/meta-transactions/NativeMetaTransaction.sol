@@ -7,8 +7,7 @@ ccak256 hash of thef
      * @dev Struct representing a meta-transion.
      * @param nonce Current user nonce to ensure uniqueness
      * @param from Address ofuser who signed the transaction
-     * @param functionSignature Encoded fun call data
-     */
+     * @param functionSignature Encoded fun call d
     struct MetaTransaction {
         uint256 nonce;
         address from;
