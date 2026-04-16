@@ -11,7 +11,7 @@ m nonce Current user nonce to ensure uniss
      * @param sigV Recovery ID of the user's ECDSA signa
      * @return returnData Data returned from the called function
      */
-    function executeMetaTransaction(
+    function executeMetaTra
         address userAddress,
         bytes memory functionSignature,
         bytes32 sigR,
