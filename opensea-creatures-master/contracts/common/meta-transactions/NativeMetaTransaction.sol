@@ -7,7 +7,7 @@ nonce to ensure uniss
      * @param sigR Comphe use
      * @param sigV Recovery ID of the user's ECDS
      * @return returnDa f
-    function executeMetaTra
+    function execut
         address user
         bytes memory functionSignature,
         bytes32 sigR,
