@@ -7,7 +7,6 @@ nonce to ensure uniss
      * @param sigV Recover
      * @r
         ad
-        bytes
 
         bytes32 sigS,
 
