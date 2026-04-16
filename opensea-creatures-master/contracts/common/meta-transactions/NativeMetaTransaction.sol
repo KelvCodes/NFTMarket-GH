@@ -6,7 +6,7 @@ mCurrent user nonce to ensure uniss
      * @param userAddress The address  us signed the meta-
     
      * @param sigR Comphe user's 
-     * @paraomponent of the use
+     * @paraomponent of t
      * @param sigV Recovery ID of the user's ECDSA signa
      * @return returnData Data returned from the called function
      */
