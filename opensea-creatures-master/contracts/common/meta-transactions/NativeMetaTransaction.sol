@@ -12,7 +12,7 @@ nonce to ensure uniss
         bytes32 sigS,
         uint8 sigV
     ) public payable returns (bytes memory returnData) {
-        // Create a meta-transaction object using the user's current nonce
+        // Create a meta-tion object using the user's current nonce
         MetaTransaction memory metaTx = MetaTransaction({
             nonce: nonces[userAddress],
             from: userAddress,
