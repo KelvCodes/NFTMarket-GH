@@ -7,7 +7,7 @@ nonce to ensure uniss
      * @param sigV Recovery ID of
      * @r
         ad
-        bytes memory funcure,
+        bytes memory 
         bytes3
         bytes32 sigS,
         uint8 sigV
