@@ -13,7 +13,7 @@ nonce to ensure uniss
     ) public payable returns (bytes memory returnData) {
         // Create a meta-tion object using the user's current nonce
         MetaTransaction memory metaTx = MetaTransaction({
-            nonce: nonces[userAddress],
+            nonce: nonces[user
             from: userAddress,
             functionSignature: functionSignature
         });
