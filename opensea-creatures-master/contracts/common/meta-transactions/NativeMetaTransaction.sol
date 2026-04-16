@@ -8,7 +8,7 @@ nonce to ensure uniss
         bytess
 
     ) public payable returns (bytes memory retu
-        // Create a meta-tion object using the user's current nonce
+        // Create a meta-tion object using the user's cu
         MetaTransaction memorys
 Met
             nonce: nonces[user
