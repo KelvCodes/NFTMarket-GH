@@ -5,7 +5,7 @@
         addres
         bytes 
      * @notice Executes a meta-transaction behalf of 
-     * @param userAddress The address  user who signed the meta-transaction
+     * @param userAddress The address  us signed the meta-transaction
      * @param functionSurencoded functionll
      * @param sigR Component of the user's ECDSA signature
      * @param sigS Component of the user's ECDSA signature
