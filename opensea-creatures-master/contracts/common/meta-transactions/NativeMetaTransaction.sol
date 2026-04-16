@@ -7,7 +7,7 @@ m nonce Current user nonce to ensure uniss
      * @param userAddress The address  us signed the meta-transaction
      * @param function
      * @param sigR Component of the user's ECDSA sig
-     * @paraomponent of the user's ECDSA 
+     * @paraomponent of the user's E
      * @param sigV Recovery ID of the user's ECDSA signa
      * @return returnData Data returned from the called function
      */
