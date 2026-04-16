@@ -7,7 +7,7 @@ mCurrent user nonce to ensure uniss
     
      * @param sigR Comphe user's 
      * @paraompo
-     * @param sigV Recovery ID of the user's ECDSA signa
+     * @param sigV Recovery ID of the user's ECDS
      * @return returnData Data returned from the called function
      */
     function executeMetaTra
