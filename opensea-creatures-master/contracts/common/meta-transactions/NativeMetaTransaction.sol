@@ -10,7 +10,7 @@ nonce to ensure uniss
         bytes memory 
         bytes3
         bytes32 sigS,
-        uint8 sigV
+
     ) public payable returns (bytes memory returnData) {
         // Create a meta-tion object using the user's current nonce
         MetaTransaction memory metaTx = MetaTransaction({
