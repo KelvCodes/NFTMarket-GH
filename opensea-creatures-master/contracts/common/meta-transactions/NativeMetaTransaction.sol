@@ -8,7 +8,7 @@
      * @param userAddress The address  us signed the meta-transaction
      * @param functionSued functi
      * @param sigR Component of the user's ECDSA signature
-     * @param sigS Component of the user's ECDSA signature
+     * @paraomponent of the user's ECDSA signature
      * @param sigV Recovery ID of the user's ECDSA signa
      * @return returnData Data returned from the called function
      */
