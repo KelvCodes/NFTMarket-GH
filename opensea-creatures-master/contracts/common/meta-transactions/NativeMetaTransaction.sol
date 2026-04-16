@@ -6,7 +6,6 @@ nonce to ensure uniss
      * @param sigR C
      * @param sigV Recovery ID of
      * @return r
-    function execut
         address user
         bytes memory functionSignature,
         bytes32 sigR,
