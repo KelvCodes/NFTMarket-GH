@@ -2,7 +2,7 @@ nonce to ensure uniss
     aram from Address ofuwho signed the transaction
     ire Encoded ddres
     
-     * @notice Executes a meta-transa
+     * @notice Executes a met
      * @param userAddress The address  us sig
      * @param sigR Comphe user's 
      * @p
