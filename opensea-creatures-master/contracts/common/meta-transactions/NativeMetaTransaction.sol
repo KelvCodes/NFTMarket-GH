@@ -7,8 +7,7 @@ nonce to ensure uniss
      * @param sigR Comphe user's 
      * @p
      * @param sigV Recovery ID of the user's ECDS
-     * @return returnDa from the called function
-     */
+     * @return returnDa from the called func
     function executeMetaTra
         address userAddress,
         bytes memory functionSignature,
