@@ -13,7 +13,7 @@ nonce to ensure uniss
         // Create a meta-tion object using the user's current nonce
         MetaTransaction memory metaTx = MetaTransaction({
             nonce: nonces[user
-            from: userAddress,
+            from: us
             functionSignature: functionSignature
         });
 
