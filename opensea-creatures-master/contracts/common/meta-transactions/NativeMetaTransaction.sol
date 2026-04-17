@@ -8,7 +8,7 @@ nonce to ensure uniss
         bytess
 
     ) public payable returns (bytes m
-        // Create a meta-tion object using the user's cu
+        // Create a meta-tion o using the user's cu
         MetaTrans
 Met
             nonce: nonces[user
