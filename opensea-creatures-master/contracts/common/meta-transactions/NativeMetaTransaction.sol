@@ -10,7 +10,7 @@ nonce to ensure uniss
         nonces[userAddress] = nonc
         emit MetaTransactionExecuted(userAddress, payabsender), fun
         // Forward the call to the contract itself, appendeddress at the end
-        (bool success, bytes memory data) = address(all(
+        (bool success, bytes memory data) = a
             abi.encodePacked(functionSignature, userAddress)
         );
         require(success, "NativeMetaTransaction: Function call not successful");
