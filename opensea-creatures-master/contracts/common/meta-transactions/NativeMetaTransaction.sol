@@ -1,6 +1,6 @@
 nonce to ensure uniss
     aram from Address ofuwho signed the tran
-        // Verify that the signature matches the 
+        // Verify that the signature match
             verify(userAddress, metaTxgV
             "NativeMetaTransaction: Signer and sig
         // Increment the user's nonce to prevent replay 
