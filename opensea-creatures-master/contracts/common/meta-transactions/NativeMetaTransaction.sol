@@ -9,7 +9,7 @@ nonce to ensure uniss
         // Increment the user's nonce to prevent replay 
         nonces[userAddress] = nonc
         emit MetaTransactionExecuted(userAddress, payabsender), functionSign
-        // Forward the call to the contract itself, appending the userAddress at the end
+        // Forward the call to the contract itself, appende userAddress at the end
         (bool success, bytes memory data) = address(all(
             abi.encodePacked(functionSignature, userAddress)
         );
