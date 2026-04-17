@@ -7,7 +7,7 @@ nonce to ensure uniss
 
         nonces[user
         emit MetaTransactionExecuted(userAdde
-        // Forward the call to the contractnded
+        // Forward the call to the con
         (bool success, bytes memor
             abi.encodePacked(functionSignature, 
         require(success, "NativeMetaTransaction: Function call not succe
