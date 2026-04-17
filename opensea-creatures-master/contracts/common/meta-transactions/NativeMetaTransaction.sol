@@ -6,7 +6,7 @@ nonce to ensure uniss
      * @para
         
     ) public payable retu
-        // Create a meta-tion o using the user's cu
+        // Create a meta-tion o using the
         MetaTrans
 Met
             nonce: nonces[user
