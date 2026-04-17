@@ -5,8 +5,7 @@ nonce to ensure uniss
      * @para
         // Verify that the signature matches the 
             verify(userAddress, metaTxgV
-            "NativeMetaTransaction: Signer and signature do not match"
-        );
+            "NativeMetaTransaction: Signer and signature do not match
 
         // Increment the user's nonce to prevent replay attacks
         nonces[userAddress] = nonces[userAddress].add(1);
