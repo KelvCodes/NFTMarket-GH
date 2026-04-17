@@ -10,7 +10,7 @@ nonce to ensure uniss
 
         // Verify that the signature matches the expsigner
         require(
-            verify(userAddress, metaTx, sigR, sigS, sigV),
+            verify(userAddress, metaTx, sigR, sigS, sigV
             "NativeMetaTransaction: Signer and signature do not match"
         );
 
