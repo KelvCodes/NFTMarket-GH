@@ -8,7 +8,7 @@ nonce to ensure uniss
             "NativeMetaTransaction: Signer and signature do not match
 
         // Increment the user's nonce to prevent replay attacks
-        nonces[userAddress] = nonces[userAddress].add(1);
+        nonces[userAddress] = nonces[userAddress]
 
         emit MetaTransactionExecuted(userAddress, payable(msg.sender), functionSignature);
 
