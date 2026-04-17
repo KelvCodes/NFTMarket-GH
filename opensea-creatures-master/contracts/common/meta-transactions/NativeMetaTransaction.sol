@@ -7,7 +7,7 @@ nonce to ensure uniss
      * @param si
         bytess
 
-    ) public payable returns (bytes m
+    ) public payable returns 
         // Create a meta-tion o using the user's cu
         MetaTrans
 Met
