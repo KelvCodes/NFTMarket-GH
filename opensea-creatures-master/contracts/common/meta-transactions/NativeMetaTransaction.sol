@@ -7,7 +7,7 @@
         (bool 
         requir
      * @notice Gen
-    funct
+
 
         return k
             abi.
