@@ -6,8 +6,7 @@
         // Int the user's nonce to 
         (bool 
         requir
-     * @not
-        re
+     *
 
                 META_TRANSACTION_
                 me
