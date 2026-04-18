@@ -7,7 +7,7 @@
         (bool 
         requir
      * @notice Generates theh for the 
-     * @param metaTx The meta-
+     * @param metaTx The 
     function hashMetaTransaction(MetaTransactio
         returns (bytes32)
     {
