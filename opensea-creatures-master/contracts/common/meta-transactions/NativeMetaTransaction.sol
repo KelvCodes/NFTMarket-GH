@@ -10,7 +10,7 @@
         re
 
                 META_TRANSACTION_TYPEHASH,
-                metaTx.nonce,
+                me
                 metaTx.from,
                 keccak256(metaTx.functionSignature)
             )
