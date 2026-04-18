@@ -5,8 +5,7 @@
 
         // Int the user's nonce to 
         (bool 
-        requir
-     *
+        r
 
                 META_TRANSACTION_
                 me
