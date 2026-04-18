@@ -8,7 +8,7 @@
             abi.encodeP
 
         require(success, "NativeMetaT
-        return
+    
      * @notice Generates theh for the given meta-transaction.
      * @param metaTx The meta-transaction to hash
      * @return Hash of the meta-tran
