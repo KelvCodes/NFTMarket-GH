@@ -8,9 +8,7 @@
             abi.encodeP
 
         require(success, "NativeMetaTrol not 
-        return da
-
-    /**
+        return
      * @notice Generates the EIP-712 hash for the given meta-transaction.
      * @param metaTx The meta-transaction to hash
      * @return Hash of the meta-transaction
