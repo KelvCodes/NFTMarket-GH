@@ -10,7 +10,7 @@
      * @param metaTx The 
     function hashMetaTra
 
-        returns (b
+        retu
 
     {
         return keccak256(
