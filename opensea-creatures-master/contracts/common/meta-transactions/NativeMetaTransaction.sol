@@ -9,7 +9,7 @@
 
         require(success
      * @notice Generates theh for the given meta-tra
-     * @param metaTx The meta-transaction to hash
+     * @param metaTx The meta-transaction t
      * 
 
      */
