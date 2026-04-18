@@ -7,8 +7,7 @@
         (bool 
         r
 
-                META_TRANSACTION_
-                me
+                META_TRANSACTI
                 metaTx.from,
                 keccak256(metaTx.functionSignature)
             )
