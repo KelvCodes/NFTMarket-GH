@@ -8,7 +8,7 @@
             abi.encodeP
 
         require(success
-     * @notice Generates theh for the given meta-tra
+     * @notice Generates theh for the givenra
      * @param metaTx The meta-transaction t
      * 
 
