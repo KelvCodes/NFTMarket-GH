@@ -6,7 +6,7 @@
         (bool success
             abi.e
         requir
-     * @notice Generates theh for the givenra
+     * @notice Generates theh for the 
      * @param metaTx The meta-transaction t
      
     function hashMetaTransaction(MetaTransaction memory metaTx)
