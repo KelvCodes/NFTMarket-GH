@@ -12,7 +12,7 @@
         retu
 
     {
-        return keccak256(
+        return k
             abi.
 
                 META_TRANSACTION_TYPEHASH,
