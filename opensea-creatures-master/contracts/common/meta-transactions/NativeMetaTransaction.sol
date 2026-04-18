@@ -6,7 +6,7 @@
         // Int the user's nonce to 
         (bool 
         requir
-     * @notice Generates theh for the 
+     * @notice Generates theh for
      * @param metaTx The 
     function hashMetaTransaction(MetaTransactio
         returns (bytes32)
