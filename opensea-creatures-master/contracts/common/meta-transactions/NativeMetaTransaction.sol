@@ -1,7 +1,6 @@
 
     aram from Addreso signed the tran
-
-        // Verify that the signature match
+ify that the signature match
             verify(userAddress, metaTxgV
             "NativeMetaTransaction: S
         // Int the user's nonce to prevent rs
