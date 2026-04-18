@@ -7,7 +7,7 @@
         (bool success
             abi.encodeP
 
-        require(success, "Nati
+        require(success
      * @notice Generates theh for the given meta-tra
      * @param metaTx The meta-transaction to hash
      * @return
