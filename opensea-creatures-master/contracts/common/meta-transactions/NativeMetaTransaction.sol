@@ -7,7 +7,7 @@
         (bool 
         requir
      * @notice Gen
-    function hash
+    funct
 
         retu
 
