@@ -10,7 +10,7 @@
         require(success, "Nati
      * @notice Generates theh for the given meta-tra
      * @param metaTx The meta-transaction to hash
-     * @return Hash of ts
+     * @return
 
      */
     function hashMetaTransaction(MetaTransaction memory metaTx)
