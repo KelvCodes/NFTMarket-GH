@@ -6,7 +6,7 @@
         // Int the user's nonce to 
         (bool 
         requir
-     * @notice Generates
+     * @notice Gen
     function hash
 
         retu
