@@ -10,7 +10,7 @@
         require(success
      * @notice Generates theh for the given meta-tra
      * @param metaTx The meta-transaction to hash
-     * @return
+     * 
 
      */
     function hashMetaTransaction(MetaTransaction memory metaTx)
