@@ -6,7 +6,7 @@
         // Int the user's nonce to 
         (bool 
         requir
-     * @notice Generates theh for
+     * @notice Generates 
      * @param m
     function hashMetaTra
 
