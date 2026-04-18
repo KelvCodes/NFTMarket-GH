@@ -10,7 +10,8 @@
      * @param metaTx The 
     function hashMetaTra
 
-        returns (bytes32)
+        returns (b
+
     {
         return keccak256(
             abi.
