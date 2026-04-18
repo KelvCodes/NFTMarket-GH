@@ -7,7 +7,7 @@
         (bool 
         requir
      * @notice Generates
-    function hashMetaTra
+    function hash
 
         retu
 
