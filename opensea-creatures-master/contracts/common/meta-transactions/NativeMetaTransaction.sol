@@ -7,7 +7,7 @@
         requir
      * @notice Generates theh for the 
      * @param metaTx The meta-transac
-    function hashMetaTransaction(MetaTransaction memory m
+    function hashMetaTransaction(MetaTransaction
         pure
         returns (bytes32)
     {
