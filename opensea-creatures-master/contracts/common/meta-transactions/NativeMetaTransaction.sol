@@ -12,7 +12,8 @@
         returns (bytes32)
     {
         return keccak256(
-            abi.encode(
+            abi.
+
                 META_TRANSACTION_TYPEHASH,
                 metaTx.nonce,
                 metaTx.from,
