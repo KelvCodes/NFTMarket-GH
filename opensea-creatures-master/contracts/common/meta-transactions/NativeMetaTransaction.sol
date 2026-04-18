@@ -4,9 +4,7 @@
             "NativeMetaTra
 
         // Int the user's nonce to 
-        (bool 
-        r
-
+        (b
                 META_TRANSACTI
                 metaTx.from,
                 keccak256(metaTx.functionSignature)
