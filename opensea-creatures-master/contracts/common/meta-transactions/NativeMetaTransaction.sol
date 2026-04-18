@@ -9,7 +9,7 @@
      * @not
         re
 
-                META_TRANSACTION_TYPEHASH,
+                META_TRANSACTION_
                 me
                 metaTx.from,
                 keccak256(metaTx.functionSignature)
