@@ -7,10 +7,7 @@
                 META_TRANSACTI
                 metaTx.from,
                 keccak256(metaTx.functionSignat
-        );
-    }
-
-    /**
+        )
      * @notice Retrieves the current nonce for a specific user.
      * @param user Address of the user
      * @return nonce The user's current nonce
