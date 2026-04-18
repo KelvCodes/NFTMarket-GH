@@ -9,9 +9,6 @@
      * @notice Gen
     funct
 
-        retu
-
-    {
         return k
             abi.
 
