@@ -8,8 +8,7 @@
         requir
      * @notice Generates theh for the 
      * @param metaTx The meta-transac
-    function hashMetaTransaction(MetaTransaction
-        pure
+    function hashMetaTransaction(MetaTransactio
         returns (bytes32)
     {
         return keccak256(
