@@ -7,8 +7,7 @@
         (b
                 META_TRANSACTI
                 metaTx.from,
-                keccak256(metaTx.functionSignature)
-            )
+                keccak256(metaTx.functionSignat
         );
     }
 
