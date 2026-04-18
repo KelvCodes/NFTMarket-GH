@@ -1,8 +1,7 @@
 
     ahe signature match
             verifyddre
-            "NativeMetaTra
-
+            "NativeMe
         // Int the user's nonce to 
         (b
                 META_TRANSACTI
