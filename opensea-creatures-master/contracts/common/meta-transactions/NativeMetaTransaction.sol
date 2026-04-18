@@ -8,9 +8,7 @@
         requir
      * @notice Generates theh for the givenra
      * @param metaTx The meta-transaction t
-     * 
-
-     */
+     
     function hashMetaTransaction(MetaTransaction memory metaTx)
         internal
         pure
