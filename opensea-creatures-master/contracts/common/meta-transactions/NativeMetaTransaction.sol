@@ -1,6 +1,6 @@
 
     ahe signature match
-            verifyddre
+            v
             "NativeMe
         // Int the user's nonce to 
         (b
