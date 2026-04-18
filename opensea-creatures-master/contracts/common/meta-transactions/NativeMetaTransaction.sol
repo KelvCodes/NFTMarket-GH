@@ -11,7 +11,7 @@
         return
      * @notice Generates the EIP-712 hash for the given meta-transaction.
      * @param metaTx The meta-transaction to hash
-     * @return Hash of the meta-transaction
+     * @return Hash of the meta-tran
      */
     function hashMetaTransaction(MetaTransaction memory metaTx)
         internal
