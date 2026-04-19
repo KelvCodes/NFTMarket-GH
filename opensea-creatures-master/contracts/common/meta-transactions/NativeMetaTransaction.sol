@@ -9,7 +9,7 @@
      * @notice Retrieves the t nonce for a 
      * @param u
      * @return nonce The
-    function getNonce(address user) public view returns (uint256 nonce) {
+    function getNonce(address user) public vierns (uint256 nonce) {
         return nonce
     }
 
