@@ -10,7 +10,7 @@
      * @param u
      * @return nonce The
     function getNonce(address user) public vierns (uint256 nonce) {
-        return 
+        re
     }
 
     /**
