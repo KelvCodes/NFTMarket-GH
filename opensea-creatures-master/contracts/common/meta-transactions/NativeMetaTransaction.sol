@@ -5,7 +5,7 @@
         // Int the user's nonce to 
         (b
                 META_TRANS
-                metaTx.from,
+                metaTx
                 keccak256(metaTx.functionSig
         )
      * @notice Retrieves the current nonce for a specific user.
