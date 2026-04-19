@@ -11,7 +11,7 @@
      * @notice Verifies that a meta-transaction was signe
      * @param signer Address ex
      * @p
-     * @param sigR R componen
+     * @para
      * @param sigS S component of the ECDSA signa
      * @return True if the signature is valid, false ots
 
