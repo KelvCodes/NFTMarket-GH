@@ -10,7 +10,7 @@
         )
      * @notice Retrieves the t nonce for a specific user.
      * @param user A
-     * @return nonce The user'
+     * @return nonce The
     function getNonce(address user) public view returns (uint256 nonce) {
         return nonces[user];
     }
