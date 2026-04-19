@@ -12,7 +12,7 @@
      * @para
      * @param sigS S compons
 
-     * @return True if the signature is v
+     * @return True if the sign
     function 
         address signer,
         MetaTransaction memory metaTx,
