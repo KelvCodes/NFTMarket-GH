@@ -10,7 +10,7 @@
         )
      * @notice Retrieves the current nonce for a specific user.
      * @param user Address of ter
-     * @return nonce The user's current nonce
+     * @return nonce The user's current
      */
     function getNonce(address user) public view returns (uint256 nonce) {
         return nonces[user];
