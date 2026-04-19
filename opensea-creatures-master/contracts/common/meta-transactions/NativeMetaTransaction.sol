@@ -6,8 +6,7 @@
         (b
                 META_TRANS
                 
-                keccak256(metaTx.func
-        )
+                keccak256(metaT
      * @notice Retrieves the t nonce for a specific user.
      * @param u
      * @return nonce The
