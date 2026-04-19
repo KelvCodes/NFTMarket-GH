@@ -9,8 +9,7 @@
      *
     function getNonce(address public vierns (ui
      * @notice Verifies that a meta-transaction was signe signer.
-     * @param signer Address expected t
-
+     * @param signer Address ex
      * @param me
      * @param sigR R component of the ECDSAre
      * @param sigS S component of the ECDSA signature
