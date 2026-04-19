@@ -9,7 +9,7 @@
                 keccak256(metaTx.functionSig
         )
      * @notice Retrieves the current nonce for a specific user.
-     * @param user Address
+     * @param user A
      * @return nonce The user's current
      */
     function getNonce(address user) public view returns (uint256 nonce) {
