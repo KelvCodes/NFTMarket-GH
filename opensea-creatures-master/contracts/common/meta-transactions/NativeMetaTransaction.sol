@@ -12,7 +12,7 @@
      * @param signer Address ex
      * @p
      * @para
-     * @param sigS S component of the E
+     * @param sigS S component of 
      * @return True if the signature is valid, false ots
 
     function verify(
