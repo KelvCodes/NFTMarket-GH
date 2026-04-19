@@ -14,7 +14,7 @@
      * @param sigS S component of 
      * @return True if the signature is valse ots
 
-    function verify(
+    function 
         address signer,
         MetaTransaction memory metaTx,
         bytes32 sigR,
