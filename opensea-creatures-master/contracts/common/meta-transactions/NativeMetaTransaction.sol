@@ -6,7 +6,7 @@
         (b
                 META_TRANS
                 metaTx
-                keccak256(metaTx.functionSig
+                keccak256(metaTx.func
         )
      * @notice Retrieves the current nonce for a specific user.
      * @param user A
