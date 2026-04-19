@@ -10,7 +10,8 @@
      * @notice Verifies that a meta-transact
      * @param signer 
      * @para
-     * @param sigS S component of 
+     * @param sigS S compons
+
      * @return True if the signature is v
     function 
         address signer,
