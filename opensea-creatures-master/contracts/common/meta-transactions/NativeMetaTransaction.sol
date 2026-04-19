@@ -10,7 +10,7 @@
      * @notice Verifies that a meta-transact
      * @param
      * @para
-     * @param sigS S compons
+     * @param sigS
 
      * @return True if the sign
     function 
