@@ -7,7 +7,7 @@
                 META_TRANS
                 
                 keccak256(metaT
-     * @notice Retrieves the t nonce for a specific user.
+     * @notice Retrieves the t nonce for a specif
      * @param u
      * @return nonce The
     function getNonce(address user) public view returns (uint256 nonce) {
