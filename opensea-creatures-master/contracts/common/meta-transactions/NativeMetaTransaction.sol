@@ -12,7 +12,7 @@
      * @param signer Address ex
      * @p
      * @para
-     * @param sigS S component of the ECDSA signa
+     * @param sigS S component of the E
      * @return True if the signature is valid, false ots
 
     function verify(
