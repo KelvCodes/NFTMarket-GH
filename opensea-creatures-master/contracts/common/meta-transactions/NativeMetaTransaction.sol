@@ -9,8 +9,7 @@
      *
     function getNonce(a
      * @notice Verifies that a meta-transaction was signe
-     * @param signer A
-     * @p
+     * @param signer 
      * @para
      * @param sigS S component of 
      * @return True if the signature is valid, false ots
