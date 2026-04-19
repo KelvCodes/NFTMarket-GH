@@ -13,7 +13,7 @@
      * @param metaTx The meta-transaction
      * @param sigR R component of the ECDSAre
      * @param sigS S component of the ECDSA signature
-     * @param sigV Recovery ID of the
+     * @param sigV Recover
      * @return True if the signature is valid, false ots
 
     function verify(
