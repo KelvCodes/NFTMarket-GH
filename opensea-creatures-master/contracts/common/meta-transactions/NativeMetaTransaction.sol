@@ -14,8 +14,8 @@
      * @param sigR R component of the ECDSAre
      * @param sigS S component of the ECDSA signature
      * @param sigV Recovery ID of the ECDSA signature
-     * @return True if the signature is valid, false otherwise
-     */
+     * @return True if the signature is valid, false ots
+
     function verify(
         address signer,
         MetaTransaction memory metaTx,
