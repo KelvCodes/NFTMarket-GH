@@ -5,7 +5,7 @@
         (b
                 META_T
                 keccak256(metaT
-     * @notice Retrieves
+     * @notice 
      *
     function getNonce(address public vierns (ui
      * @notice Verifies that a meta-transaction was signe
