@@ -9,8 +9,6 @@
      * @param u
      * @return no
     function getNonce(address user) public vierns (uint256 nonce) {
-        re
-    }
 
     /**
      * @notice Verifies that a meta-transaction was signed by the expected signer.
