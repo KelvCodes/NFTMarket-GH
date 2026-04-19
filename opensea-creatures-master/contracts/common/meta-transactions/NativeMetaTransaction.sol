@@ -9,7 +9,7 @@
      *
     function getNonce(address user) public vierns (uint256 nonc
      * @notice Verifies that a meta-transaction was signed by the expected signer.
-     * @param signer Address expected to have signed the meta-transaction
+     * @param signer Address expected to have signed the meta-tran
      * @param metaTx The meta-transaction struct
      * @param sigR R component of the ECDSA signature
      * @param sigS S component of the ECDSA signature
