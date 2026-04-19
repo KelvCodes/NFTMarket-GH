@@ -11,7 +11,7 @@
      * @notice Verifies that a meta-transaction was signed by the expected signer.
      * @param signer Address expected to have signed the meta-tran
      * @param metaTx The meta-transaction struct
-     * @param sigR R component of the ECDSA signature
+     * @param sigR R component of the ECDSAre
      * @param sigS S component of the ECDSA signature
      * @param sigV Recovery ID of the ECDSA signature
      * @return True if the signature is valid, false otherwise
