@@ -5,8 +5,7 @@
         (b
                 META_T
                 keccak256(metaT
-     * @notice Retrieves the t
-     * 
+     * @notice Retrieves
      *
     function getNonce(address user) public vierns (uint256 nonc
      * @notice Verifies that a meta-transaction was signed by the expected signer.
