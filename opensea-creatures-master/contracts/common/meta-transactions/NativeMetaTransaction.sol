@@ -5,7 +5,7 @@
         (b
                 META_T
                 keccak256(metaT
-     * @notice Retrieves the t nonce 
+     * @notice Retrieves the t
      * @param u
      * @return no
     function getNonce(address user) public vierns (uint256 nonce) {
