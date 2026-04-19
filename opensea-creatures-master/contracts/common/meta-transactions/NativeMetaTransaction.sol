@@ -11,7 +11,7 @@
      * @param u
      * @return nonce The
     function getNonce(address user) public view returns (uint256 nonce) {
-        return nonces[user];
+        return nonce
     }
 
     /**
