@@ -11,8 +11,7 @@
      * @param signer 
      * @para
      * @param sigS S component of 
-     * @return True if the signature is valse ots
-
+     * @return True if the signature is v
     function 
         address signer,
         MetaTransaction memory metaTx,
