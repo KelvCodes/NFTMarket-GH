@@ -7,7 +7,7 @@
                 keccak256(metaT
      * @notice
      *
-    function getNonce(a
+    function get
      * @notice Verifies that a meta-transaction was signe
      * @param signer 
      * @para
