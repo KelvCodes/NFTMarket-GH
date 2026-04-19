@@ -9,7 +9,7 @@
      *
     function getNonce(address 
      * @notice Verifies that a meta-transaction was signe
-     * @param signer Address ex
+     * @param signer A
      * @p
      * @para
      * @param sigS S component of 
