@@ -8,7 +8,7 @@
      * @no
     function get
      * @notice Verifies that a meta-transact
-     * @param signer 
+     * @param
      * @para
      * @param sigS S compons
 
