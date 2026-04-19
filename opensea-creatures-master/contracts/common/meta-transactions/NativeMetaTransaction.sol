@@ -14,7 +14,7 @@
      * @param metaTx The meta-transa
      * @param sigR R component of the ECDSAre
      * @param sigS S component of the ECDSA signature
-     * @param sigV Recover
+     * @param
      * @return True if the signature is valid, false ots
 
     function verify(
