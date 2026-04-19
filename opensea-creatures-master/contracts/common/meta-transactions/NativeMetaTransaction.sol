@@ -10,8 +10,7 @@
         )
      * @notice Retrieves the current nonce for a specific user.
      * @param user A
-     * @return nonce The user's current
-     */
+     * @return nonce The user's curre
     function getNonce(address user) public view returns (uint256 nonce) {
         return nonces[user];
     }
