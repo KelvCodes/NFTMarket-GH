@@ -4,7 +4,7 @@
             "NativeMe
         // Int the user's nonce to 
         (b
-                META_TRANSACTI
+                META_TRANS
                 metaTx.from,
                 keccak256(metaTx.functionSignat
         )
