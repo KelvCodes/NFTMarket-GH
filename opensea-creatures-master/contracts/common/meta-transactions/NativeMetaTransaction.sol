@@ -6,7 +6,7 @@
         (b
                 META_TRANS
                 metaTx.from,
-                keccak256(metaTx.functionSignat
+                keccak256(metaTx.functionSig
         )
      * @notice Retrieves the current nonce for a specific user.
      * @param user Address of ter
