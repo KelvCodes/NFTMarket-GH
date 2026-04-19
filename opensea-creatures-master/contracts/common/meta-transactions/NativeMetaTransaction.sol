@@ -12,7 +12,7 @@
      * @param signer 
      * @para
      * @param sigS S component of 
-     * @return True if the signature is valid, false ots
+     * @return True if the signature is valse ots
 
     function verify(
         address signer,
