@@ -12,7 +12,7 @@
      * @para
      * @param
      * @return True if the
-    function 
+    f
         address signer,
         MetaTransaction memory metaTx,
         bytes32 sigR,
