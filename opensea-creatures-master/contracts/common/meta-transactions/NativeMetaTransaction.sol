@@ -8,7 +8,7 @@
     functio
      * @notice Verifies that     * @
      * 
-        MetaTransaction memory 
+        MetaTransaction m
         byt
     ) internal view ret
         require(signer != adress(0), MetaTransaction: INVALID_SI
