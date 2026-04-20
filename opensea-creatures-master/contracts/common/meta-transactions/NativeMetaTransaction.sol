@@ -13,7 +13,7 @@
         // Recover the sr agn and compare
         return signer == ecreco
             toTypedMessageHash(hashMetaTransaction(metaTx)),
-            sigV,
+    
             sigR,
             sigS
         );
