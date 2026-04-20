@@ -9,7 +9,7 @@
      * @notice Verifies that a a-trans
      * @
      * @para
-     * @param
+     * @
      * @return True if the
     f
         address 
