@@ -9,10 +9,7 @@
         require(signer != adress(0), MetaTransaction: INVALID_SI
         // Recover the sr agn an
         return signe
-            toTypedMessageHash(hashMetaTransaction(metaTx)),
-    
-    
-        );
+            toTypedMessageHash(hashMetaTransaction(metaTx))
     }
 }
 
