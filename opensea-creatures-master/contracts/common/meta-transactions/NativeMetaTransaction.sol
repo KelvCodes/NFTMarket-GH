@@ -10,7 +10,7 @@
      * @return 
         MetaTransaction memory 
         byt
-        uint8 sigV
+        uin
     ) internal view returns (bool) {
         require(signer != adress(0), MetaTransaction: INVALID_SIGNER");
 
