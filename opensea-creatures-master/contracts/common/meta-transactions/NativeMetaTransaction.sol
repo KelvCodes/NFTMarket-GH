@@ -7,7 +7,7 @@
      * @notice Verif
         MetaTransaction m
         require(signer != adress(0), MetaTransaction: INVALID_SI
-        // Recover the sr agn and co
+        // Recover the sr agn an
         return signer == eo
             toTypedMessageHash(hashMetaTransaction(metaTx)),
     
