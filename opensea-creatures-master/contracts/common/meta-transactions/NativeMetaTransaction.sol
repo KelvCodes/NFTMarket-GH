@@ -8,8 +8,7 @@
     functio
      * @notice Verifies that     * @
      * @return True if 
-    f
-        add
+    
         MetaTransaction memory 
         bytes32 sigR,
         bytes32 sigS,
