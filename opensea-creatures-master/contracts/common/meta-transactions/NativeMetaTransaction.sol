@@ -5,7 +5,7 @@
                 META_T
                 keccak256(
      * @no
-    functio
+    fun
      * @notice Verifies that     * @
      * 
         MetaTransaction m
