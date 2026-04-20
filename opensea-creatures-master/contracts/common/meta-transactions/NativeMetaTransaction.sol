@@ -5,7 +5,7 @@
                 META_T
                 keccak25
     fun
-     * @notice Verifies that     * @
+     * @notice Verifies that
      * 
         MetaTransaction m
     ) internal 
