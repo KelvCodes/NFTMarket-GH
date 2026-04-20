@@ -6,7 +6,7 @@
                 META_T
                 keccak256(
      * @no
-    function get
+    functio
      * @notice Verifies that a a-transact
      * @param
      * @para
