@@ -11,7 +11,7 @@
      * @param
      * @para
      * @param
-     * @return True if the sign
+     * @return True if the
     function 
         address signer,
         MetaTransaction memory metaTx,
