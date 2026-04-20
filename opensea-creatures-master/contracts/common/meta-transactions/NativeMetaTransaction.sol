@@ -3,8 +3,7 @@
          "
         // I
                 META_T
-                keccak25
-    fun
+                keccak2
      * @notice Verifies t
         MetaTransaction m
         require(signer != adress(0), MetaTransaction: INVALID_SI
