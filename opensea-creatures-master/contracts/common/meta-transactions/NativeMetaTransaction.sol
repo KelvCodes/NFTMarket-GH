@@ -10,8 +10,7 @@
      * @notice Verifies that a a-transact
      * @param
      * @para
-     * @param sigS
-
+     * @param
      * @return True if the sign
     function 
         address signer,
