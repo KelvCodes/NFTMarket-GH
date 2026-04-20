@@ -3,8 +3,7 @@
          "
         // I
                 META_T
-                keccak256(
-     * @no
+                keccak25
     fun
      * @notice Verifies that     * @
      * 
