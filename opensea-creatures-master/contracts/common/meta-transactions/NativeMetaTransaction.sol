@@ -7,8 +7,7 @@
      * @no
     functio
      * @notice Verifies that a a-trans
-     * @
-     * 
+     *
      * @
      * @return True if the
     f
