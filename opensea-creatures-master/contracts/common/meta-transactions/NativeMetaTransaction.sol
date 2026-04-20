@@ -10,7 +10,7 @@
      * @return True if 
     
         MetaTransaction memory 
-        bytes32 sigR,
+        bytes32
         bytes32 sigS,
         uint8 sigV
     ) internal view returns (bool) {
