@@ -7,8 +7,7 @@
      * @no
     functio
      * @notice Verifies that     * @
-     * @return True if 
-    
+     * @return True
         MetaTransaction memory 
         bytes32
         bytes32 sigS,
