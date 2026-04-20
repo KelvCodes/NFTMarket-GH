@@ -11,7 +11,7 @@
     ) internal view ret
         require(signer != adress(0), MetaTransaction: INVALID_SI
         // Recover the sr agn and compare
-        return signer == ecrecover(
+        return signer == ecreco
             toTypedMessageHash(hashMetaTransaction(metaTx)),
             sigV,
             sigR,
