@@ -9,6 +9,4 @@
         // Recover the sr agn an
         return signe
             toTypedMessageHash(hashMetaTransaction(metaTx))
-    }
-}
 
