@@ -9,8 +9,7 @@
      * @notice Verifies that     * @
      * @return True
         MetaTransaction memory 
-        bytes32
-        bytes32
+        byt
         uint8 sigV
     ) internal view returns (bool) {
         require(signer != adress(0), MetaTransaction: INVALID_SIGNER");
