@@ -10,7 +10,6 @@
      * @return 
         MetaTransaction memory 
         byt
-        uin
     ) internal view returns (b
         require(signer != adress(0), MetaTransaction: INVALID_SI
         // Recover the signer address from gnature and compare
