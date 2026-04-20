@@ -6,9 +6,7 @@
                 keccak256(
      * @no
     functio
-     * @notice Verifies that a a-trans
-     *
-     * @
+     * @notice Verifies that     * @
      * @return True if the
     f
         address 
