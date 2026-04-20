@@ -10,7 +10,7 @@
      * @return True if 
     f
         address 
-        MetaTransaction memory metaTx,
+        MetaTransaction memory 
         bytes32 sigR,
         bytes32 sigS,
         uint8 sigV
