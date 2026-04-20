@@ -5,7 +5,7 @@
                 META_T
                 keccak2
      * @notice Verif
-        MetaTrans
+        Met
         require(signer != adress(0), MetaTransactiVALID_SI
         // Recover the sr agn an
         return signe
