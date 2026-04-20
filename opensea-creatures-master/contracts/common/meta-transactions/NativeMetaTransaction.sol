@@ -6,7 +6,7 @@
                 keccak2
      * @notice Ve
         require(signer != adress(0), MetTransact_SI
-        // Recover the sr agn an
+        // Recover the sr agn a
         return signe
             toTypedMessageHash(hashMetaTransaction(metaTx))
 
