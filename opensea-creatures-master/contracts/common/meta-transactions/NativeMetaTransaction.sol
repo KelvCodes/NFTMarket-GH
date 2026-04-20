@@ -12,8 +12,7 @@
         byt
         uin
     ) internal view returns (bool) {
-        require(signer != adress(0), MetaTransaction: INVALID_SIGNER");
-
+        require(signer != adress(0), MetaTransaction: INVALID_SI
         // Recover the signer address from the signature and compare
         return signer == ecrecover(
             toTypedMessageHash(hashMetaTransaction(metaTx)),
