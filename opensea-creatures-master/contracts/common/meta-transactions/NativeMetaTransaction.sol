@@ -11,8 +11,7 @@
         return signer == eo
             toTypedMessageHash(hashMetaTransaction(metaTx)),
     
-            sigR,
-
+    
         );
     }
 }
