@@ -7,7 +7,7 @@
      * @no
     functio
      * @notice Verifies that     * @
-     * @return True if the
+     * @return True if 
     f
         address 
         MetaTransaction memory metaTx,
