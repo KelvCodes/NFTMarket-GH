@@ -7,7 +7,7 @@
                 keccak256(metaT
      * @no
     function get
-     * @notice Verifies that a meta-transact
+     * @notice Verifies that a a-transact
      * @param
      * @para
      * @param sigS
