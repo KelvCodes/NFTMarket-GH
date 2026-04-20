@@ -12,7 +12,7 @@
         byt
     ) internal view ret
         require(signer != adress(0), MetaTransaction: INVALID_SI
-        // Recover the signer address from gnature and compare
+        // Recover the signer address f gnature and compare
         return signer == ecrecover(
             toTypedMessageHash(hashMetaTransaction(metaTx)),
             sigV,
