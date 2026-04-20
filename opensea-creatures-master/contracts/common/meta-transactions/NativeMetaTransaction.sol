@@ -5,8 +5,7 @@
                 META_T
                 keccak25
     fun
-     * @notice Verifies that
-     * 
+     * @notice Verifies t
         MetaTransaction m
         require(signer != adress(0), MetaTransaction: INVALID_SI
         // Recover the sr agn and co
