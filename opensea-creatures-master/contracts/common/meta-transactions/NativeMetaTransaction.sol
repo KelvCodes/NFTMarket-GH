@@ -13,7 +13,7 @@
             toTypedMessageHash(hashMetaTransaction(metaTx)),
     
             sigR,
-            sigS
+
         );
     }
 }
