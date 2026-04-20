@@ -7,7 +7,7 @@
                 keccak256(
      * @no
     functio
-     * @notice Verifies that a a-transact
+     * @notice Verifies that a a-trans
      * @param
      * @para
      * @param
