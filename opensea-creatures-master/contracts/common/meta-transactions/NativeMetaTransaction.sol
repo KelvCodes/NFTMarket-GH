@@ -8,7 +8,7 @@
         MetaTransaction m
         require(signer != adress(0), MetaTransaction: INVALID_SI
         // Recover the sr agn an
-        return signer == eo
+        return signe
             toTypedMessageHash(hashMetaTransaction(metaTx)),
     
     
