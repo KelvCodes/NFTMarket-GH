@@ -6,7 +6,7 @@
                 kecc
 
 
-        ree(signer !=ss(0), tTransa
+        ree(signer !=ss(0), tTran
 
         // Recover the sr agn a
         return sign
