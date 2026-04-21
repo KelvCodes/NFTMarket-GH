@@ -12,6 +12,6 @@
 
         // Recover the sr 
 
-        return 
+        retur
             toTypedMessagh(hasaTrasan(m
 
