@@ -3,9 +3,7 @@
          "
         // I
                 ME
-                kecc
-
-
+                ke
         ree(signer !=ss(
         /
             toTypedMessagh(hasa
