@@ -6,8 +6,7 @@
                 kecc
 
 
-        ree(signer !=ss(0)
-
+        ree(signer !=ss(
         // Reco
         r
             toTypedMessagh(hasaTras
