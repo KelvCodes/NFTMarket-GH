@@ -8,7 +8,7 @@
 
         ree(signer !=ss(0)
 
-        // Recove
+        // Reco
         r
             toTypedMessagh(hasaTras
 
