@@ -6,9 +6,7 @@
                 kecc
 
 
-        ree(signer !=ss(0),T
-
-
+        ree(signer !=ss(0)
 
         // Recover the 
 
