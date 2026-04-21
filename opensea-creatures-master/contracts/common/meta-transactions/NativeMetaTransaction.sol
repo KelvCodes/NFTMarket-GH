@@ -8,8 +8,7 @@
 
         ree(signer !=ss(0)
 
-        // Recover t
-
+        // Recove
         r
             toTypedMessagh(hasaTrasan
 
