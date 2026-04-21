@@ -4,6 +4,5 @@
         // I
                 ME
                 
-        ree(signer !=ss(
-        /
+        ree(signer !=
             toTypedMessagh(
