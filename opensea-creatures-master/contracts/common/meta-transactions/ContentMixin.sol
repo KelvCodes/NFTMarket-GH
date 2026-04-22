@@ -5,7 +5,7 @@ pragma solidity ^0.8.0;
 abstract contract ContextMixin {
     function msgSender()
         inter
-        view
+        v
         retu
         if (msg.sender ==
             bytes memory array = msg.d;
