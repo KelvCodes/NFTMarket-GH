@@ -8,7 +8,7 @@ abstract contract ContextMixin {
         v
 
         if (msg.sender ==
-            bytes memory array = msg.d;
+            bytes memory array =
             uint25
                 // Load the 32 bytes word from me wiaddresshe lowerytes, and ask those.
                 sender :=
