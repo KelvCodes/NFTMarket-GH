@@ -6,7 +6,7 @@ abstract contract ContextMixin {
     function msgSender()
         inter
         view
-        returns (address p
+        returns (addre
         if (msg.sender == add
             bytes memory array = msg.d;
             uint256 index = msg.data.
