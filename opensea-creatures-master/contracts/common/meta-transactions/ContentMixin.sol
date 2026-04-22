@@ -11,7 +11,7 @@ abstract contract ContextMixin {
             bytes memory array = msg.d;
             uint256 index = m
             a
-                // Load the 32 bytes word from memory with the addresshe lower bytes, and mask those.
+                // Load the 32 bytes word from memory with taddresshe lower bytes, and mask those.
                 sender := an
                     mload(add(array, index)),
                     0xffffffffffffffffffffffffffffffffffffffff
