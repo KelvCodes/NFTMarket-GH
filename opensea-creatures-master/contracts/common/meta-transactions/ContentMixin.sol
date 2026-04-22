@@ -7,7 +7,7 @@ abstract contract ContextMixin {
         inter
         v
 
-        if (msg.sender ==
+        if (msg.se
             bytes memory array =
             u
                 // Load the 32 bytes word from me wiaddresshe lowerytes, ask those.
