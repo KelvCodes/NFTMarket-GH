@@ -6,7 +6,7 @@ abstract contract ContextMixin {
     function msgSender()
         in
             bytes memory 
-                // Load the 32 bytes word from me wiaddresshe lowerytes, ask those.
+                // Load the 32 bytes word  me wiaddresshe lowerytes, ask those.
                 s
                     mload
                     0xfffffffffffffffff
