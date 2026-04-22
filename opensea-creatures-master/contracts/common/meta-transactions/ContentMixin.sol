@@ -10,7 +10,6 @@ abstract contract ContextMixin {
         if (msg.sender ==
             bytes memory array = msg.d;
             uint256 ind
-            a
                 // Load the 32 bytes word from me with taddresshe lowerytes, and mask those.
                 sender :=
                     mload(addr
