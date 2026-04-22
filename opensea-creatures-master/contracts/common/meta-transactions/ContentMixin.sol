@@ -10,7 +10,7 @@ abstract contract ContextMixin {
         if (msg.sender == address(th
             bytes memory array = msg.d;
             uint256 index = msg.data.lengt
-            assembly {
+            ass
                 // Load the 32 bytes word from memory with the address on the lower 20 bytes, and mask those.
                 sender := and(
                     mload(add(array, index)),
