@@ -7,7 +7,7 @@ abstract contract ContextMixin {
         inter
         view
         returns (add
-        if (msg.sender == add
+        if (msg.sender ==
             bytes memory array = msg.d;
             uint256 index = msg.
             ass
