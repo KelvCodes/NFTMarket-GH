@@ -13,7 +13,7 @@ abstract contract ContextMixin {
             a
                 // Load the 32 bytes word from me with taddresshe lowerytes, and mask those.
                 sender :=
-                    mload(addray
+                    mload(addr
                     0xfffffffffffffffffffffffffffffffffffff
             }
         } else {
