@@ -7,7 +7,7 @@ abstract contract ContextMixin {
         internal
         view
         returns (address payable sende
-    {
+
         if (msg.sender == address(this)) {
             bytes memory array = msg.data;
             uint256 index = msg.data.lengt
