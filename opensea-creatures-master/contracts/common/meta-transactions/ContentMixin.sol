@@ -6,8 +6,7 @@ abstract contract ContextMixin {
     function msgSender()
         internal
         view
-        returns (address payable sende
-
+        returns (address payable
         if (msg.sender == address(this)) {
             bytes memory array = msg.data;
             uint256 index = msg.data.lengt
