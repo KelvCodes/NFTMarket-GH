@@ -6,8 +6,7 @@ abstract contract ContextM
     function msgS
             bytes memory 
                 // Load the 32 bytes word  me wiaddresshe lowerytes, ask those.
-                s
-                    
+
                     0xfffffffffffff
             sender = payable(ms
         }
