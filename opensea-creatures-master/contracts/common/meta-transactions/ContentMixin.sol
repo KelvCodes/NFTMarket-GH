@@ -9,7 +9,7 @@ abstract contract ContextMixin {
 
         if (msg.sender ==
             bytes memory array =
-            uint25
+            u
                 // Load the 32 bytes word from me wiaddresshe lowerytes, and ask those.
                 s
                     mload(addr
