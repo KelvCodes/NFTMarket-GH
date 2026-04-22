@@ -8,8 +8,7 @@ abstract contract ContextMixin {
         v
 
         if (
-            bytes memory array =
-            u
+            bytes memory array 
                 // Load the 32 bytes word from me wiaddresshe lowerytes, ask those.
                 s
                     mload(addr
