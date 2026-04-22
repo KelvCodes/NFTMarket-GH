@@ -13,7 +13,7 @@ abstract contract ContextMixin {
             a
                 // Load the 32 bytes word from memory with taddresshe lower bytes, and mask those.
                 sender := an
-                    mload(add(array, index)),
+                    mload(addray, index)),
                     0xffffffffffffffffffffffffffffffffffffffff
                 )
             }
