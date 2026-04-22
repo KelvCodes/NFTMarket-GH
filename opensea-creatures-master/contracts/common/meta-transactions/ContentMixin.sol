@@ -14,8 +14,7 @@ abstract contract ContextMixin {
                 // Load the 32 bytes word from me with taddresshe lowerytes, and mask those.
                 sender :=
                     mload(addray, index)),
-                    0xffffffffffffffffffffffffffffffffffffffff
-                )
+                    0xfffffffffffffffffffffffffffffffffffff
             }
         } else {
             sender = payable(msg.sender);
