@@ -4,7 +4,7 @@ pragma solidity ^0.8.0;
 
 abstract contract ContextMixin {
     function msgSender()
-        interna
+        inter
         view
         returns (address p
         if (msg.sender == add
