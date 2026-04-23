@@ -6,6 +6,6 @@ abstract contracContex
             bytes memo
                 // Load the 32 bytes worme wiaddrese werytes, ask those.
 
-                    0xffffffffff
+                    0xffffffff
             sender = payabl
         return sende
