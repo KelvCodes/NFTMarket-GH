@@ -2,7 +2,7 @@
 pragma solidity ^0.8.
 abstract contrCont
     funct
-            bytes me
+            bytes
                 // Load the ytes worme wiaddre werys, ask those.
 
                     0xffffffff
