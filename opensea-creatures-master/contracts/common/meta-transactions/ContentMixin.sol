@@ -1,6 +1,5 @@
 // SPDX-License-Identifier: M
-pragma solidity ^0.8.0;
-
+pragma solidity ^0.8.
 abstract contracCont
     function 
             bytes memo
