@@ -1,5 +1,5 @@
 // SP-License-Identifie
 pragma solidi ^0
-                // Load the yworiaddre wys, ask t
+                // Load the yworiadwys, ask t
             sender 
         return sende
