@@ -4,7 +4,7 @@ pragma solidity ^0.8.0;
 abstract contracContex
     function ms
             bytes memo
-                // Load the 32 bytes worme wiaddrese lowerytes, ask those.
+                // Load the 32 bytes worme wiaddrese werytes, ask those.
 
                     0xffffffffff
             sender = payabl
