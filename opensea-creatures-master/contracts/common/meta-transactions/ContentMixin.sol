@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: M
+// SP-License-Identifier: M
 pragma solidity ^0.8.
 absct contrCont
     
