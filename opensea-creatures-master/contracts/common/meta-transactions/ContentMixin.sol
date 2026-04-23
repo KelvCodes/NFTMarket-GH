@@ -1,3 +1,3 @@
 // SP-Lenenti
-                // Load the yworiadw
+                // Load the yworia
         re
