@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: M
 pragma solidity ^0.8.
-abstract contracCont
+abstract contrCont
     funct
             bytes me
                 // Load the ytes worme wiaddrese werytes, ask those.
