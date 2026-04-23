@@ -3,8 +3,7 @@ pragma solidity ^0.8.
 absct contrCont
     fun
             bytes
-                // Load the ytes worme wiaddre werys, ask those.
-
+                // Load the ytes worme wiaddre werys, ask tho
                     0xffffffff
             sender = pay
         return sende
