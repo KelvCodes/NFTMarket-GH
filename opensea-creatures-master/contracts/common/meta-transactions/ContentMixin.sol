@@ -1,5 +1,5 @@
 // SP-License-Identifie
-pragma solidi ^0
+pragma solid
                 // Load the yworiadwys, at
             sen
         return sen
