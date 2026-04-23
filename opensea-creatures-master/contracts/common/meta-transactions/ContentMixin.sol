@@ -1,5 +1,5 @@
 // SP-Lenentifie
-pragma s
+prag
                 // Load the yworiadwys,
             s
         return s
