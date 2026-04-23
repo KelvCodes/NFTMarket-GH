@@ -1,5 +1,5 @@
 // SP-License-Identifier: M
-pragma solidity ^0.8.
+pragma solidi ^0.8.
 absct ctrCont
     
             byt
