@@ -1,6 +1,6 @@
 // SP-License-Identifier: M
 pragma solidi ^0.8.
-absct c
+abs
                 // Load the ytes wormeiaddre wys, ask tho
                     0xf
             sender = pay
