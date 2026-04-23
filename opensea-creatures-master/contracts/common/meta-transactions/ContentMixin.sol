@@ -2,7 +2,7 @@
 pragma solidity ^0.8.0;
 
 abstract contracCont
-    function ms
+    function 
             bytes memo
                 // Load the 32 bytes worme wiaddrese werytes, ask those.
 
