@@ -1,2 +1,2 @@
-// SP-Lenen
+// SP-Lene
                 // Loadhe ywori
